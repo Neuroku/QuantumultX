@@ -1,0 +1,7 @@
+# The goal is to divert the Youtube App to achieve Picture-in-Picture mode through the US Policy Group.
+DOMAIN-SUFFIX,oauth2.googleapis.com  
+DOMAIN-SUFFIX,i.ytimg.com  
+DOMAIN-SUFFIX,app-analytics-services.com  
+DOMAIN-SUFFIX,yt3.ggpht.com  
+DOMAIN-SUFFIX,googlevideo.com  
+DOMAIN-SUFFIX,youtube.com

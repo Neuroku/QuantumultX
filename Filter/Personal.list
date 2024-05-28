@@ -1,0 +1,42 @@
+# Pay, Gov & Bilibili          
+# Pay DIRECT          
+DOMAIN-SUFFIX,12306.cn          
+DOMAIN-SUFFIX,189.cn          
+DOMAIN-SUFFIX,360buying.com          
+DOMAIN-SUFFIX,95516.com          
+DOMAIN-SUFFIX,aliapp.org          
+DOMAIN-SUFFIX,alicdn.com          
+DOMAIN-SUFFIX,aliyuncs.com          
+DOMAIN-SUFFIX,alibabausercontent.com          
+DOMAIN-SUFFIX,alipay.com          
+DOMAIN-SUFFIX,alipay.com.cn          
+DOMAIN-SUFFIX,alipayobjects.com          
+DOMAIN-SUFFIX,cup.com.cn          
+DOMAIN-SUFFIX,ctrip.com          
+DOMAIN-SUFFIX,ctripins.com          
+DOMAIN-SUFFIX,dianping.com          
+DOMAIN-SUFFIX,jd.com          
+DOMAIN-SUFFIX,jdpay.com          
+DOMAIN-SUFFIX,meituan.com          
+DOMAIN-SUFFIX,meituan.net          
+DOMAIN-SUFFIX,taobao.com          
+DOMAIN-SUFFIX,tripcdn.cn          
+DOMAIN-SUFFIX,wechatpay.cn          
+
+# gov, edu.cn, chsi.com.cn          
+DOMAIN-SUFFIX,gov.cn          
+DOMAIN-SUFFIX,edu.cn          
+DOMAIN-SUFFIX,chsi.com.cn          
+
+# bilibili          
+DOMAIN-SUFFIX,bilibili.com          
+DOMAIN-SUFFIX,biliapi.com          
+DOMAIN-SUFFIX,bilivideo.com          
+
+# My-server          
+DOMAIN-SUFFIX,kechang.fun          
+DOMAIN-SUFFIX,kechang.dev          
+DOMAIN-SUFFIX,6b.fit          
+DOMAIN-SUFFIX,kechang.top          
+DOMAIN-SUFFIX,acput.cn          
+DOMAIN-SUFFIX,kechang.uk
