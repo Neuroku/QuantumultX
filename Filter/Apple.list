@@ -1,26 +1,26 @@
 # Apple Ads
-include:apple-ads
+#include:apple-ads
 
 # Apple Development
-include:apple-dev
+#include:apple-dev
 
 # Apple PKI
-include:apple-pki
+#include:apple-pki
 
 # Apple Update
-include:apple-update
+#include:apple-update
 
 # Beats by Dre
-include:beats
+#include:beats
 
 # iCloud
-include:icloud
+#include:icloud
 
 # iTunes
-include:itunes
+#include:itunes
 
 # Swift
-include:swift
+#include:swift
 
 # All Apple domains
 domain:apple
