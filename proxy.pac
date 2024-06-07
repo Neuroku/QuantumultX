@@ -1,23 +1,35 @@
 function FindProxyForURL(url, host) {
-    if (isPlainHostName(host) || dnsDomainIs(host, ".local")) {
+    if (/(^127\.)|(^192\.168\.)|(^172\.1[6-9]\.)|(^172\.2[0-9]\.)|(^172\.3[0-1]\.)/.test(dnsResolve(host))) {
         return "DIRECT";
     }
-    var directAddresses = [
-//        { ip: "10.0.0.0", mask: "255.0.0.0" },
-        { ip: "127.0.0.0", mask: "255.0.0.0" },
-        { ip: "172.16.0.0", mask: "255.240.0.0" },
-        { ip: "192.168.0.0", mask: "255.255.0.0" },
-        { ip: "224.0.0.0", mask: "255.255.255.0" },
-        { ip: "172.20.10.2", mask: "255.255.255.255" }, 
-        { ip: "172.20.10.3", mask: "255.255.255.255" },
-        { ip: "169.254.0.0", mask: "255.255.0.0" },
-        { ip: "127.20.10.0", mask: "255.255.255.0" }
+
+    var appleDomains = [
+        "akadns.net",
+        "apple.com",
+        "aaplimg.com",
+        "qtlcdn.com",
+        "akamai.net",
+        "akamaiedge.net",
+        "ks-cdn.com",
+        "ksyuncdn.com",
+        "applemusic.com",
+        "blobstore.apple.com",
+        "music.apple.com",
+        "aod.itunes.apple.com",
+        "aod-ssl.itunes.apple.com",
+        "audio.itunes.apple.com",
+        "audio-ssl.itunes.apple.com",
+        "mvod.itunes.apple.com",
+        "streamingaudio.itunes.apple.com",
+        "split.io"
     ];
-    var resolvedIP = dnsResolve(host);
-    for (var i = 0; i < directAddresses.length; i++) {
-        if (isInNet(resolvedIP, directAddresses[i].ip, directAddresses[i].mask)) {
+
+    for (var i = 0; i < appleDomains.length; i++) {
+        if (shExpMatch(host, "*" + appleDomains[i]) || shExpMatch(url, "*" + appleDomains[i])) {
+            // return "PROXY 172.20.10.1:7891";
             return "DIRECT";
         }
     }
+
     return "SOCKS5 172.20.10.1:7890";
 }
