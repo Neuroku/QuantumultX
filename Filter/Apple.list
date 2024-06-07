@@ -1,26 +1,26 @@
 # Apple Ads
-#include:apple-ads
+URL-REGEX,^https?://.*apple-ads.*
 
 # Apple Development
-#include:apple-dev
+URL-REGEX,^https?://.*apple-dev.*
 
 # Apple PKI
-#include:apple-pki
+URL-REGEX,^https?://.*apple-pki.*
 
 # Apple Update
-#include:apple-update
+URL-REGEX,^https?://.*apple-update.*
 
 # Beats by Dre
-#include:beats
+URL-REGEX,^https?://.*beats.*
 
 # iCloud
-#include:icloud
+URL-REGEX,^https?://.*icloud.*
 
 # iTunes
-#include:itunes
+URL-REGEX,^https?://.*itunes.*
 
 # Swift
-#include:swift
+URL-REGEX,^https?://.*swift.*
 
 # All Apple domains
 domain:apple
