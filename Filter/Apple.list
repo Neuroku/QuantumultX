@@ -22,6 +22,10 @@ HOST-KEYWORD, itunes
 # Swift
 HOST-KEYWORD, swift
 
+# CDN
+DOMAIN-SUFFIX, qtlcdn.com
+DOMAIN-SUFFIX, akadns.net
+
 # All Apple domains
 DOMAIN-SUFFIX,apple.ae
 DOMAIN-SUFFIX,apple.at
