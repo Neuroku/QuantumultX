@@ -1,28 +1,28 @@
 # Apple Ads
-HOST-SUFFIX, apple-ads
+HOST-KEYWORD, apple-ads
 
 # Apple Development
-HOST-SUFFIX, apple-dev
+HOST-KEYWORD, apple-dev
 
 # Apple PKI
-HOST-SUFFIX, apple-pki
+HOST-KEYWORD, apple-pki
 
 # Apple Update
-HOST-SUFFIX, apple-update
+HOST-KEYWORD, apple-update
 
 # Beats by Dre
-HOST-SUFFIX, beats
+HOST-KEYWORD, beats
 
 # iCloud
-HOST-SUFFIX, icloud
+HOST-KEYWORD, icloud
 
 # iTunes
-HOST-SUFFIX, itunes
+HOST-KEYWORD, itunes
 
 # Swift
-HOST-SUFFIX, swift
+HOST-KEYWORD, swift
+
 # All Apple domains
-# domain:apple
 DOMAIN-SUFFIX,apple.ae
 DOMAIN-SUFFIX,apple.at
 DOMAIN-SUFFIX,apple.be
