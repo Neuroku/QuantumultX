@@ -33,7 +33,7 @@ domain-suffix:apple.ca
 domain-suffix:apple.ch
 domain-suffix:apple.cl
 domain-suffix:apple.cm
-domain-suffix:apple.cn @cn
+domain-suffix:apple.cn
 domain-suffix:apple.co
 domain-suffix:apple.co.cr
 domain-suffix:apple.co.hu
@@ -48,7 +48,7 @@ domain-suffix:apple.com.af
 domain-suffix:apple.com.au
 domain-suffix:apple.com.bo
 domain-suffix:apple.com.br
-domain-suffix:apple.com.cn @cn
+domain-suffix:apple.com.cn
 domain-suffix:apple.com.co
 domain-suffix:apple.com.de
 domain-suffix:apple.com.do
@@ -120,7 +120,7 @@ domain-suffix:apple.xyz
 
 # Apple Store
 domain-suffix:aplestore.com
-domain-suffix:apple-store.cn @cn
+domain-suffix:apple-store.cn
 domain-suffix:apple-store.net
 domain-suffix:apple-store.wang
 domain-suffix:applestor.com
@@ -128,7 +128,7 @@ domain-suffix:applestore.bg
 domain-suffix:applestore.cc
 domain-suffix:applestore.ch
 domain-suffix:applestore.cm
-domain-suffix:applestore.cn @cn
+domain-suffix:applestore.cn
 domain-suffix:applestore.co.hu
 domain-suffix:applestore.co.jp
 domain-suffix:applestore.co.ug
@@ -136,7 +136,7 @@ domain-suffix:applestore.co.uk
 domain-suffix:applestore.com
 domain-suffix:applestore.com.au
 domain-suffix:applestore.com.bn
-domain-suffix:applestore.com.cn @cn
+domain-suffix:applestore.com.cn
 domain-suffix:applestore.com.ee
 domain-suffix:applestore.com.eg
 domain-suffix:applestore.com.gr
@@ -168,8 +168,8 @@ domain-suffix:onlineapplestore.com
 # App Store
 domain-suffix:app-store.wang
 domain-suffix:appe-store.com
-domain-suffix:apple-appstore.cn @cn
-domain-suffix:appleappstore.cn @cn
+domain-suffix:apple-appstore.cn
+domain-suffix:appleappstore.cn
 domain-suffix:appleappstore.net
 domain-suffix:appleappstore.tv
 domain-suffix:appsto.re
@@ -177,7 +177,7 @@ domain-suffix:appstore.co.id
 domain-suffix:appstore.hk
 domain-suffix:appstore.my
 domain-suffix:appstore.ph
-domain-suffix:appstoreapple.cn @cn
+domain-suffix:appstoreapple.cn
 domain-suffix:asto.re
 domain-suffix:tvappstore.net
 
@@ -235,7 +235,7 @@ domain-suffix:fundaiphone5s.com
 domain-suffix:hebiphone.com
 domain-suffix:hf-iphone.com
 domain-suffix:iphine.com
-domain-suffix:iphone-8.com.cn @cn
+domain-suffix:iphone-8.com.cn
 domain-suffix:iphone-cd.com
 domain-suffix:iphone-cn.com
 domain-suffix:iphone-sh.com
@@ -276,7 +276,7 @@ domain-suffix:iphone5.wang
 domain-suffix:iphone5cases.com
 domain-suffix:iphone5deals.co.uk
 domain-suffix:iphone5stores.com
-domain-suffix:iphone6.cn @cn
+domain-suffix:iphone6.cn
 domain-suffix:iphone6.com
 domain-suffix:iphone6.es
 domain-suffix:iphone6.hk
@@ -332,7 +332,7 @@ domain-suffix:ipodjailbreak.com
 domain-suffix:ipodnet.com.br
 domain-suffix:ipodrepair.ca
 domain-suffix:ipods.cm
-domain-suffix:ipodsoftware.cn @cn
+domain-suffix:ipodsoftware.cn
 domain-suffix:ipodstore.ca
 domain-suffix:ipodstore.com.br
 domain-suffix:ipodtvshows.net
@@ -357,8 +357,8 @@ domain-suffix:macapps.hk
 domain-suffix:macappsstore.com
 domain-suffix:macbooks.com.au
 domain-suffix:macf.com
-domain-suffix:macf.cn @cn
-domain-suffix:macfree.com.cn @cn
+domain-suffix:macf.cn
+domain-suffix:macfree.com.cn
 domain-suffix:macmanager.net
 domain-suffix:macnews.tv
 domain-suffix:macprices.net
@@ -370,7 +370,7 @@ domain-suffix:ubermac.com
 domain-suffix:useyourmac.com
 
 # Miscellaneous Apple domains
-domain-suffix:applelead.cn @cn
+domain-suffix:applelead.cn 
 domain-suffix:applepaywallet.com
 domain-suffix:applepaywallet.net
 domain-suffix:applerains.com
@@ -382,7 +382,7 @@ domain-suffix:appmmachine.com
 domain-suffix:appple.com
 domain-suffix:appple.jp
 domain-suffix:ipplestore.com
-domain-suffix:maccomputer.cn @cn
+domain-suffix:maccomputer.cn 
 domain-suffix:macintosh.be
 domain-suffix:macmusic.org
 domain-suffix:macpay.com
@@ -395,7 +395,7 @@ domain-suffix:macupdate.fr
 # Miscellaneous domains
 domain-suffix:apple-shop.club
 domain-suffix:applecn.co
-domain-suffix:applechina.cn @cn
+domain-suffix:applechina.cn 
 domain-suffix:applecn.biz
 domain-suffix:applecn.club
 domain-suffix:apple-cn.org
