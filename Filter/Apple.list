@@ -1,13 +1,22 @@
-# > Apple Music
-user-agent,Music*,Apple Music
-host-suffix,applemusic.com,Apple Music
-host-suffix,blobstore.apple.com,Apple Music
-host-suffix,music.apple.com,Apple Music
-host,aod.itunes.apple.com,Apple Music
-host,aod-ssl.itunes.apple.com,Apple Music
-host,audio.itunes.apple.com,Apple Music
-host,audio-ssl.itunes.apple.com,Apple Music
-host,mvod.itunes.apple.com,Apple Music
-host,streamingaudio.itunes.apple.com,Apple Music
+# Apple Music
+DOMAIN-SUFFIX, akadns.net
+DOMAIN-SUFFIX, apple.com
+DOMAIN-SUFFIX, aaplimg.com
+DOMAIN-SUFFIX, qtlcdn.com
+DOMAIN-SUFFIX, akamai.net
+DOMAIN-SUFFIX, akamaiedge.net
+DOMAIN-SUFFIX, ks-cdn.com
+DOMAIN-SUFFIX, ksyuncdn.com
+
+HOST-SUFFIX, applemusic.com
+HOST-SUFFIX, blobstore.apple.com
+HOST-SUFFIX, music.apple.com
+host,aod.itunes.apple.com
+host,aod-ssl.itunes.apple.com
+host,audio.itunes.apple.com
+host,audio-ssl.itunes.apple.com
+host,mvod.itunes.apple.com
+host,streamingaudio.itunes.apple.com
+
 # iCloud Music Library
-host-suffix,blobstore.apple.com,Apple Music
+HOST-SUFFIX, blobstore.apple.com
