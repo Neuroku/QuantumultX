@@ -6,3 +6,6 @@ DOMAIN-SUFFIX, x.com
 DOMAIN-SUFFIX, github.io
 DOMAIN-SUFFIX, github.com
 DOMAIN-SUFFIX, githubusercontent.com
+
+# Docker
+DOMAIN-SUFFIX, docker.io
