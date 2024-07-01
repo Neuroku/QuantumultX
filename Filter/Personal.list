@@ -27,7 +27,12 @@ DOMAIN-SUFFIX,citicbank.com
 DOMAIN-SUFFIX,cfhc.citic
 DOMAIN-SUFFIX,intsig.net
 DOMAIN-SUFFIX,cup.com.cn
-
+# Amazon
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,a2z.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,amazon.dev
 
 # gov, edu.cn, chsi.com.cn          
 DOMAIN-SUFFIX,gov.cn          
