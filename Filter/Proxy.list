@@ -7,13 +7,17 @@ DOMAIN-SUFFIX, githubusercontent.com
 DOMAIN-SUFFIX, docker.io
 DOMAIN-SUFFIX, docker.com
 
-# The goal is to divert the Youtube App to achieve Picture-in-Picture mode through the US Policy Group.
+# YouTube
 DOMAIN-SUFFIX,oauth2.googleapis.com  
 DOMAIN-SUFFIX,i.ytimg.com  
 DOMAIN-SUFFIX,app-analytics-services.com  
 DOMAIN-SUFFIX,yt3.ggpht.com  
 DOMAIN-SUFFIX,googlevideo.com  
 DOMAIN-SUFFIX,youtube.com
+
+# OpenAI
+DOMAIN-SUFFIX, openai.com
+DOMAIN-SUFFIX, chatgpt.com
 
 # Unbreak PROXY 
 # > General 
