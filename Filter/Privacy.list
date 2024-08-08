@@ -178,7 +178,7 @@ host-suffix,zryydi.com, reject
 ; > Adobe Flash China Special Edition
 ; https://www.zhihu.com/question/281163698/answer/441388130
 host-suffix,flash.cn, reject
-host,geo2.adobe.com
+host,geo2.adobe.com, reject
 ; > C&J Marketing
 ; https://www.zhihu.com/question/46746200
 host-suffix,4009997658.com, reject
@@ -298,26 +298,26 @@ host-suffix,wowanalytics.co.uk, reject
 host-suffix,zoomanalytics.co, reject
 
 host-suffix,ads.linkedin.com, reject
-host,analytics.slashdotmedia.com
-host,zgsdk.zhugeio.com
+host,analytics.slashdotmedia.com, reject
+host,zgsdk.zhugeio.com, reject
 
 ; > 51.LA
-host,js.users.51.la
-host,mc.51.la
-host,wc.51.la
+host,js.users.51.la, reject
+host,mc.51.la, reject
+host,wc.51.la, reject
 ; > 58
-host,track.58.com
-host,tracklog.58.com
+host,track.58.com, reject
+host,tracklog.58.com, reject
 ; > Baidu
-host,hm.baidu.com
-host,hmma.baidu.com
+host,hm.baidu.com, reject
+host,hmma.baidu.com, reject
 ; > Daum
-host,track.tiara.daum.net
-host,track.tiara.kakao.com
+host,track.tiara.daum.net, reject
+host,track.tiara.kakao.com, reject
 ; > Google
 host-suffix,googletagmanager.com, reject
 host-suffix,google-analytics.com, reject
-host,safebrowsing.googleapis.com
+host,safebrowsing.googleapis.com, reject
 ; > GozenData
 ; https://www.v2ex.com/t/772523
 host-suffix,gozendata.com, reject
@@ -329,18 +329,18 @@ host-suffix,growingio.com, reject
 ; > MI
 host-suffix,tracking.miui.com, reject
 ; host,api.miwifi.com // 影响 Mi Wi-Fi(id859962702)，但建议注意 https://www.v2ex.com/t/746094
-host,data.mistat.xiaomi.com
-host,tracking.intl.miui.com
+host,data.mistat.xiaomi.com, reject
+host,tracking.intl.miui.com, reject
 ; > TalkingData
 host-suffix,cpatrk.net, reject
 host-suffix,talkingdata.com, reject
 host-suffix,talkingdata.net, reject
 host-suffix,udrig.com, reject
 ; > Tencent
-host,safebrowsing.urlsec.qq.com
+host,safebrowsing.urlsec.qq.com, reject
 ; > Tenjin
-host,track.tenjin.com
-host,track.tenjin.io
+host,track.tenjin.com, reject
+host,track.tenjin.io, reject
 
 
 ; self fetched
