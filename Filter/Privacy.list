@@ -1,6 +1,6 @@
 ;Privacy protection and ad blocking, including carrier hijacking and user habit collection.
 ;Internet Service Providers Hijacking(Hijacking) REJECT
-host-suffix,17gouwuba.com
+host-suffix,17gouwuba.com, reject
 host-suffix,186078.com
 host-suffix,189key.com
 host-suffix,189zj.cn
