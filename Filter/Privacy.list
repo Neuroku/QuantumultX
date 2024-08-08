@@ -1,5 +1,5 @@
-# Privacy protection and ad blocking, including carrier hijacking and user habit collection.
-# Internet Service Providers Hijacking(Hijacking) REJECT
+;Privacy protection and ad blocking, including carrier hijacking and user habit collection.
+;Internet Service Providers Hijacking(Hijacking) REJECT
 host-suffix,17gouwuba.com
 host-suffix,186078.com
 host-suffix,189key.com
@@ -121,7 +121,7 @@ ip-cidr,39.107.15.115/32,no-resolve
 ip-cidr,47.89.59.182/32,no-resolve
 ip-cidr,103.49.209.27/32,no-resolve
 ip-cidr,123.56.152.96/32,no-resolve
-# > ChinaTelecom
+; > ChinaTelecom
 ip-cidr,61.160.200.223/32,no-resolve
 ip-cidr,61.160.200.242/32,no-resolve
 ip-cidr,61.160.200.252/32,no-resolve
@@ -140,18 +140,18 @@ ip-cidr,222.186.61.91/32,no-resolve
 ip-cidr,222.186.61.95/32,no-resolve
 ip-cidr,222.186.61.96/32,no-resolve
 ip-cidr,222.186.61.97/32,no-resolve
-# > ChinaUnicom
+; > ChinaUnicom
 ip-cidr,106.75.231.48/32,no-resolve
 ip-cidr,119.4.249.166/32,no-resolve
 ip-cidr,220.196.52.141/32,no-resolve
 ip-cidr,221.6.4.148/32,no-resolve
-# > ChinaMobile
+; > ChinaMobile
 ip-cidr,114.247.28.96/32,no-resolve
 ip-cidr,120.240.95.37/32,no-resolve
 ip-cidr,221.179.131.72/32,no-resolve
 ip-cidr,221.179.140.145/32,no-resolve
-# > Dr.Peng
-# ip-cidr,10.72.25.0/24,no-resolve
+; > Dr.Peng
+; ip-cidr,10.72.25.0/24,no-resolve
 ip-cidr,115.182.16.79/32,no-resolve
 ip-cidr,118.144.88.126/32,no-resolve
 ip-cidr,118.144.88.215/32,no-resolve
@@ -165,22 +165,22 @@ ip-cidr,211.161.101.110/32,no-resolve
 ip-cidr,220.115.251.25/32,no-resolve
 ip-cidr,222.73.156.235/32,no-resolve
 
-# Malware
-# > Huawei AspiegelBot
+; Malware
+; > Huawei AspiegelBot
 ip-cidr,114.119.160.0/21,no-resolve
-# > KuaiZip
-# https://zhuanlan.zhihu.com/p/39534279
+; > KuaiZip
+; https://zhuanlan.zhihu.com/p/39534279
 host-suffix,kuaizip.com
-# > MacKeeper
-# https://www.lizhi.io/blog/40002904
+; > MacKeeper
+; https://www.lizhi.io/blog/40002904
 host-suffix,mackeeper.com
 host-suffix,zryydi.com
-# > Adobe Flash China Special Edition
-# https://www.zhihu.com/question/281163698/answer/441388130
+; > Adobe Flash China Special Edition
+; https://www.zhihu.com/question/281163698/answer/441388130
 host-suffix,flash.cn
 host,geo2.adobe.com
-# > C&J Marketing
-# https://www.zhihu.com/question/46746200
+; > C&J Marketing
+; https://www.zhihu.com/question/46746200
 host-suffix,4009997658.com
 host-suffix,abbyychina.com
 host-suffix,alienskins.cn
@@ -247,7 +247,7 @@ host-suffix,zbrushcn.com
 host-suffix,zhzzx.com
 
 
-# Privacy REJECT
+; Privacy REJECT
 host-suffix,adjust.com
 host-suffix,airpr.com
 host-suffix,cr-nielsen.com
@@ -301,49 +301,49 @@ host-suffix,ads.linkedin.com
 host,analytics.slashdotmedia.com
 host,zgsdk.zhugeio.com
 
-# > 51.LA
+; > 51.LA
 host,js.users.51.la
 host,mc.51.la
 host,wc.51.la
-# > 58
+; > 58
 host,track.58.com
 host,tracklog.58.com
-# > Baidu
+; > Baidu
 host,hm.baidu.com
 host,hmma.baidu.com
-# > Daum
+; > Daum
 host,track.tiara.daum.net
 host,track.tiara.kakao.com
-# > Google
+; > Google
 host-suffix,googletagmanager.com
 host-suffix,google-analytics.com
 host,safebrowsing.googleapis.com
-# > GozenData
-# https://www.v2ex.com/t/772523
+; > GozenData
+; https://www.v2ex.com/t/772523
 host-suffix,gozendata.com
 host-suffix,gzads.com
 host-suffix,gz-data.com
-# > GrowingIO
+; > GrowingIO
 host-suffix,giocdn.com
 host-suffix,growingio.com
-# > MI
+; > MI
 host-suffix,tracking.miui.com
-# host,api.miwifi.com // 影响 Mi Wi-Fi(id859962702)，但建议注意 https://www.v2ex.com/t/746094
+; host,api.miwifi.com // 影响 Mi Wi-Fi(id859962702)，但建议注意 https://www.v2ex.com/t/746094
 host,data.mistat.xiaomi.com
 host,tracking.intl.miui.com
-# > TalkingData
+; > TalkingData
 host-suffix,cpatrk.net
 host-suffix,talkingdata.com
 host-suffix,talkingdata.net
 host-suffix,udrig.com
-# > Tencent
+; > Tencent
 host,safebrowsing.urlsec.qq.com
-# > Tenjin
+; > Tenjin
 host,track.tenjin.com
 host,track.tenjin.io
 
 
-# self fetched
+; self fetched
 host-suffix,getui.com
 host-suffix,jpush.cn
 host-suffix,tanx.com
