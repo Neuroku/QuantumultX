@@ -178,7 +178,7 @@ host-suffix,zryydi.com
 # > Adobe Flash China Special Edition
 # https://www.zhihu.com/question/281163698/answer/441388130
 host-suffix,flash.cn
-DOMAIN,geo2.adobe.com
+host,geo2.adobe.com
 # > C&J Marketing
 # https://www.zhihu.com/question/46746200
 host-suffix,4009997658.com
@@ -298,26 +298,26 @@ host-suffix,wowanalytics.co.uk
 host-suffix,zoomanalytics.co
 
 host-suffix,ads.linkedin.com
-DOMAIN,analytics.slashdotmedia.com
-DOMAIN,zgsdk.zhugeio.com
+host,analytics.slashdotmedia.com
+host,zgsdk.zhugeio.com
 
 # > 51.LA
-DOMAIN,js.users.51.la
-DOMAIN,mc.51.la
-DOMAIN,wc.51.la
+host,js.users.51.la
+host,mc.51.la
+host,wc.51.la
 # > 58
-DOMAIN,track.58.com
-DOMAIN,tracklog.58.com
+host,track.58.com
+host,tracklog.58.com
 # > Baidu
-DOMAIN,hm.baidu.com
-DOMAIN,hmma.baidu.com
+host,hm.baidu.com
+host,hmma.baidu.com
 # > Daum
-DOMAIN,track.tiara.daum.net
-DOMAIN,track.tiara.kakao.com
+host,track.tiara.daum.net
+host,track.tiara.kakao.com
 # > Google
 host-suffix,googletagmanager.com
 host-suffix,google-analytics.com
-DOMAIN,safebrowsing.googleapis.com
+host,safebrowsing.googleapis.com
 # > GozenData
 # https://www.v2ex.com/t/772523
 host-suffix,gozendata.com
@@ -328,19 +328,19 @@ host-suffix,giocdn.com
 host-suffix,growingio.com
 # > MI
 host-suffix,tracking.miui.com
-# DOMAIN,api.miwifi.com // 影响 Mi Wi-Fi(id859962702)，但建议注意 https://www.v2ex.com/t/746094
-DOMAIN,data.mistat.xiaomi.com
-DOMAIN,tracking.intl.miui.com
+# host,api.miwifi.com // 影响 Mi Wi-Fi(id859962702)，但建议注意 https://www.v2ex.com/t/746094
+host,data.mistat.xiaomi.com
+host,tracking.intl.miui.com
 # > TalkingData
 host-suffix,cpatrk.net
 host-suffix,talkingdata.com
 host-suffix,talkingdata.net
 host-suffix,udrig.com
 # > Tencent
-DOMAIN,safebrowsing.urlsec.qq.com
+host,safebrowsing.urlsec.qq.com
 # > Tenjin
-DOMAIN,track.tenjin.com
-DOMAIN,track.tenjin.io
+host,track.tenjin.com
+host,track.tenjin.io
 
 
 # self fetched
