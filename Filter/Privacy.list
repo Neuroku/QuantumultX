@@ -1,122 +1,122 @@
 ;Privacy protection and ad blocking, including carrier hijacking and user habit collection.
 ;Internet Service Providers Hijacking(Hijacking) REJECT
 host-suffix,17gouwuba.com, reject
-host-suffix,186078.com
-host-suffix,189key.com
-host-suffix,189zj.cn
-host-suffix,285680.com
-host-suffix,3721zh.com
-host-suffix,4336wang.cn
-host-suffix,51chumoping.com
-host-suffix,51mld.cn
-host-suffix,51mypc.cn
-host-suffix,58mingri.cn
-host-suffix,58mingtian.cn
-host-suffix,5vl58stm.com
-host-suffix,6d63d3.com
-host-suffix,7gg.cc
-host-suffix,91veg.com
-host-suffix,9s6q.cn
-host-suffix,adsame.com
-host-suffix,akuai.top
-host-suffix,atplay.cn
-host-suffix,baiwanchuangyi.com
-host-suffix,beerto.cn
-host-suffix,beilamusi.com
-host-suffix,benshiw.net
-host-suffix,bianxianmao.com
-host-suffix,bkyhq.cn
-host-suffix,bryonypie.com
-host-suffix,cishantao.com
-host-suffix,cszlks.com
-host-suffix,cudaojia.com
-host-suffix,dafapromo.com
-host-suffix,daitdai.com
-host-suffix,dsaeerf.com
-host-suffix,dugesheying.com
-host-suffix,dv8c1t.cn
-host-suffix,echatu.com
-host-suffix,erdoscs.com
-host-suffix,fan-yong.com
-host-suffix,feih.com.cn
-host-suffix,fjlqqc.com
-host-suffix,fkku194.com
-host-suffix,freedrive.cn
-host-suffix,gclick.cn
-host-suffix,goufanli100.com
-host-suffix,goupaoerdai.com
-host-suffix,gouwubang.com
-host-suffix,gscxs.cn
-host-suffix,gzxnlk.com
-host-suffix,haoshengtoys.com
-host-suffix,hbssjd.cn
-host-suffix,hyunke.com
-host-suffix,ichaosheng.com
-host-suffix,ishop789.com
-host-suffix,jdkic.com
-host-suffix,jiubuhua.com
-host-suffix,jsncke.com
-host-suffix,junkucm.com
-host-suffix,jwg365.cn
-host-suffix,kawo77.com
-host-suffix,kualianyingxiao.cn
-host-suffix,kumihua.com
-host-suffix,ltheanine.cn
-host-suffix,lvehaisen.com
-host-suffix,maipinshangmao.com
-host-suffix,minisplat.cn
-host-suffix,mkitgfs.com
-host-suffix,mlnbike.com
-host-suffix,mobjump.com
-host-suffix,nbkbgd.cn
-host-suffix,newapi.com
-host-suffix,pinzhitmall.com
-host-suffix,poppyta.com
-host-suffix,qianchuanghr.com
-host-suffix,qichexin.com
-host-suffix,qinchugudao.com
-host-suffix,quanliyouxi.cn
-host-suffix,qutaobi.com
-host-suffix,ry51w.cn
-host-suffix,sg536.cn
-host-suffix,sifubo.cn
-host-suffix,sifuce.cn
-host-suffix,sifuda.cn
-host-suffix,sifufu.cn
-host-suffix,sifuge.cn
-host-suffix,sifugu.cn
-host-suffix,sifuhe.cn
-host-suffix,sifuhu.cn
-host-suffix,sifuji.cn
-host-suffix,sifuka.cn
-host-suffix,smgru.net
-host-suffix,taoggou.com
-host-suffix,tcxshop.com
-host-suffix,tjqonline.cn
-host-suffix,topitme.com
-host-suffix,tt114.net
-host-suffix,tt3sm4.cn
-host-suffix,tuia.cn
-host-suffix,tuipenguin.com
-host-suffix,tuitiger.com
-host-suffix,urlaw.cn
-host-suffix,urlet.cn
-host-suffix,websd8.com
-host-suffix,wsgblw.com
-host-suffix,wx16999.com
-host-suffix,xchmai.com
-host-suffix,xiaohuau.xyz
-host-suffix,ygyzx.cn
-host-suffix,yinmong.com
-host-suffix,yitaopt.com
-host-suffix,yjqiqi.com
-host-suffix,yukhj.com
-host-suffix,zhaozecheng.cn
-host-suffix,zhenxinet.com
-host-suffix,zlne800.com
-host-suffix,zmlled.cn
-host-suffix,zunmi.cn
-host-suffix,zzd6.com
+host-suffix,186078.com, reject
+host-suffix,189key.com, reject
+host-suffix,189zj.cn, reject
+host-suffix,285680.com, reject
+host-suffix,3721zh.com, reject
+host-suffix,4336wang.cn, reject
+host-suffix,51chumoping.com, reject
+host-suffix,51mld.cn, reject
+host-suffix,51mypc.cn, reject
+host-suffix,58mingri.cn, reject
+host-suffix,58mingtian.cn, reject
+host-suffix,5vl58stm.com, reject
+host-suffix,6d63d3.com, reject
+host-suffix,7gg.cc, reject
+host-suffix,91veg.com, reject
+host-suffix,9s6q.cn, reject
+host-suffix,adsame.com, reject
+host-suffix,akuai.top, reject
+host-suffix,atplay.cn, reject
+host-suffix,baiwanchuangyi.com, reject
+host-suffix,beerto.cn, reject
+host-suffix,beilamusi.com, reject
+host-suffix,benshiw.net, reject
+host-suffix,bianxianmao.com, reject
+host-suffix,bkyhq.cn, reject
+host-suffix,bryonypie.com, reject
+host-suffix,cishantao.com, reject
+host-suffix,cszlks.com, reject
+host-suffix,cudaojia.com, reject
+host-suffix,dafapromo.com, reject
+host-suffix,daitdai.com, reject
+host-suffix,dsaeerf.com, reject
+host-suffix,dugesheying.com, reject
+host-suffix,dv8c1t.cn, reject
+host-suffix,echatu.com, reject
+host-suffix,erdoscs.com, reject
+host-suffix,fan-yong.com, reject
+host-suffix,feih.com.cn, reject
+host-suffix,fjlqqc.com, reject
+host-suffix,fkku194.com, reject
+host-suffix,freedrive.cn, reject
+host-suffix,gclick.cn, reject
+host-suffix,goufanli100.com, reject
+host-suffix,goupaoerdai.com, reject
+host-suffix,gouwubang.com, reject
+host-suffix,gscxs.cn, reject
+host-suffix,gzxnlk.com, reject
+host-suffix,haoshengtoys.com, reject
+host-suffix,hbssjd.cn, reject
+host-suffix,hyunke.com, reject
+host-suffix,ichaosheng.com, reject
+host-suffix,ishop789.com, reject
+host-suffix,jdkic.com, reject
+host-suffix,jiubuhua.com, reject
+host-suffix,jsncke.com, reject
+host-suffix,junkucm.com, reject
+host-suffix,jwg365.cn, reject
+host-suffix,kawo77.com, reject
+host-suffix,kualianyingxiao.cn, reject
+host-suffix,kumihua.com, reject
+host-suffix,ltheanine.cn, reject
+host-suffix,lvehaisen.com, reject
+host-suffix,maipinshangmao.com, reject
+host-suffix,minisplat.cn, reject
+host-suffix,mkitgfs.com, reject
+host-suffix,mlnbike.com, reject
+host-suffix,mobjump.com, reject
+host-suffix,nbkbgd.cn, reject
+host-suffix,newapi.com, reject
+host-suffix,pinzhitmall.com, reject
+host-suffix,poppyta.com, reject
+host-suffix,qianchuanghr.com, reject
+host-suffix,qichexin.com, reject
+host-suffix,qinchugudao.com, reject
+host-suffix,quanliyouxi.cn, reject
+host-suffix,qutaobi.com, reject
+host-suffix,ry51w.cn, reject
+host-suffix,sg536.cn, reject
+host-suffix,sifubo.cn, reject
+host-suffix,sifuce.cn, reject
+host-suffix,sifuda.cn, reject
+host-suffix,sifufu.cn, reject
+host-suffix,sifuge.cn, reject
+host-suffix,sifugu.cn, reject
+host-suffix,sifuhe.cn, reject
+host-suffix,sifuhu.cn, reject
+host-suffix,sifuji.cn, reject
+host-suffix,sifuka.cn, reject
+host-suffix,smgru.net, reject
+host-suffix,taoggou.com, reject
+host-suffix,tcxshop.com, reject
+host-suffix,tjqonline.cn, reject
+host-suffix,topitme.com, reject
+host-suffix,tt114.net, reject
+host-suffix,tt3sm4.cn, reject
+host-suffix,tuia.cn, reject
+host-suffix,tuipenguin.com, reject
+host-suffix,tuitiger.com, reject
+host-suffix,urlaw.cn, reject
+host-suffix,urlet.cn, reject
+host-suffix,websd8.com, reject
+host-suffix,wsgblw.com, reject
+host-suffix,wx16999.com, reject
+host-suffix,xchmai.com, reject
+host-suffix,xiaohuau.xyz, reject
+host-suffix,ygyzx.cn, reject
+host-suffix,yinmong.com, reject
+host-suffix,yitaopt.com, reject
+host-suffix,yjqiqi.com, reject
+host-suffix,yukhj.com, reject
+host-suffix,zhaozecheng.cn, reject
+host-suffix,zhenxinet.com, reject
+host-suffix,zlne800.com, reject
+host-suffix,zmlled.cn, reject
+host-suffix,zunmi.cn, reject
+host-suffix,zzd6.com, reject
 ip-cidr,39.107.15.115/32,no-resolve
 ip-cidr,47.89.59.182/32,no-resolve
 ip-cidr,103.49.209.27/32,no-resolve
@@ -170,134 +170,134 @@ ip-cidr,222.73.156.235/32,no-resolve
 ip-cidr,114.119.160.0/21,no-resolve
 ; > KuaiZip
 ; https://zhuanlan.zhihu.com/p/39534279
-host-suffix,kuaizip.com
+host-suffix,kuaizip.com, reject
 ; > MacKeeper
 ; https://www.lizhi.io/blog/40002904
-host-suffix,mackeeper.com
-host-suffix,zryydi.com
+host-suffix,mackeeper.com, reject
+host-suffix,zryydi.com, reject
 ; > Adobe Flash China Special Edition
 ; https://www.zhihu.com/question/281163698/answer/441388130
-host-suffix,flash.cn
+host-suffix,flash.cn, reject
 host,geo2.adobe.com
 ; > C&J Marketing
 ; https://www.zhihu.com/question/46746200
-host-suffix,4009997658.com
-host-suffix,abbyychina.com
-host-suffix,alienskins.cn
-host-suffix,anydeskchina.cn
-host-suffix,bartender.cc
-host-suffix,betterzip.net
-host-suffix,betterzipcn.com
-host-suffix,beyondcompare.cc
-host-suffix,bingdianhuanyuan.cn
-host-suffix,chemdraw.com.cn
-host-suffix,cjmakeding.com
-host-suffix,cjmkt.com
-host-suffix,codesoftchina.com
-host-suffix,coreldrawchina.com
-host-suffix,crossoverchina.com
-host-suffix,dongmansoft.com
-host-suffix,earmasterchina.cn
-host-suffix,easyrecoverychina.com
-host-suffix,ediuschina.com
-host-suffix,flstudiochina.com
-host-suffix,folxchina.cn
-host-suffix,formysql.com
-host-suffix,guitarpro.cc
-host-suffix,huishenghuiying.com.cn
-host-suffix,hypeapp.cn
-host-suffix,hypersnap.net
-host-suffix,iconworkshop.cn
-host-suffix,idmchina.net
-host-suffix,imazingchina.com
-host-suffix,imindmap.cc
-host-suffix,jihehuaban.com.cn
-host-suffix,keyshot.cc
-host-suffix,kingdeecn.cn
-host-suffix,logoshejishi.com
-host-suffix,luping.net.cn
-host-suffix,mairuan.cn
-host-suffix,mairuan.com
-host-suffix,mairuan.com.cn
-host-suffix,mairuan.net
-host-suffix,mairuanwang.com
-host-suffix,makeding.com
-host-suffix,mathtype.cn
-host-suffix,mindmanager.cc
-host-suffix,mindmanager.cn
-host-suffix,mindmapper.cc
-host-suffix,mycleanmymac.com
-host-suffix,nicelabel.cc
-host-suffix,ntfsformac.cc
-host-suffix,ntfsformac.cn
-host-suffix,officesoftcn.com
-host-suffix,overturechina.com
-host-suffix,passwordrecovery.cn
-host-suffix,pdfexpert.cc
-host-suffix,photozoomchina.com
-host-suffix,shankejingling.com
-host-suffix,ultraiso.net
-host-suffix,vegaschina.cn
-host-suffix,xitongqingli.com
-host-suffix,xmindchina.net
-host-suffix,xshellcn.com
-host-suffix,yihuifu.cn
-host-suffix,yuanchengxiezuo.com
-host-suffix,zbrushcn.com
-host-suffix,zhzzx.com
+host-suffix,4009997658.com, reject
+host-suffix,abbyychina.com, reject
+host-suffix,alienskins.cn, reject
+host-suffix,anydeskchina.cn, reject
+host-suffix,bartender.cc, reject
+host-suffix,betterzip.net, reject
+host-suffix,betterzipcn.com, reject
+host-suffix,beyondcompare.cc, reject
+host-suffix,bingdianhuanyuan.cn, reject
+host-suffix,chemdraw.com.cn, reject
+host-suffix,cjmakeding.com, reject
+host-suffix,cjmkt.com, reject
+host-suffix,codesoftchina.com, reject
+host-suffix,coreldrawchina.com, reject
+host-suffix,crossoverchina.com, reject
+host-suffix,dongmansoft.com, reject
+host-suffix,earmasterchina.cn, reject
+host-suffix,easyrecoverychina.com, reject
+host-suffix,ediuschina.com, reject
+host-suffix,flstudiochina.com, reject
+host-suffix,folxchina.cn, reject
+host-suffix,formysql.com, reject
+host-suffix,guitarpro.cc, reject
+host-suffix,huishenghuiying.com.cn, reject
+host-suffix,hypeapp.cn, reject
+host-suffix,hypersnap.net, reject
+host-suffix,iconworkshop.cn, reject
+host-suffix,idmchina.net, reject
+host-suffix,imazingchina.com, reject
+host-suffix,imindmap.cc, reject
+host-suffix,jihehuaban.com.cn, reject
+host-suffix,keyshot.cc, reject
+host-suffix,kingdeecn.cn, reject
+host-suffix,logoshejishi.com, reject
+host-suffix,luping.net.cn, reject
+host-suffix,mairuan.cn, reject
+host-suffix,mairuan.com, reject
+host-suffix,mairuan.com.cn, reject
+host-suffix,mairuan.net, reject
+host-suffix,mairuanwang.com, reject
+host-suffix,makeding.com, reject
+host-suffix,mathtype.cn, reject
+host-suffix,mindmanager.cc, reject
+host-suffix,mindmanager.cn, reject
+host-suffix,mindmapper.cc, reject
+host-suffix,mycleanmymac.com, reject
+host-suffix,nicelabel.cc, reject
+host-suffix,ntfsformac.cc, reject
+host-suffix,ntfsformac.cn, reject
+host-suffix,officesoftcn.com, reject
+host-suffix,overturechina.com, reject
+host-suffix,passwordrecovery.cn, reject
+host-suffix,pdfexpert.cc, reject
+host-suffix,photozoomchina.com, reject
+host-suffix,shankejingling.com, reject
+host-suffix,ultraiso.net, reject
+host-suffix,vegaschina.cn, reject
+host-suffix,xitongqingli.com, reject
+host-suffix,xmindchina.net, reject
+host-suffix,xshellcn.com, reject
+host-suffix,yihuifu.cn, reject
+host-suffix,yuanchengxiezuo.com, reject
+host-suffix,zbrushcn.com, reject
+host-suffix,zhzzx.com, reject
 
 
 ; Privacy REJECT
-host-suffix,adjust.com
-host-suffix,airpr.com
-host-suffix,cr-nielsen.com
-host-suffix,hotjar.com
-host-suffix,hotjar.io
-host-suffix,hs-analytics.net
-host-suffix,kissmetrics.com
-host-suffix,kochava.com
-host-suffix,liadm.com
-host-suffix,marketo.com
-host-suffix,mobileapptracking.com
-host-suffix,mparticle.com
-host-suffix,nexac.com
-host-suffix,nr-data.net
-host-suffix,pardot.com
-host-suffix,parrable.com
-host-suffix,petametrics.com
-host-suffix,predic.io
-host-suffix,quantcount.com
-host-suffix,quantserve.com
-host-suffix,rtbasia.com
-host-suffix,scorecardresearch.com
-host-suffix,seewhy.com
-host-suffix,segment.com
-host-suffix,segment.io      
-host-suffix,segmentify.com
-host-suffix,sentiance.com  
-host-suffix,serverbid.com
-host-suffix,sessionm.com
-host-suffix,smartlook.com
-host-suffix,socdm.com
-host-suffix,socialannex.com
-host-suffix,socialbakers.com
-host-suffix,sociaplus.com
-host-suffix,stathat.com
-host-suffix,stats-locations.com
-host-suffix,tagcommander.com
-host-suffix,tailtarget.com
-host-suffix,tapad.com
-host-suffix,tapfiliate.com
-host-suffix,tapinfluence.com
-host-suffix,tapstream.com
-host-suffix,tend.io
-host-suffix,trackingio.com
-host-suffix,woopra.com
-host-suffix,wootric.com
-host-suffix,wowanalytics.co.uk
-host-suffix,zoomanalytics.co
+host-suffix,adjust.com, reject
+host-suffix,airpr.com, reject
+host-suffix,cr-nielsen.com, reject
+host-suffix,hotjar.com, reject
+host-suffix,hotjar.io, reject
+host-suffix,hs-analytics.net, reject
+host-suffix,kissmetrics.com, reject
+host-suffix,kochava.com, reject
+host-suffix,liadm.com, reject
+host-suffix,marketo.com, reject
+host-suffix,mobileapptracking.com, reject
+host-suffix,mparticle.com, reject
+host-suffix,nexac.com, reject
+host-suffix,nr-data.net, reject
+host-suffix,pardot.com, reject
+host-suffix,parrable.com, reject
+host-suffix,petametrics.com, reject
+host-suffix,predic.io, reject
+host-suffix,quantcount.com, reject
+host-suffix,quantserve.com, reject
+host-suffix,rtbasia.com, reject
+host-suffix,scorecardresearch.com, reject
+host-suffix,seewhy.com, reject
+host-suffix,segment.com, reject
+host-suffix,segment.io      , reject
+host-suffix,segmentify.com, reject
+host-suffix,sentiance.com  , reject
+host-suffix,serverbid.com, reject
+host-suffix,sessionm.com, reject
+host-suffix,smartlook.com, reject
+host-suffix,socdm.com, reject
+host-suffix,socialannex.com, reject
+host-suffix,socialbakers.com, reject
+host-suffix,sociaplus.com, reject
+host-suffix,stathat.com, reject
+host-suffix,stats-locations.com, reject
+host-suffix,tagcommander.com, reject
+host-suffix,tailtarget.com, reject
+host-suffix,tapad.com, reject
+host-suffix,tapfiliate.com, reject
+host-suffix,tapinfluence.com, reject
+host-suffix,tapstream.com, reject
+host-suffix,tend.io, reject
+host-suffix,trackingio.com, reject
+host-suffix,woopra.com, reject
+host-suffix,wootric.com, reject
+host-suffix,wowanalytics.co.uk, reject
+host-suffix,zoomanalytics.co, reject
 
-host-suffix,ads.linkedin.com
+host-suffix,ads.linkedin.com, reject
 host,analytics.slashdotmedia.com
 host,zgsdk.zhugeio.com
 
@@ -315,27 +315,27 @@ host,hmma.baidu.com
 host,track.tiara.daum.net
 host,track.tiara.kakao.com
 ; > Google
-host-suffix,googletagmanager.com
-host-suffix,google-analytics.com
+host-suffix,googletagmanager.com, reject
+host-suffix,google-analytics.com, reject
 host,safebrowsing.googleapis.com
 ; > GozenData
 ; https://www.v2ex.com/t/772523
-host-suffix,gozendata.com
-host-suffix,gzads.com
-host-suffix,gz-data.com
+host-suffix,gozendata.com, reject
+host-suffix,gzads.com, reject
+host-suffix,gz-data.com, reject
 ; > GrowingIO
-host-suffix,giocdn.com
-host-suffix,growingio.com
+host-suffix,giocdn.com, reject
+host-suffix,growingio.com, reject
 ; > MI
-host-suffix,tracking.miui.com
+host-suffix,tracking.miui.com, reject
 ; host,api.miwifi.com // 影响 Mi Wi-Fi(id859962702)，但建议注意 https://www.v2ex.com/t/746094
 host,data.mistat.xiaomi.com
 host,tracking.intl.miui.com
 ; > TalkingData
-host-suffix,cpatrk.net
-host-suffix,talkingdata.com
-host-suffix,talkingdata.net
-host-suffix,udrig.com
+host-suffix,cpatrk.net, reject
+host-suffix,talkingdata.com, reject
+host-suffix,talkingdata.net, reject
+host-suffix,udrig.com, reject
 ; > Tencent
 host,safebrowsing.urlsec.qq.com
 ; > Tenjin
@@ -344,6 +344,6 @@ host,track.tenjin.io
 
 
 ; self fetched
-host-suffix,getui.com
-host-suffix,jpush.cn
-host-suffix,tanx.com
+host-suffix,getui.com, reject
+host-suffix,jpush.cn, reject
+host-suffix,tanx.com, reject
