@@ -1,0 +1,7 @@
+# YouTube
+host-suffix, oauth2.googleapis.com, proxy
+host-suffix, i.ytimg.com, proxy
+host-suffix, app-analytics-services.com, proxy
+host-suffix, yt3.ggpht.com, proxy
+host-suffix, googlevideo.com, proxy
+host-suffix, youtube.com, proxy
