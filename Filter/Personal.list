@@ -1,45 +1,45 @@
-# Pay, Gov & Bilibili          
-# Pay DIRECT          
-DOMAIN-SUFFIX,12306.cn          
-DOMAIN-SUFFIX,189.cn          
-DOMAIN-SUFFIX,360buying.com          
-DOMAIN-SUFFIX,95516.com          
-DOMAIN-SUFFIX,aliapp.org          
-DOMAIN-SUFFIX,alicdn.com          
-DOMAIN-SUFFIX,aliyuncs.com          
-DOMAIN-SUFFIX,alibabausercontent.com          
-DOMAIN-SUFFIX,alipay.com          
-DOMAIN-SUFFIX,alipay.com.cn          
-DOMAIN-SUFFIX,alipayobjects.com          
-DOMAIN-SUFFIX,cup.com.cn          
-DOMAIN-SUFFIX,ctrip.com          
-DOMAIN-SUFFIX,ctripins.com          
-DOMAIN-SUFFIX,dianping.com          
-DOMAIN-SUFFIX,jd.com          
-DOMAIN-SUFFIX,jdpay.com          
-DOMAIN-SUFFIX,meituan.com          
-DOMAIN-SUFFIX,meituan.net          
-DOMAIN-SUFFIX,taobao.com          
-DOMAIN-SUFFIX,tripcdn.cn          
-DOMAIN-SUFFIX,wechatpay.cn          
-DOMAIN-SUFFIX,jpush.cn
-DOMAIN-SUFFIX,citicbank.com
-DOMAIN-SUFFIX,cfhc.citic
-DOMAIN-SUFFIX,intsig.net
-DOMAIN-SUFFIX,cup.com.cn
+# Pay, Gov & Bilibili
+# Pay DIRECT
+host-suffix, 12306.cn, direct
+host-suffix, 189.cn, direct
+host-suffix, 360buying.com, direct
+host-suffix, 95516.com, direct
+host-suffix, aliapp.org, direct
+host-suffix, alicdn.com, direct
+host-suffix, aliyuncs.com, direct
+host-suffix, alibabausercontent.com, direct
+host-suffix, alipay.com, direct
+host-suffix, alipay.com.cn, direct
+host-suffix, alipayobjects.com, direct
+host-suffix, cup.com.cn, direct
+host-suffix, ctrip.com, direct
+host-suffix, ctripins.com, direct
+host-suffix, dianping.com, direct
+host-suffix, jd.com, direct
+host-suffix, jdpay.com, direct
+host-suffix, meituan.com, direct
+host-suffix, meituan.net, direct
+host-suffix, taobao.com, direct
+host-suffix, tripcdn.cn, direct
+host-suffix, wechatpay.cn, direct
+host-suffix, jpush.cn, direct
+host-suffix, citicbank.com, direct
+host-suffix, cfhc.citic, direct
+host-suffix, intsig.net, direct
+host-suffix, cup.com.cn, direct
 # Amazon
-DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,a2z.com
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,amazon.dev
+host-suffix, amazon.com, direct
+host-suffix, amazonaws.com, direct
+host-suffix, a2z.com, direct
+host-suffix, cloudfront.net, direct
+host-suffix, amazon.dev, direct
 
-# gov, edu.cn, chsi.com.cn          
-DOMAIN-SUFFIX,gov.cn          
-DOMAIN-SUFFIX,edu.cn          
-DOMAIN-SUFFIX,chsi.com.cn          
+# gov, edu.cn, chsi.com.cn
+host-suffix, gov.cn, direct
+host-suffix, edu.cn, direct
+host-suffix, chsi.com.cn, direct
 
-# bilibili          
-DOMAIN-SUFFIX,bilibili.com          
-DOMAIN-SUFFIX,biliapi.com          
-DOMAIN-SUFFIX,bilivideo.com    
+# bilibili
+host-suffix, bilibili.com, direct
+host-suffix, biliapi.com, direct
+host-suffix, bilivideo.com    , direct
