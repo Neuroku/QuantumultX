@@ -1,24 +1,24 @@
 # Share hotpoint must through HTTP principle
 
 # Apple Music
-DOMAIN-SUFFIX, akadns.net
-DOMAIN-SUFFIX, apple.com
-DOMAIN-SUFFIX, aaplimg.com
-DOMAIN-SUFFIX, qtlcdn.com
-DOMAIN-SUFFIX, akamai.net
-DOMAIN-SUFFIX, akamaiedge.net
-DOMAIN-SUFFIX, ks-cdn.com
-DOMAIN-SUFFIX, ksyuncdn.com
+host-suffix, akadns.net, direct
+host-suffix, apple.com, direct
+host-suffix, aaplimg.com, direct
+host-suffix, qtlcdn.com, direct
+host-suffix, akamai.net, direct
+host-suffix, akamaiedge.net, direct
+host-suffix, ks-cdn.com, direct
+host-suffix, ksyuncdn.com, direct
 
-HOST-SUFFIX, applemusic.com
-HOST-SUFFIX, blobstore.apple.com
-HOST-SUFFIX, music.apple.com
-host,aod.itunes.apple.com
-host,aod-ssl.itunes.apple.com
-host,audio.itunes.apple.com
-host,audio-ssl.itunes.apple.com
-host,mvod.itunes.apple.com
-host,streamingaudio.itunes.apple.com
+host-suffix, applemusic.com, direct
+host-suffix, blobstore.apple.com, direct
+host-suffix, music.apple.com, direct
+host, aod.itunes.apple.com, direct
+host, aod-ssl.itunes.apple.com, direct
+host, audio.itunes.apple.com, direct
+host, audio-ssl.itunes.apple.com, direct
+host, mvod.itunes.apple.com, direct
+host, streamingaudio.itunes.apple.com, direct
 
 # iCloud Music Library
-HOST-SUFFIX, blobstore.apple.com
+host-suffix, blobstore.apple.com, direct
