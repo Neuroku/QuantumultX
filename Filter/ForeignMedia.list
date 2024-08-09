@@ -1,3 +1,6 @@
+# Quantumult
+host-suffix, quantumult.app, porxy
+
 # Github
 host-suffix, atom.io, proxy
 host-suffix, dependabot.com, proxy
