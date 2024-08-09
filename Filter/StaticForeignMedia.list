@@ -1,3 +1,6 @@
+# serv00
+host-suffix, serv00.com, proxy
+
 # Google 不包含 YouTube & YouTube Music
 host, clientservices.googleapis.com, proxy
 host, crl.pki.goog, proxy
