@@ -1,3 +1,6 @@
+# Cloudflare
+host-suffix, cloudflare.com, proxy
+
 # Linux.do
 host-suffix, linux.do, proxy
 
