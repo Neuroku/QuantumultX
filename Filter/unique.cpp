@@ -9,8 +9,8 @@ using namespace std;
 unordered_map <string, bool> mp;
 const string REPLACE = ", proxy";
 int main() {
-    std::ifstream inputFile("./rule");
-    std::ofstream outputFile("./out_rule");
+    std::ifstream inputFile("./rule.list");
+    std::ofstream outputFile("./out_rule.list");
 
     if (!inputFile.is_open() || !outputFile.is_open()) {
         std::cerr << "无法打开文件。" << std::endl;
