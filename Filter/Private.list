@@ -85,8 +85,6 @@ host-suffix, wuyou189.cn, direct
 host-suffix, wuyou189.com, direct
 host-suffix, ycy100.cn, direct
 host-suffix, yichuangyun.com.cn, direct
-
-
 ## ChinaUnicom 
 host-suffix, 10010.cn, direct
 host-suffix, 10010.com, direct
@@ -122,7 +120,6 @@ host-suffix, wo.com.cn, direct
 host-suffix, wobaif.com, direct
 host-suffix, wom186.com, direct
 IP-CIDR,113.200.56.63/32, direct
-
 ## ChinaMobile
 host-suffix, 10086.cn, direct
 host-suffix, 10086kuaixiu.com, direct
@@ -160,7 +157,6 @@ host-suffix, mmarket6.com, direct
 host-suffix, monternet.com, direct
 host-suffix, warmchina121.com, direct
 host-suffix, zdsdp.com, direct
-
 # UnionPay 中国银联
 hot-suffix, 95516.com, direct
 hot-suffix, 95516.net, direct
@@ -178,7 +174,6 @@ hot-suffix, unionpay.net, direct
 hot-suffix, unionpayintl.cn, direct
 hot-suffix, unionpayintl.com, direct
 hot-suffix, unionpaysecure.com, direct
-
 # Alipay 支付宝
 host-suffix, alipay, direct
 host-suffix, alipay-corp.com, direct
@@ -201,11 +196,9 @@ host-suffix, alipayplus.com, direct
 host-suffix, ifaa.org.cn, direct
 host-suffix, luohanacademy.com, direct
 host-suffix, sinopayment.com.cn, direct
-
 # AirChina
 host-suffix, airchina.com.cn, direct
 host-suffix, airchinacargo.com, direct
-
 # AmazonCN
 host-suffix, a2z.org.cn, direct
 host-suffix, aboutamazon.cn, direct
@@ -254,7 +247,6 @@ host-suffix, route53.cn, direct
 host-suffix, sagemaker.com.cn, direct
 host-suffix, yamaxun.cn, direct
 host-suffix, z.cn, direct
-
 # PayPal
 host-suffix, account-paypal.info, direct
 host-suffix, account-paypal.net, direct
@@ -504,7 +496,6 @@ host-suffix, xoom.us, direct
 host-suffix, xoomcom.com, direct
 host-keyword, paypal, direct
 user-agent, direct*, direct
-
 # 12306
 host-suffix,12306.cn, direct
 host-suffix,95306.cn, direct
@@ -521,7 +512,6 @@ host-suffix,nntlj.com, direct
 host-suffix,peoplerail.com, direct
 host-suffix,rails.cn, direct
 host-suffix,tdpress.com, direct
-
 # ABC 中国农业银行
 host-suffix, 95599.cn, direct
 host-suffix, abchina.com, direct
@@ -529,7 +519,6 @@ host-suffix, bscabank.com, direct
 host-suffix, openaboc.cn, direct
 host-suffix, openaboc.com, direct
 host-suffix, openaboc.com.cn, direct
-
 # BOC 中国银行
 host-suffix, bank-of-china.com, direct
 host-suffix, bankofchina.com, direct
@@ -553,7 +542,6 @@ host-suffix, bocigroup.com, direct
 host-suffix, bocim.com, direct
 host-suffix, bocservices.com.cn, direct
 host-suffix, ftcwifi.com, direct
-
 # BOCOM 中国交通银行
 host-suffix, 95559.com.cn, direct
 host-suffix, 95559.sh.cn, direct
@@ -561,7 +549,6 @@ host-suffix, bankcomm.com, direct
 host-suffix, bankcomm.com.au, direct
 host-suffix, bankcomm.com.mo, direct
 host-suffix, bankcomm.com.tw, direct
-
 # CCB 中国建设银行
 host-suffix, ccb-life.com.cn, direct
 host-suffix, ccb.cn, direct
@@ -581,7 +568,6 @@ host-suffix, ccblife-test.com.cn, direct
 host-suffix, ccbseoul.com, direct
 host-suffix, ccbtrust.com.cn, direct
 host-suffix, ccbxt.com, direct
-
 # CEB 中国光大银行
 host-suffix, cebbank.com, direct
 host-suffix, ceblease.com, direct
@@ -598,13 +584,11 @@ host-suffix, ebtrust.com, direct
 host-suffix, everbright.com, direct
 host-suffix, secec.com, direct
 host-suffix, sunlife-everbright.com, direct
-
 # CGB 中国广发银行
 host-suffix, 95508.com, direct
 host-suffix, cgbchina.cn, direct
 host-suffix, cgbchina.com.cn, direct
 host-suffix, gdb.com.cn, direct
-
 # CMB 中国招商银行
 host-suffix, 8008205555.cn, direct
 host-suffix, 8008205555.com, direct
@@ -644,7 +628,6 @@ host-suffix, wuxizazhi.com, direct
 host-suffix, wuxizazhi.com.cn, direct
 host-suffix, wuxizazhi.net, direct
 host-suffix, wuxizazhi.net.cn, direct
-
 # ICBC 中国工商银行
 host-suffix, 95588.com, direct
 host-suffix, 95588.com.cn, direct
@@ -704,12 +687,10 @@ host-suffix, icbcswiss.com, direct
 host-suffix, icbcthai.com, direct
 host-suffix, icbkfs.com, direct
 host-suffix, icbkus.com, direct
-
 # PSBC 中国邮政储蓄银行
 host-suffix, 95580.net, direct
 host-suffix, psbc.com, direct
 host-suffix, psbcoa.com.cn, direct
-
 # JD 京东
 host-suffix, 1huizhan.com, direct
 host-suffix, 3.cn, direct
@@ -959,7 +940,6 @@ host-suffix, yihaomall.com, direct
 host-suffix, yixun.com, direct
 host-suffix, yiyaojd.com, direct
 host-suffix, yizhitou.com, direct
-
 # 修正
 host-suffix, 360buying.com, direct
 host-suffix, 95516.com, direct
@@ -967,15 +947,10 @@ host-suffix, aliapp.org, direct
 host-suffix, alicdn.com, direct
 host-suffix, aliyuncs.com, direct
 host-suffix, alibabausercontent.com, direct
-host-suffix, alipay.com, direct
-host-suffix, alipay.com.cn, direct
-host-suffix, alipayobjects.com, direct
 host-suffix, cup.com.cn, direct
 host-suffix, ctrip.com, direct
 host-suffix, ctripins.com, direct
 host-suffix, dianping.com, direct
-host-suffix, jd.com, direct
-host-suffix, jdpay.com, direct
 host-suffix, meituan.com, direct
 host-suffix, meituan.net, direct
 host-suffix, taobao.com, direct
@@ -985,14 +960,12 @@ host-suffix, jpush.cn, direct
 host-suffix, citicbank.com, direct
 host-suffix, cfhc.citic, direct
 host-suffix, intsig.net, direct
-host-suffix, cup.com.cn, direct
 # Amazon
 host-suffix, amazon.com, direct
 host-suffix, amazonaws.com, direct
 host-suffix, a2z.com, direct
 host-suffix, cloudfront.net, direct
 host-suffix, amazon.dev, direct
-
 # gov, edu.cn, chsi.com.cn
 host-suffix, gov.cn, direct
 host-suffix, edu.cn, direct
