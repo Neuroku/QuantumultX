@@ -374,7 +374,6 @@ host-suffix, shuame.com, direct
 host-suffix, shurl.cn, direct
 host-suffix, sixjoy.com, direct
 host-suffix, smtcdns.com, direct
-host-suffix, smtcdns.net, direct
 host-suffix, snapplay.com, direct
 host-suffix, soso.com, direct
 host-suffix, spcdntip.com, direct
@@ -584,7 +583,6 @@ ip-cidr, 103.238.16.0/23, direct
 ip-cidr, 103.7.28.0/22, direct
 ip-cidr, 129.226.107.244/32, direct
 ip-cidr, 129.226.3.47/32, direct
-
 # WeChat
 host, apd-pcdnwxlogin.teg.tencent-cloud.net, direct
 host, btrace.qq.com, direct
@@ -607,20 +605,10 @@ host, wxapp.tc.qq.com, direct
 host-suffix, iot-tencent.com, direct
 host-suffix, lbs.gtimg.com, direct
 host-suffix, map.qq.com, direct
-host-suffix, qlogo.cn, direct
-host-suffix, qpic.cn, direct
-host-suffix, servicewechat.com, direct
-host-suffix, tenpay.com, direct
 host-suffix, up-hl.3g.qq.com, direct
 host-suffix, vweixinthumb.tc.qq.com, direct
-host-suffix, wechat.com, direct
-host-suffix, wechatlegal.net, direct
 host-suffix, wechatos.net, direct
-host-suffix, wechatpay.com, direct
-host-suffix, weixin.com, direct
 host-suffix, weixin.qq.com, direct
-host-suffix, weixinbridge.com, direct
-host-suffix, weixinsxy.com, direct
 host-suffix, wx.gtimg.com, direct
 host-suffix, wx.qq.com, direct
 host-suffix, wxapp.tc.qq.com, direct
