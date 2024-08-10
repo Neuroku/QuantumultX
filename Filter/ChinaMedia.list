@@ -1,3 +1,6 @@
+# 高德地图
+host-suffix, amap.com
+
 # 墨墨背单词
 host-suffix, maimemo.com, direct
 host-suffix, maimemostatus.com, direct
