@@ -14,7 +14,7 @@ host-suffix, cloudflare.com, proxy
 host-suffix, linux.do, proxy
 
 # Quantumult
-host-suffix, quantumult.app, porxy
+host-keyword, quantumult, porxy
 
 # Github
 host-suffix, atom.io, proxy
