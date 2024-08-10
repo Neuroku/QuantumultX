@@ -343,3 +343,6 @@ host, track.tenjin.io, reject
 host-suffix, getui.com, reject
 host-suffix, jpush.cn, reject
 host-suffix, tanx.com, reject
+
+; > Eudic
+host-suffix, umeng.com, reject
