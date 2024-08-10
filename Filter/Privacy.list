@@ -344,6 +344,9 @@ host-suffix, getui.com, reject
 host-suffix, jpush.cn, reject
 host-suffix, tanx.com, reject
 
+; > GiffGaff
+host-suffix, dynamicyield.com, reject
+
 ; > Eudic
 host-suffix, umeng.com, reject
 host-keyword, umengcloud, reject
