@@ -1,3 +1,6 @@
+# DuckDuckGo
+host-suffix, duckduckgo.com, proxy
+
 # Cloudflare
 host-suffix, cloudflare.com, proxy
 
