@@ -940,14 +940,18 @@ host-suffix, yihaomall.com, direct
 host-suffix, yixun.com, direct
 host-suffix, yiyaojd.com, direct
 host-suffix, yizhitou.com, direct
+
 # 修正
 host-suffix, 360buying.com, direct
-host-suffix, 95516.com, direct
 host-suffix, aliapp.org, direct
 host-suffix, alicdn.com, direct
 host-suffix, aliyuncs.com, direct
 host-suffix, alibabausercontent.com, direct
+host-suffix, 95516.com, direct
 host-suffix, cup.com.cn, direct
+host-suffix, citicbank.com, direct
+host-suffix, citicbank.cn, direct
+host-suffix, ecitic.com, direct
 host-suffix, ctrip.com, direct
 host-suffix, ctripins.com, direct
 host-suffix, dianping.com, direct
@@ -957,7 +961,6 @@ host-suffix, taobao.com, direct
 host-suffix, tripcdn.cn, direct
 host-suffix, wechatpay.cn, direct
 host-suffix, jpush.cn, direct
-host-suffix, citicbank.com, direct
 host-suffix, cfhc.citic, direct
 host-suffix, intsig.net, direct
 # Amazon
