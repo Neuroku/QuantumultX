@@ -1,3 +1,8 @@
+# Eudic
+host-suffix, eudic.net, direct
+host-suffix, frdic.com, direct
+host-suffix, esdict.net, direct
+
 # BiliBili
 host, 112-81-125-43.dhost.00cdn.com, direct
 host, 113-219-145-1.ksyungslb.com, direct
