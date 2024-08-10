@@ -963,6 +963,7 @@ host-suffix, wechatpay.cn, direct
 host-suffix, jpush.cn, direct
 host-suffix, cfhc.citic, direct
 host-suffix, intsig.net, direct
+host-suffix, scqckypw.com, direct
 # Amazon
 host-suffix, amazon.com, direct
 host-suffix, amazonaws.com, direct
