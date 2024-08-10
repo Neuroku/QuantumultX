@@ -1,5 +1,5 @@
 # 高德地图
-host-suffix, amap.com
+host-suffix, amap.com, direct
 
 # 墨墨背单词
 host-suffix, maimemo.com, direct
