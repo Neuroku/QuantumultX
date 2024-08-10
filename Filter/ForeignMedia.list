@@ -1,5 +1,8 @@
 # GiffGaff
 host-suffix, giffgaff.com, proxy
+host-suffix, postcodeanywhere.co.uk, proxy
+host-suffix, pcapredict.com, proxy
+host-suffix, dynamicyield.com, proxy
 
 # Emby
 host-suffix, pilipiliultra.top, proxy
