@@ -346,5 +346,5 @@ host-suffix, tanx.com, reject
 
 ; > Eudic
 host-suffix, umeng.com, reject
-host-suffix, umengcloud.com, reject
+host-keyword, umengcloud, reject
 host-suffix, puata.info, reject
