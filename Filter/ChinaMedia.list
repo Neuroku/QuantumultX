@@ -1,3 +1,7 @@
+# 墨墨背单词
+host-suffix, maimemo.com, direct
+host-suffix, maimemostatus.com, direct
+
 # Eudic
 host-suffix, eudic.net, direct
 host-suffix, esdic.cn, direct
