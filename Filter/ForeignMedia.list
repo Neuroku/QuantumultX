@@ -1,3 +1,10 @@
+# Amazon
+host-suffix, amazon.com, direct
+host-suffix, amazonaws.com, direct
+host-suffix, a2z.com, direct
+host-suffix, cloudfront.net, direct
+host-suffix, amazon.dev, direct
+
 # GiffGaff
 host-suffix, giffgaff.com, proxy
 host-suffix, postcodeanywhere.co.uk, proxy
