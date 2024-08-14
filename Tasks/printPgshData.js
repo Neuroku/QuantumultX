@@ -1,18 +1,18 @@
-// 引入Quantumult X的环境变量处理库
-const env = $environment;
+// Quantumult X script to output the content of the environment variable pgsh_data
+// The script is triggered by a specific URL matching rule
 
-// 检查pgsh_data环境变量
-if (env && env.pgsh_data) {
-    console.log("pgsh_data 内容:", env.pgsh_data);
-    // 可以将内容输出到控制台或直接返回给客户端
-    $done({
-        response: {
-            status: 200,
-            body: JSON.stringify({
-                message: "pgsh_data 内容",
-                data: env.pgsh_data
-            })
-        }
+// Fetch the environment variable pgsh_data
+let pgshData = $persistentStore.read("pgsh_data");
+
+// Check if pgsh_data exists
+if (pgshData) {
+    console.log("pgsh_data 内容:", pgshData);
+    // Modify the request body or respond with the pgsh_data content
+    $done({ 
+        response: { 
+            status: 200, 
+            body: pgshData 
+        } 
     });
 } else {
     console.log("pgsh_data 环境变量未定义");
