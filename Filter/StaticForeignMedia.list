@@ -568,7 +568,7 @@ ip-cidr, 54.162.243.80/32, proxy
 ip-cidr, 54.173.34.141/32, proxy
 ip-cidr, 54.235.23.242/32, proxy
 ip-cidr, 54.93.124.31/32, proxy
-IP-ASN,32934, proxy
+ip-asn, 32934, proxy
 
 # serv00
 host-suffix, serv00.com, proxy
