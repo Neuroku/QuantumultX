@@ -13,32 +13,12 @@ host-suffix, maimemo.com, direct
 host-suffix, maimemostatus.com, direct
 
 # Eudic
-host-suffix, eudic.net, direct
 host-suffix, esdic.cn, direct
-host-suffix, frdic.com, direct
 host-suffix, esdict.net, direct
+host-suffix, eudic.net, direct
+host-suffix, frdic.com, direct
 
 # BiliBili
-host, 112-81-125-43.dhost.00cdn.com, direct
-host, 113-219-145-1.ksyungslb.com, direct
-host, 114-236-92-129.ksyungslb.com, direct
-host, 180-101-74-1.ksyungslb.com, direct
-host-suffix, ourdvsss.com, direct
-host, 218-91-225-1.ksyungslb.com, direct
-host, 219-155-150-1.ksyungslb.com, direct
-host, 222-188-6-1.ksyungslb.com, direct
-host, 36-104-134-1.ksyungslb.com, direct
-host, 36-25-252-1.ksyungslb.com, direct
-host, 3ge3drmttga5nhcbqge3ur.ourdvsss.com, direct
-host, 3geauymtsgrzdnqbofa5do.ourdvsss.com, direct
-host, 3geauymtsgrzdnqbofa5dy.ourdvsss.com, direct
-host, 3geauymtsgrzdrcbzfahue.ourdvsss.com, direct
-host, 3geauymtsgrzdrcbzfahuk.ourdvsss.com, direct
-host, 4go41hcjtgazdoctqge4o.ourdvsss.com, direct
-host, p-bstarstatic.akamaized.net, direct
-host, p.bstarstatic.com, direct
-host, upos-bstar-mirrorakam.akamaized.net, direct
-host, upos-bstar1-mirrorakam.akamaized.net, direct
 host-suffix, acg.tv, direct
 host-suffix, acgvideo.com, direct
 host-suffix, animetamashi.cn, direct
@@ -96,15 +76,25 @@ host-suffix, im9.com, direct
 host-suffix, maoercdn.com, direct
 host-suffix, mcbbs.net, direct
 host-suffix, mincdn.com, direct
+host-suffix, ourdvsss.com, direct
 host-suffix, sharejoytech.com, direct
 host-suffix, smtcdns.net, direct
 host-suffix, upos-hz-mirrorakam.akamaized.net, direct
 host-suffix, uposdash-302-bilivideo.yfcdn.net, direct
 host-suffix, yo9.com, direct
-user-agent, *bili*, direct
-user-agent, Bilibili*, direct
-user-agent, bili*, direct
-user-agent, bili-inter*, direct
+host, 112-81-125-43.dhost.00cdn.com, direct
+host, 113-219-145-1.ksyungslb.com, direct
+host, 114-236-92-129.ksyungslb.com, direct
+host, 180-101-74-1.ksyungslb.com, direct
+host, 218-91-225-1.ksyungslb.com, direct
+host, 219-155-150-1.ksyungslb.com, direct
+host, 222-188-6-1.ksyungslb.com, direct
+host, 36-104-134-1.ksyungslb.com, direct
+host, 36-25-252-1.ksyungslb.com, direct
+host, p-bstarstatic.akamaized.net, direct
+host, p.bstarstatic.com, direct
+host, upos-bstar-mirrorakam.akamaized.net, direct
+host, upos-bstar1-mirrorakam.akamaized.net, direct
 ip-cidr, 106.75.74.76/32, direct
 ip-cidr, 111.206.25.147/32, direct
 ip-cidr, 119.3.238.64/32, direct
@@ -113,6 +103,10 @@ ip-cidr, 120.92.113.99/32, direct
 ip-cidr, 120.92.153.217/32, direct
 ip-cidr, 134.175.207.130/32, direct
 ip-cidr, 203.107.1.0/24, direct
+user-agent, *bili*, direct
+user-agent, Bilibili*, direct
+user-agent, bili*, direct
+user-agent, bili-inter*, direct
 
 # Tencent
 host-suffix, 1700.cn, direct
@@ -587,11 +581,6 @@ host-suffix, ywurl.cn, direct
 host-suffix, ywurl.com, direct
 host-suffix, yximg.cn, direct
 host-suffix, zjump.cn, direct
-user-agent, MOO%E9%9F%B3%E4%B9%90*, direct
-user-agent, QQ%E9%9F%B3%E4%B9%90, direct
-user-agent, TencentMidasConnect*, direct
-user-agent, live4iphone*, direct
-user-agent, qqlive4iphone*, direct
 ip-cidr, 101.32.104.4/32, direct
 ip-cidr, 101.32.104.41/32, direct
 ip-cidr, 101.32.104.56/32, direct
@@ -603,7 +592,25 @@ ip-cidr, 103.238.16.0/23, direct
 ip-cidr, 103.7.28.0/22, direct
 ip-cidr, 129.226.107.244/32, direct
 ip-cidr, 129.226.3.47/32, direct
+user-agent, MOO%E9%9F%B3%E4%B9%90*, direct
+user-agent, QQ%E9%9F%B3%E4%B9%90, direct
+user-agent, TencentMidasConnect*, direct
+user-agent, live4iphone*, direct
+user-agent, qqlive4iphone*, direct
+
 # WeChat
+host-suffix, iot-tencent.com, direct
+host-suffix, lbs.gtimg.com, direct
+host-suffix, map.qq.com, direct
+host-suffix, up-hl.3g.qq.com, direct
+host-suffix, vweixinthumb.tc.qq.com, direct
+host-suffix, wechatos.net, direct
+host-suffix, weixin.qq.com, direct
+host-suffix, wx.gtimg.com, direct
+host-suffix, wx.qq.com, direct
+host-suffix, wxapp.tc.qq.com, direct
+host-suffix, wxs.qq.com, direct
+host-suffix, yun-hl.3g.qq.com, direct
 host, apd-pcdnwxlogin.teg.tencent-cloud.net, direct
 host, btrace.qq.com, direct
 host, dl.wechat.com, direct
@@ -622,18 +629,7 @@ host, weixin110.qq.com, direct
 host, wup.imtt.qq.com, direct
 host, wx.tenpay.com, direct
 host, wxapp.tc.qq.com, direct
-host-suffix, iot-tencent.com, direct
-host-suffix, lbs.gtimg.com, direct
-host-suffix, map.qq.com, direct
-host-suffix, up-hl.3g.qq.com, direct
-host-suffix, vweixinthumb.tc.qq.com, direct
-host-suffix, wechatos.net, direct
-host-suffix, weixin.qq.com, direct
-host-suffix, wx.gtimg.com, direct
-host-suffix, wx.qq.com, direct
-host-suffix, wxapp.tc.qq.com, direct
-host-suffix, wxs.qq.com, direct
-host-suffix, yun-hl.3g.qq.com, direct
+ip-asn, 132203, direct
 user-agent, MicroMessenger*, direct
 user-agent, WeChat*, direct
-ip-asn, 132203, direct
+
