@@ -76,6 +76,7 @@ host-suffix, wikisource.org, proxy
 host-suffix, wikiversity.org, proxy
 host-suffix, wikivoyage.org, proxy
 host-suffix, wiktionary.org, proxy
+
 # Docker
 host, d1q6f0aelx0por.cloudfront.net, proxy
 host, d2wy8f7a9ursnm.cloudfront.net, proxy
@@ -84,6 +85,7 @@ host-suffix, compose-spec.io, proxy
 host-suffix, docker.com, proxy
 host-suffix, docker.io, proxy
 host-suffix, dockerhub.com, proxy
+
 # OpenAI
 host, browser-intake-datadoghq.com, proxy
 host, chat.openai.com.cdn.cloudflare.net, proxy
@@ -121,9 +123,11 @@ host-keyword, openai, proxy
 ip-cidr, 24.199.123.28/32, proxy
 ip-cidr, 64.23.132.171/32, proxy
 ip-asn, 20473, proxy
-# > Arc Browser
+
+# Arc Browser
 # host, api.segment.io
 host, cdn-settings.segment.com, proxy
+
 # Notion
 host, http-inputs-notion.splunkcloud.com, proxy
 host-suffix, notion-static.com, proxy
@@ -131,6 +135,7 @@ host-suffix, notion.com, proxy
 host-suffix, notion.new, proxy
 host-suffix, notion.site, proxy
 host-suffix, notion.so, proxy
+
 # Whatsapp
 host, graph.facebook.com, proxy
 host-suffix, bintray.com, proxy
@@ -149,6 +154,7 @@ ip-cidr, 208.43.122.128/27, proxy
 ip-cidr, 34.224.0.0/12, proxy
 ip-cidr, 50.22.198.204/30, proxy
 ip-cidr, 54.242.0.0/15, proxy
+
 # Discord
 host-suffix, airhorn.solutions, proxy
 host-suffix, airhornbot.com, proxy
@@ -178,6 +184,7 @@ host-suffix, discordsays.com, proxy
 host-suffix, discordstatus.com, proxy
 host-suffix, hammerandchisel.ssl.zendesk.com, proxy
 host-suffix, watchanimeattheoffice.com, proxy
+
 # Microsoft 无 github
 host, bg.v4.a.dl.ws.microsoft.com, proxy
 host, bg4.v4.a.dl.ws.microsoft.com, proxy
