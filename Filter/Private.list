@@ -1,13 +1,13 @@
 # 一定需要直连的, 涉及支付， 银行， gov.cn， ISP
 
 # China ISP
+
 ## ChinaTelecom
 host-suffix, 01058511989.com, direct
 host-suffix, 10000.gd.cn, direct
 host-suffix, 189.cn, direct
 host-suffix, 189jk.cn, direct
 host-suffix, 189qas.com, direct
-host-suffix, ctyunxs.cn, direct
 host-suffix, 21cn.com, direct
 host-suffix, 21cn.net, direct
 host-suffix, 21cnentmail.com, direct
@@ -67,6 +67,7 @@ host-suffix, ctyunbdcsc.cn, direct
 host-suffix, ctyuncdn.cn, direct
 host-suffix, ctyuncdn.com, direct
 host-suffix, ctyuncdn.net, direct
+host-suffix, ctyunxs.cn, direct
 host-suffix, ctzcdn.cn, direct
 host-suffix, ctzcdn.com, direct
 host-suffix, ctzcdn.net, direct
@@ -86,7 +87,8 @@ host-suffix, wuyou189.cn, direct
 host-suffix, wuyou189.com, direct
 host-suffix, ycy100.cn, direct
 host-suffix, yichuangyun.com.cn, direct
-## ChinaUnicom 
+
+## ChinaUnicom
 host-suffix, 10010.cn, direct
 host-suffix, 10010.com, direct
 host-suffix, 10010.com.cn, direct
@@ -121,6 +123,7 @@ host-suffix, wo.com.cn, direct
 host-suffix, wobaif.com, direct
 host-suffix, wom186.com, direct
 IP-CIDR,113.200.56.63/32, direct
+
 ## ChinaMobile
 host-suffix, 10086.cn, direct
 host-suffix, 10086kuaixiu.com, direct
@@ -158,6 +161,7 @@ host-suffix, mmarket6.com, direct
 host-suffix, monternet.com, direct
 host-suffix, warmchina121.com, direct
 host-suffix, zdsdp.com, direct
+
 # UnionPay 中国银联
 host-suffix, 95516.com, direct
 host-suffix, 95516.net, direct
@@ -175,6 +179,7 @@ host-suffix, unionpay.net, direct
 host-suffix, unionpayintl.cn, direct
 host-suffix, unionpayintl.com, direct
 host-suffix, unionpaysecure.com, direct
+
 # Alipay 支付宝
 host-suffix, alipay, direct
 host-suffix, alipay-corp.com, direct
@@ -197,17 +202,13 @@ host-suffix, alipayplus.com, direct
 host-suffix, ifaa.org.cn, direct
 host-suffix, luohanacademy.com, direct
 host-suffix, sinopayment.com.cn, direct
+
 # AirChina
 host-suffix, airchina.com.cn, direct
 host-suffix, airchinacargo.com, direct
 
 # PayPal
-host-suffix, account-paypal.info, direct
-host-suffix, account-paypal.net, direct
-host-suffix, account-paypal.org, direct
-host-suffix, accountpaypal.com, direct
-host-suffix, accountpaypal.net, direct
-host-suffix, accountpaypal.org, direct
+host-keyword, paypal, direct
 host-suffix, anfutong.cn, direct
 host-suffix, anfutong.com, direct
 host-suffix, anfutong.com.cn, direct
@@ -234,17 +235,13 @@ host-suffix, card.io, direct
 host-suffix, cash2.com, direct
 host-suffix, cashify.com, direct
 host-suffix, cashify.net, direct
-host-suffix, devtools-paypal.com, direct
 host-suffix, experiencebillmelater.com, direct
 host-suffix, filipino-music.net, direct
-host-suffix, fundpaypal.com, direct
 host-suffix, getbraintree.com, direct
 host-suffix, gmoney.org, direct
 host-suffix, i-o-u.info, direct
 host-suffix, krakenjs.com, direct
 host-suffix, loanbuilder.com, direct
-host-suffix, login-paypal.com, direct
-host-suffix, login-paypal.info, direct
 host-suffix, mywaytopay.info, direct
 host-suffix, mywaytopay.net, direct
 host-suffix, pa9pal.com, direct
@@ -258,177 +255,23 @@ host-suffix, paylike.com, direct
 host-suffix, paypa1.com, direct
 host-suffix, paypa1.org, direct
 host-suffix, paypaal.com, direct
-host-suffix, paypal-activate.com, direct
-host-suffix, paypal-activate.info, direct
-host-suffix, paypal-activate.org, direct
-host-suffix, paypal-apac.com, direct
-host-suffix, paypal-apps.com, direct
-host-suffix, paypal-biz.com, direct
-host-suffix, paypal-brandcentral.com, direct
-host-suffix, paypal-business.com, direct
-host-suffix, paypal-business.net, direct
-host-suffix, paypal-business.org, direct
-host-suffix, paypal-cardcash.com, direct
-host-suffix, paypal-cash.com, direct
-host-suffix, paypal-center.com, direct
-host-suffix, paypal-center.info, direct
-host-suffix, paypal-center.net, direct
-host-suffix, paypal-center.org, direct
-host-suffix, paypal-communication.com, direct
-host-suffix, paypal-communications.com, direct
-host-suffix, paypal-communications.net, direct
-host-suffix, paypal-community.com, direct
-host-suffix, paypal-community.net, direct
-host-suffix, paypal-comunidad.com, direct
-host-suffix, paypal-corp.com, direct
-host-suffix, paypal-database.com, direct
-host-suffix, paypal-database.us, direct
-host-suffix, paypal-donations.com, direct
-host-suffix, paypal-dynamic.com, direct
-host-suffix, paypal-engineering.com, direct
-host-suffix, paypal-europe.com, direct
-host-suffix, paypal-excelinvoicing.com, direct
-host-suffix, paypal-exchanges.com, direct
-host-suffix, paypal-forward.com, direct
-host-suffix, paypal-galactic.com, direct
-host-suffix, paypal-gift.com, direct
-host-suffix, paypal-gifts.com, direct
-host-suffix, paypal-gpplus.com, direct
-host-suffix, paypal-here.com, direct
-host-suffix, paypal-hrsystem.com, direct
-host-suffix, paypal-innovationlab.com, direct
-host-suffix, paypal-integration.com, direct
-host-suffix, paypal-japan.com, direct
-host-suffix, paypal-knowledge.com, direct
-host-suffix, paypal-labs.com, direct
-host-suffix, paypal-latam.com, direct
-host-suffix, paypal-learning.com, direct
-host-suffix, paypal-login.com, direct
-host-suffix, paypal-login.info, direct
-host-suffix, paypal-login.org, direct
-host-suffix, paypal-login.us, direct
-host-suffix, paypal-luxury.com, direct
-host-suffix, paypal-mainstreet.net, direct
-host-suffix, paypal-marketing.com, direct
-host-suffix, paypal-media.com, direct
-host-suffix, paypal-merchantloyalty.com, direct
-host-suffix, paypal-mktg.com, direct
-host-suffix, paypal-mobilemoney.com, direct
-host-suffix, paypal-network.org, direct
-host-suffix, paypal-notice.com, direct
-host-suffix, paypal-notify.com, direct
-host-suffix, paypal-online.info, direct
-host-suffix, paypal-online.net, direct
-host-suffix, paypal-online.org, direct
-host-suffix, paypal-optimizer.com, direct
-host-suffix, paypal-pages.com, direct
-host-suffix, paypal-photocard.com, direct
-host-suffix, paypal-plaza.com, direct
-host-suffix, paypal-portal.com, direct
-host-suffix, paypal-prepagata.com, direct
-host-suffix, paypal-prepagata.net, direct
-host-suffix, paypal-prepaid.com, direct
-host-suffix, paypal-profile.com, direct
-host-suffix, paypal-proserv.com, direct
-host-suffix, paypal-qrshopping.org, direct
-host-suffix, paypal-recargacelular.com, direct
-host-suffix, paypal-redeem.com, direct
-host-suffix, paypal-referral.com, direct
-host-suffix, paypal-retail.com, direct
-host-suffix, paypal-scoop.com, direct
-host-suffix, paypal-search.com, direct
-host-suffix, paypal-secure.net, direct
-host-suffix, paypal-secure.org, direct
-host-suffix, paypal-security.net, direct
-host-suffix, paypal-security.org, direct
-host-suffix, paypal-service.org, direct
-host-suffix, paypal-signin.com, direct
-host-suffix, paypal-signin.us, direct
-host-suffix, paypal-special.com, direct
-host-suffix, paypal-specialoffers.com, direct
-host-suffix, paypal-sptam.com, direct
-host-suffix, paypal-status.com, direct
-host-suffix, paypal-support.com, direct
-host-suffix, paypal-survey.com, direct
-host-suffix, paypal-survey.org, direct
-host-suffix, paypal-team.com, direct
-host-suffix, paypal-viewpoints.net, direct
-host-suffix, paypal.ca, direct
-host-suffix, paypal.com, direct
-host-suffix, paypal.com.cn, direct
-host-suffix, paypal.com.hk, direct
-host-suffix, paypal.com.sg, direct
-host-suffix, paypal.hk, direct
-host-suffix, paypal.info, direct
-host-suffix, paypal.jp, direct
-host-suffix, paypal.me, direct
-host-suffix, paypal.net.cn, direct
-host-suffix, paypal.org.cn, direct
-host-suffix, paypal.so, direct
-host-suffix, paypal.us, direct
-host-suffix, paypalbeacon.com, direct
-host-suffix, paypalbenefits.com, direct
-host-suffix, paypalbrasil.com, direct
-host-suffix, paypalcommunity.cn, direct
-host-suffix, paypalcommunity.com, direct
-host-suffix, paypalcommunity.net, direct
-host-suffix, paypalcommunity.org, direct
-host-suffix, paypalcorp.com, direct
-host-suffix, paypalcredit.com, direct
-host-suffix, paypalcreditcard.com, direct
-host-suffix, paypalgivingfund.org, direct
-host-suffix, paypalhere.cn, direct
-host-suffix, paypalhere.com, direct
-host-suffix, paypalhere.com.cn, direct
-host-suffix, paypalhere.info, direct
-host-suffix, paypalhere.net, direct
-host-suffix, paypalhere.org, direct
-host-suffix, paypalhere.tv, direct
-host-suffix, paypali.net, direct
-host-suffix, paypalinc.com, direct
-host-suffix, paypalindia.com, direct
-host-suffix, paypalinsuranceservices.org, direct
-host-suffix, paypall.com, direct
-host-suffix, paypallabs.com, direct
-host-suffix, paypalme.com, direct
-host-suffix, paypalnet.net, direct
-host-suffix, paypalnet.org, direct
-host-suffix, paypalnetwork.info, direct
-host-suffix, paypalnetwork.net, direct
-host-suffix, paypalnetwork.org, direct
-host-suffix, paypalobjects.com, direct
-host-suffix, paypalonline.net, direct
-host-suffix, paypalonline.org, direct
-host-suffix, paypalprepagata.com, direct
-host-suffix, paypalprepagata.net, direct
-host-suffix, paypalservice.com, direct
-host-suffix, paypalshopping.com, direct
-host-suffix, paypalshopping.net, direct
-host-suffix, paypalsurvey.com, direct
-host-suffix, paypalx.com, direct
-host-suffix, paypaly.com, direct
 host-suffix, payppal.com, direct
 host-suffix, payypal.com, direct
 host-suffix, pdncommunity.com, direct
 host-suffix, pp-soc.com, direct
-host-suffix, ppaypal.com, direct
 host-suffix, pppds.com, direct
 host-suffix, pypl.com, direct
 host-suffix, pypl.info, direct
 host-suffix, pypl.net, direct
 host-suffix, pypl.tv, direct
 host-suffix, s-xoom.com, direct
-host-suffix, secure-paypal.info, direct
-host-suffix, securepaypal.info, direct
 host-suffix, simility.com, direct
-host-suffix, sslpaypal.org, direct
 host-suffix, swiftbank.info, direct
 host-suffix, swiftbank.us, direct
 host-suffix, swiftcapital.com, direct
 host-suffix, swiftfinancial.com, direct
 host-suffix, swiftfinancial.info, direct
 host-suffix, swiftfinancial.net, direct
-host-suffix, thepaypalshop.com, direct
 host-suffix, theshoppingexpresslane.net, direct
 host-suffix, venmo-touch.com, direct
 host-suffix, venmo.com, direct
@@ -438,8 +281,6 @@ host-suffix, venmo.org, direct
 host-suffix, venmo.s3.amazonaws.com, direct
 host-suffix, webmoneyinfo.com, direct
 host-suffix, wiremoneytoirelandwithxoomeasierandcheaper.com, direct
-host-suffix, www-paypal.info, direct
-host-suffix, www-paypal.us, direct
 host-suffix, wwwxoom.com, direct
 host-suffix, xn--bnq297cix3a.cn, direct
 host-suffix, xoom-experience.com, direct
@@ -448,24 +289,25 @@ host-suffix, xoom.io, direct
 host-suffix, xoom.net.cn, direct
 host-suffix, xoom.us, direct
 host-suffix, xoomcom.com, direct
-host-keyword, paypal, direct
 user-agent, direct*, direct
+
 # 12306
-host-suffix,12306.cn, direct
+host-suffix,china-ric.com, direct
 host-suffix,95306.cn, direct
 host-suffix,95572.com, direct
-host-suffix,china-railway.com.cn, direct
-host-suffix,china-ric.com, direct
-host-suffix,crct.com, direct
-host-suffix,cre.cn, direct
-host-suffix,crecc.com.cn, direct
 host-suffix,creip.cn, direct
-host-suffix,crscl.com.cn, direct
-host-suffix,gzrailway.com.cn, direct
-host-suffix,nntlj.com, direct
-host-suffix,peoplerail.com, direct
 host-suffix,rails.cn, direct
 host-suffix,tdpress.com, direct
+host-suffix,nntlj.com, direct
+host-suffix,crscl.com.cn, direct
+host-suffix,gzrailway.com.cn, direct
+host-suffix,crct.com, direct
+host-suffix,peoplerail.com, direct
+host-suffix,crecc.com.cn, direct
+host-suffix,12306.cn, direct
+host-suffix,china-railway.com.cn, direct
+host-suffix,cre.cn, direct
+
 # ABC 中国农业银行
 host-suffix, 95599.cn, direct
 host-suffix, abchina.com, direct
@@ -473,6 +315,7 @@ host-suffix, bscabank.com, direct
 host-suffix, openaboc.cn, direct
 host-suffix, openaboc.com, direct
 host-suffix, openaboc.com.cn, direct
+
 # BOC 中国银行
 host-suffix, bank-of-china.com, direct
 host-suffix, bankofchina.com, direct
@@ -496,6 +339,7 @@ host-suffix, bocigroup.com, direct
 host-suffix, bocim.com, direct
 host-suffix, bocservices.com.cn, direct
 host-suffix, ftcwifi.com, direct
+
 # BOCOM 中国交通银行
 host-suffix, 95559.com.cn, direct
 host-suffix, 95559.sh.cn, direct
@@ -503,6 +347,7 @@ host-suffix, bankcomm.com, direct
 host-suffix, bankcomm.com.au, direct
 host-suffix, bankcomm.com.mo, direct
 host-suffix, bankcomm.com.tw, direct
+
 # CCB 中国建设银行
 host-suffix, ccb-life.com.cn, direct
 host-suffix, ccb.cn, direct
@@ -522,6 +367,7 @@ host-suffix, ccblife-test.com.cn, direct
 host-suffix, ccbseoul.com, direct
 host-suffix, ccbtrust.com.cn, direct
 host-suffix, ccbxt.com, direct
+
 # CEB 中国光大银行
 host-suffix, cebbank.com, direct
 host-suffix, ceblease.com, direct
@@ -538,11 +384,13 @@ host-suffix, ebtrust.com, direct
 host-suffix, everbright.com, direct
 host-suffix, secec.com, direct
 host-suffix, sunlife-everbright.com, direct
+
 # CGB 中国广发银行
 host-suffix, 95508.com, direct
 host-suffix, cgbchina.cn, direct
 host-suffix, cgbchina.com.cn, direct
 host-suffix, gdb.com.cn, direct
+
 # CMB 中国招商银行
 host-suffix, 8008205555.cn, direct
 host-suffix, 8008205555.com, direct
@@ -582,6 +430,7 @@ host-suffix, wuxizazhi.com, direct
 host-suffix, wuxizazhi.com.cn, direct
 host-suffix, wuxizazhi.net, direct
 host-suffix, wuxizazhi.net.cn, direct
+
 # ICBC 中国工商银行
 host-suffix, 95588.com, direct
 host-suffix, 95588.com.cn, direct
@@ -641,10 +490,12 @@ host-suffix, icbcswiss.com, direct
 host-suffix, icbcthai.com, direct
 host-suffix, icbkfs.com, direct
 host-suffix, icbkus.com, direct
+
 # PSBC 中国邮政储蓄银行
 host-suffix, 95580.net, direct
 host-suffix, psbc.com, direct
 host-suffix, psbcoa.com.cn, direct
+
 # JD 京东
 host-suffix, 1huizhan.com, direct
 host-suffix, 3.cn, direct
@@ -897,32 +748,32 @@ host-suffix, yizhitou.com, direct
 
 # 修正
 host-suffix, 360buying.com, direct
+host-suffix, 95516.com, direct
 host-suffix, aliapp.org, direct
+host-suffix, alibabausercontent.com, direct
 host-suffix, alicdn.com, direct
 host-suffix, aliyuncs.com, direct
-host-suffix, alibabausercontent.com, direct
-host-suffix, 95516.com, direct
-host-suffix, cup.com.cn, direct
-host-suffix, citicbank.com, direct
+host-suffix, cfhc.citic, direct
 host-suffix, citicbank.cn, direct
-host-suffix, ecitic.com, direct
+host-suffix, citicbank.com, direct
 host-suffix, ctrip.com, direct
 host-suffix, ctripins.com, direct
+host-suffix, cup.com.cn, direct
 host-suffix, dianping.com, direct
+host-suffix, ecitic.com, direct
+host-suffix, intsig.net, direct
+host-suffix, jpush.cn, direct
 host-suffix, meituan.com, direct
 host-suffix, meituan.net, direct
+host-suffix, scqckypw.com, direct
 host-suffix, taobao.com, direct
 host-suffix, tripcdn.cn, direct
 host-suffix, wechatpay.cn, direct
-host-suffix, jpush.cn, direct
-host-suffix, cfhc.citic, direct
-host-suffix, intsig.net, direct
-host-suffix, scqckypw.com, direct
 
 # gov, edu.cn, chsi.com.cn
-host-suffix, gov.cn, direct
-host-suffix, edu.cn, direct
 host-suffix, chsi.com.cn, direct
+host-suffix, edu.cn, direct
+host-suffix, gov.cn, direct
 
 # AmazonCN
 host-suffix, a2z.org.cn, direct
