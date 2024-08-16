@@ -1,5 +1,4 @@
 # Hijacking 运营商劫持
-host, geo2.adobe.com, reject
 host-suffix, 17gouwuba.com, reject
 host-suffix, 186078.com, reject
 host-suffix, 189key.com, reject
@@ -185,6 +184,7 @@ host-suffix, zmlled.cn, reject
 host-suffix, zryydi.com, reject
 host-suffix, zunmi.cn, reject
 host-suffix, zzd6.com, reject
+host, geo2.adobe.com, reject
 ip-cidr, 103.49.209.27/32, reject
 ip-cidr, 106.75.231.48/32, reject
 ip-cidr, 111.175.220.163/32, reject
@@ -228,27 +228,32 @@ ip-cidr, 61.160.200.242/32, reject
 ip-cidr, 61.160.200.252/32, reject
 ip-cidr, 61.174.50.214/32, reject
 
-;Privacy protection and ad blocking, including carrier hijacking and user habit collection.
-;Internet Service Providers Hijacking(Hijacking) REJECT
-; > ChinaTelecom
+#Privacy protection and ad blocking, including carrier hijacking and user habit collection.
+
+#Internet Service Providers Hijacking(Hijacking) REJECT
+
+# > ChinaTelecom
 ip-cidr, 222.186.61.96/32, reject
 ip-cidr, 222.186.61.97/32, reject
-; > ChinaUnicom
-; > ChinaMobile
-; > Dr.Peng
-; ip-cidr, 10.72.25.0/24, reject
-; Malware
-; > Huawei AspiegelBot
-; > KuaiZip
-; https://zhuanlan.zhihu.com/p/39534279
-; > MacKeeper
-; https://www.lizhi.io/blog/40002904
-; > Adobe Flash China Special Edition
-; https://www.zhihu.com/question/281163698/answer/441388130
-; > C&J Marketing
-; https://www.zhihu.com/question/46746200
-; Privacy REJECT
+
+# > ChinaUnicom
+# > ChinaMobile
+# > Dr.Peng
+# ip-cidr, 10.72.25.0/24, reject
+# Malware
+# > Huawei AspiegelBot
+# > KuaiZip
+# https://zhuanlan.zhihu.com/p/39534279
+# > MacKeeper
+# https://www.lizhi.io/blog/40002904
+# > Adobe Flash China Special Edition
+# https://www.zhihu.com/question/281163698/answer/441388130
+# > C&J Marketing
+# https://www.zhihu.com/question/46746200
+
+# Privacy REJECT
 host-suffix, adjust.com, reject
+host-suffix, ads.linkedin.com, reject
 host-suffix, airpr.com, reject
 host-suffix, cr-nielsen.com, reject
 host-suffix, hotjar.com, reject
@@ -296,58 +301,71 @@ host-suffix, woopra.com, reject
 host-suffix, wootric.com, reject
 host-suffix, wowanalytics.co.uk, reject
 host-suffix, zoomanalytics.co, reject
-host-suffix, ads.linkedin.com, reject
 host, analytics.slashdotmedia.com, reject
 host, zgsdk.zhugeio.com, reject
-; > 51.LA
+
+# > 51.LA
 host, js.users.51.la, reject
 host, mc.51.la, reject
 host, wc.51.la, reject
-; > 58
+
+# > 58
 host, track.58.com, reject
 host, tracklog.58.com, reject
-; > Baidu
+
+# > Baidu
 host, hm.baidu.com, reject
 host, hmma.baidu.com, reject
-; > Daum
+
+# > Daum
 host, track.tiara.daum.net, reject
 host, track.tiara.kakao.com, reject
-; > Google
-host-suffix, googletagmanager.com, reject
+
+# > Google
 host-suffix, google-analytics.com, reject
+host-suffix, googletagmanager.com, reject
 host, safebrowsing.googleapis.com, reject
-; > GozenData
-; https://www.v2ex.com/t/772523
+
+# > GozenData
+
+# https://www.v2ex.com/t/772523
 host-suffix, gozendata.com, reject
-host-suffix, gzads.com, reject
 host-suffix, gz-data.com, reject
-; > GrowingIO
+host-suffix, gzads.com, reject
+
+# > GrowingIO
 host-suffix, giocdn.com, reject
 host-suffix, growingio.com, reject
-; > MI
+
+# > MI
 host-suffix, tracking.miui.com, reject
-; host, api.miwifi.com // 影响 Mi Wi-Fi(id859962702)，但建议注意 https://www.v2ex.com/t/746094
+
+# host, api.miwifi.com // 影响 Mi Wi-Fi(id859962702)，但建议注意 https://www.v2ex.com/t/746094
 host, data.mistat.xiaomi.com, reject
 host, tracking.intl.miui.com, reject
-; > TalkingData
+
+# > TalkingData
 host-suffix, cpatrk.net, reject
 host-suffix, talkingdata.com, reject
 host-suffix, talkingdata.net, reject
 host-suffix, udrig.com, reject
-; > Tencent
+
+# > Tencent
 host, safebrowsing.urlsec.qq.com, reject
-; > Tenjin
+
+# > Tenjin
 host, track.tenjin.com, reject
 host, track.tenjin.io, reject
-; self fetched
+
+# self fetched
 host-suffix, getui.com, reject
 host-suffix, jpush.cn, reject
 host-suffix, tanx.com, reject
 
-; > GiffGaff
+# > GiffGaff
 host-suffix, dynamicyield.com, reject
 
-; > Eudic
-host-suffix, umeng.com, reject
+# > Eudic
 host-keyword, umengcloud, reject
 host-suffix, puata.info, reject
+host-suffix, umeng.com, reject
