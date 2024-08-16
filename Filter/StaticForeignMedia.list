@@ -1,3 +1,9 @@
+# Instagram
+host-suffix, cdninstagram.com, proxy
+host-suffix, instagr.am, proxy
+host-suffix, instagram.com, proxy
+host-keyword, instagram, proxy
+
 # serv00
 host-suffix, serv00.com, proxy
 
