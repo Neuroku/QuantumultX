@@ -1,3 +1,8 @@
+# Economist
+host-suffix, economist.com, proxy
+host-suffix, econ.trib.al, proxy
+host-suffix, econ.st, proxy
+
 # Amazon
 host-suffix, a2z.com, direct
 host-suffix, amazon.com, direct
