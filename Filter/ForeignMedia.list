@@ -1,3 +1,8 @@
+# Archive
+host-suffix, archive.li, proxy
+host-suffix, archive.fo, proxy
+host-suffix, archive.ph, proxy
+
 # Economist
 host-suffix, economist.com, proxy
 host-suffix, econ.trib.al, proxy
