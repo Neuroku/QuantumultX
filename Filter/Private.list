@@ -385,6 +385,10 @@ host-suffix, everbright.com, direct
 host-suffix, secec.com, direct
 host-suffix, sunlife-everbright.com, direct
 
+
+# scrcu 中国农村信用社
+host-suffix, scrcu.com
+
 # CGB 中国广发银行
 host-suffix, 95508.com, direct
 host-suffix, cgbchina.cn, direct
