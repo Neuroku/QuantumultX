@@ -325,6 +325,7 @@ host, track.tiara.kakao.com, reject
 host-suffix, google-analytics.com, reject
 host-suffix, googletagmanager.com, reject
 host, safebrowsing.googleapis.com, reject
+host-keyword, googleads, reject
 
 # > GozenData
 
