@@ -1,0 +1,51 @@
+name: Update Foreign Media
+
+on:
+  # 1. schedule：定时触发
+  schedule:
+    # 这里设定为每天 0 点（UTC）执行一次，可根据需要修改 CRON 表达式
+    - cron: "0 0 * * *"
+
+  # 2. workflow_dispatch：允许手动触发
+  workflow_dispatch:
+
+jobs:
+  update-lists:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 第一步：签出当前仓库代码到 Actions 虚拟机
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      # 第二步：拉取多个远程 .list 文件并合并为 /Filter/StaticForeignMedia.list
+      - name: Fetch and combine lists
+        run: |
+          # 如果 Filter 文件夹尚未存在，可用 mkdir -p 创建
+          mkdir -p Filter
+
+          TARGET_FILE="Filter/StaticForeignMedia.list"
+
+          # 如果之前有残留，先删除旧文件
+          rm -f "$TARGET_FILE"
+
+          # 使用 curl 下载并合并到同一个文件中
+          curl -sSL "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Claude/Claude.list" >> "$TARGET_FILE"
+          curl -sSL "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list" >> "$TARGET_FILE"
+          curl -sSL "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Pixiv/Pixiv.list" >> "$TARGET_FILE"
+          curl -sSL "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Facebook/Facebook.list" >> "$TARGET_FILE"
+          curl -sSL "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Twitter/Twitter.list" >> "$TARGET_FILE"
+          curl -sSL "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Google/Google.list" >> "$TARGET_FILE"
+
+          # 如果需要对合并后内容进行处理，比如去重，可在这里加命令
+          # sort -u "$TARGET_FILE" -o "$TARGET_FILE"
+
+      # 第三步：提交并推送更新到当前仓库
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          # 仅提交 /Filter/StaticForeignMedia.list 这个文件
+          add: "Filter/StaticForeignMedia.list"
+          message: "chore: Update StaticForeignMedia.list"
+          # 如果需要，可以显式指定：
+          # github_token: ${{ secrets.GITHUB_TOKEN }}
