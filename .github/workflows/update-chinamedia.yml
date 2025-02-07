@@ -1,0 +1,61 @@
+name: Update ChinaMedia list
+
+on:
+  # 定时触发，每日 0 点（UTC）
+  schedule:
+    - cron: "0 0 * * *"
+  # 允许手动触发
+  workflow_dispatch:
+
+jobs:
+  update-china-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Fetch and combine lists
+        run: |
+          # 1. 确保有 Filter 文件夹
+          mkdir -p Filter
+
+          # 2. 定义目标文件、备份文件和临时文件路径
+          TARGET_FILE="Filter/ChinaMedia.list"
+          BACKUP_FILE="${TARGET_FILE}.bak"
+          TEMP_FILE="${TARGET_FILE}.tmp"
+
+          # 3. 如果旧的目标文件存在，把它先重命名为 .bak
+          if [ -f "$TARGET_FILE" ]; then
+            mv "$TARGET_FILE" "$BACKUP_FILE"
+          fi
+
+          # 4. 如果之前有残留的 .tmp 文件，先删除
+          rm -f "$TEMP_FILE"
+
+          # 5. 将远程内容下载并合并到临时文件 TEMP_FILE
+          curl -sSL "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Tencent/Tencent.list" >> "$TEMP_FILE"
+          curl -sSL "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Alibaba/Alibaba.list" >> "$TEMP_FILE"
+
+          # 6. 如果需要对下载后的内容去重、排序，可在这里执行
+          # sort -u "$TEMP_FILE" -o "$TEMP_FILE"
+
+          # 7. 判断合并后的临时文件是否非空
+          if [ -s "$TEMP_FILE" ]; then
+            # 如果新文件有效，则将其移动到目标文件，并删除旧的备份
+            mv "$TEMP_FILE" "$TARGET_FILE"
+            rm -f "$BACKUP_FILE"
+            echo "✅ Successfully updated ChinaMedia.list."
+          else
+            # 如果临时文件为空或下载失败，则删除临时文件并恢复旧文件
+            echo "❌ New file is empty or fetch failed. Reverting to old file."
+            rm -f "$TEMP_FILE"
+            if [ -f "$BACKUP_FILE" ]; then
+              mv "$BACKUP_FILE" "$TARGET_FILE"
+            fi
+          fi
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "Filter/ChinaMedia.list"
+          message: "chore: Update ChinaMedia.list"
