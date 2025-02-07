@@ -1,4 +1,4 @@
-name: Update Foreign Media
+name: Update StaticForeignMedia list
 
 on:
   # 1. schedule：定时触发
@@ -21,15 +21,22 @@ jobs:
       # 第二步：拉取多个远程 .list 文件并合并为 /Filter/StaticForeignMedia.list
       - name: Fetch and combine lists
         run: |
-          # 如果 Filter 文件夹尚未存在，可用 mkdir -p 创建
+          # 确保有 Filter 文件夹
           mkdir -p Filter
 
           TARGET_FILE="Filter/StaticForeignMedia.list"
+          BACKUP_FILE="${TARGET_FILE}.bak"
+          TEMP_FILE="${TARGET_FILE}.tmp"
 
-          # 如果之前有残留，先删除旧文件
-          rm -f "$TARGET_FILE"
+          # 如果旧文件存在，把它先重命名为 .bak
+          if [ -f "$TARGET_FILE" ]; then
+            mv "$TARGET_FILE" "$BACKUP_FILE"
+          fi
 
-          # 使用 curl 下载并合并到同一个文件中
+          # 如果之前有残留的 .tmp 文件，先删除
+          rm -f "$TEMP_FILE"
+
+          # 将远程内容下载并合并到临时文件
           curl -sSL "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Claude/Claude.list" >> "$TARGET_FILE"
           curl -sSL "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list" >> "$TARGET_FILE"
           curl -sSL "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Pixiv/Pixiv.list" >> "$TARGET_FILE"
@@ -37,8 +44,23 @@ jobs:
           curl -sSL "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Twitter/Twitter.list" >> "$TARGET_FILE"
           curl -sSL "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Google/Google.list" >> "$TARGET_FILE"
 
-          # 如果需要对合并后内容进行处理，比如去重，可在这里加命令
-          # sort -u "$TARGET_FILE" -o "$TARGET_FILE"
+          # 如果需要对合并后内容进行处理，比如去重，可在这里加命令：
+          # sort -u "$TEMP_FILE" -o "$TEMP_FILE"
+
+          # 判断新合并的文件是否非空
+          if [ -s "$TEMP_FILE" ]; then
+            # 如果新文件有效，则用它覆盖，并删除旧文件备份
+            mv "$TEMP_FILE" "$TARGET_FILE"
+            rm -f "$BACKUP_FILE"
+            echo "✅ Successfully updated StaticForeignMedia.list."
+          else
+            # 如果新文件为空或下载失败，则恢复旧文件，不进行更新
+            echo "❌ New file is empty or fetch failed. Reverting to old file."
+            rm -f "$TEMP_FILE"
+            if [ -f "$BACKUP_FILE" ]; then
+              mv "$BACKUP_FILE" "$TARGET_FILE"
+            fi
+          fi
 
       # 第三步：提交并推送更新到当前仓库
       - name: Commit and push changes
@@ -46,6 +68,7 @@ jobs:
         with:
           # 仅提交 /Filter/StaticForeignMedia.list 这个文件
           add: "Filter/StaticForeignMedia.list"
-          message: "chore: Update StaticForeignMedia.list"
-          # 如果需要，可以显式指定：
-          # github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: |
+            chore: Update StaticForeignMedia.list
+
+            ## Latest commit
