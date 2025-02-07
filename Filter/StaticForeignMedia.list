@@ -1,3 +1,10 @@
+# AI
+host-keyword, pplx, 
+host-suffix, perplexity.ai, 
+host-suffix, x.ai, 
+host-suffix, claude.ai, 
+
+
 # Facebook include Instgram
 host-keyword, facebook, HOME, via-interface=%TUN%
 host-keyword, fbcdn, HOME, via-interface=%TUN%
