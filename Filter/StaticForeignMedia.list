@@ -1,8 +1,8 @@
 # AI
-host-keyword, pplx, 
-host-suffix, perplexity.ai, 
-host-suffix, x.ai, 
-host-suffix, claude.ai, 
+host-keyword, pplx, HOME, via-interface=%TUN%
+host-suffix, perplexity.ai, HOME, via-interface=%TUN%
+host-suffix, x.ai, HOME, via-interface=%TUN%
+host-suffix, claude.ai, HOME, via-interface=%TUN%
 
 
 # Facebook include Instgram
