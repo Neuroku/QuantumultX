@@ -1,811 +1,811 @@
 # AI
-host-keyword, pplx, HOME, via-interface=%TUN%
-host-suffix, perplexity.ai, HOME, via-interface=%TUN%
-host-suffix, x.ai, HOME, via-interface=%TUN%
-host-suffix, claude.ai, HOME, via-interface=%TUN%
+host-keyword, pplx, HOME
+host-suffix, perplexity.ai, HOME
+host-suffix, x.ai, HOME
+host-suffix, claude.ai, HOME
 
 
 # Facebook include Instgram
-host-keyword, facebook, HOME, via-interface=%TUN%
-host-keyword, fbcdn, HOME, via-interface=%TUN%
-host-suffix, accountkit.com, HOME, via-interface=%TUN%
-host-suffix, acebooik.com, HOME, via-interface=%TUN%
-host-suffix, acebook.com, HOME, via-interface=%TUN%
-host-suffix, achat-followers-instagram.com, HOME, via-interface=%TUN%
-host-suffix, acheter-followers-instagram.com, HOME, via-interface=%TUN%
-host-suffix, acheterdesfollowersinstagram.com, HOME, via-interface=%TUN%
-host-suffix, acheterfollowersinstagram.com, HOME, via-interface=%TUN%
-host-suffix, advancediddetection.com, HOME, via-interface=%TUN%
-host-suffix, atdmt2.com, HOME, via-interface=%TUN%
-host-suffix, atlasdmt.com, HOME, via-interface=%TUN%
-host-suffix, atlasonepoint.com, HOME, via-interface=%TUN%
-host-suffix, atscaleconference.com, HOME, via-interface=%TUN%
-host-suffix, binoculus.com, HOME, via-interface=%TUN%
-host-suffix, bookstagram.com, HOME, via-interface=%TUN%
-host-suffix, botorch.org, HOME, via-interface=%TUN%
-host-suffix, buck.build, HOME, via-interface=%TUN%
-host-suffix, buckbuild.com, HOME, via-interface=%TUN%
-host-suffix, buyoculus.com, HOME, via-interface=%TUN%
-host-suffix, careersatfb.com, HOME, via-interface=%TUN%
-host-suffix, carstagram.com, HOME, via-interface=%TUN%
-host-suffix, cdninstagram.com, HOME, via-interface=%TUN%
-host-suffix, celebgramme.com, HOME, via-interface=%TUN%
-host-suffix, chickstagram.com, HOME, via-interface=%TUN%
-host-suffix, click-url.com, HOME, via-interface=%TUN%
-host-suffix, componentkit.org, HOME, via-interface=%TUN%
-host-suffix, crowdtangle.com, HOME, via-interface=%TUN%
-host-suffix, dacebook.com, HOME, via-interface=%TUN%
-host-suffix, draftjs.org, HOME, via-interface=%TUN%
-host-suffix, expresswifi.com, HOME, via-interface=%TUN%
-host-suffix, f8.com, HOME, via-interface=%TUN%
-host-suffix, faacebok.com, HOME, via-interface=%TUN%
-host-suffix, faacebook.com, HOME, via-interface=%TUN%
-host-suffix, faasbook.com, HOME, via-interface=%TUN%
-host-suffix, facbebook.com, HOME, via-interface=%TUN%
-host-suffix, facbeok.com, HOME, via-interface=%TUN%
-host-suffix, facboo.com, HOME, via-interface=%TUN%
-host-suffix, facbook.com, HOME, via-interface=%TUN%
-host-suffix, facbool.com, HOME, via-interface=%TUN%
-host-suffix, facboox.com, HOME, via-interface=%TUN%
-host-suffix, faccebook.com, HOME, via-interface=%TUN%
-host-suffix, faccebookk.com, HOME, via-interface=%TUN%
-host-suffix, facdbook.com, HOME, via-interface=%TUN%
-host-suffix, facdebook.com, HOME, via-interface=%TUN%
-host-suffix, face-book.com, HOME, via-interface=%TUN%
-host-suffix, faceabook.com, HOME, via-interface=%TUN%
-host-suffix, facebboc.com, HOME, via-interface=%TUN%
-host-suffix, facebbook.com, HOME, via-interface=%TUN%
-host-suffix, facebboook.com, HOME, via-interface=%TUN%
-host-suffix, facebcook.com, HOME, via-interface=%TUN%
-host-suffix, facebdok.com, HOME, via-interface=%TUN%
-host-suffix, facebgook.com, HOME, via-interface=%TUN%
-host-suffix, facebhook.com, HOME, via-interface=%TUN%
-host-suffix, facebkkk.com, HOME, via-interface=%TUN%
-host-suffix, facebo-ok.com, HOME, via-interface=%TUN%
-host-suffix, faceboak.com, HOME, via-interface=%TUN%
-host-suffix, facebock.com, HOME, via-interface=%TUN%
-host-suffix, facebocke.com, HOME, via-interface=%TUN%
-host-suffix, facebof.com, HOME, via-interface=%TUN%
-host-suffix, faceboik.com, HOME, via-interface=%TUN%
-host-suffix, facebok.com, HOME, via-interface=%TUN%
-host-suffix, facebokbook.com, HOME, via-interface=%TUN%
-host-suffix, facebokc.com, HOME, via-interface=%TUN%
-host-suffix, facebokk.com, HOME, via-interface=%TUN%
-host-suffix, facebokok.com, HOME, via-interface=%TUN%
-host-suffix, faceboks.com, HOME, via-interface=%TUN%
-host-suffix, facebol.com, HOME, via-interface=%TUN%
-host-suffix, facebolk.com, HOME, via-interface=%TUN%
-host-suffix, facebomok.com, HOME, via-interface=%TUN%
-host-suffix, faceboo.com, HOME, via-interface=%TUN%
-host-suffix, facebooa.com, HOME, via-interface=%TUN%
-host-suffix, faceboob.com, HOME, via-interface=%TUN%
-host-suffix, faceboobok.com, HOME, via-interface=%TUN%
-host-suffix, facebooc.com, HOME, via-interface=%TUN%
-host-suffix, faceboock.com, HOME, via-interface=%TUN%
-host-suffix, facebood.com, HOME, via-interface=%TUN%
-host-suffix, facebooe.com, HOME, via-interface=%TUN%
-host-suffix, faceboof.com, HOME, via-interface=%TUN%
-host-suffix, facebooi.com, HOME, via-interface=%TUN%
-host-suffix, facebooik.com, HOME, via-interface=%TUN%
-host-suffix, facebooik.org, HOME, via-interface=%TUN%
-host-suffix, facebooj.com, HOME, via-interface=%TUN%
-host-suffix, facebool.com, HOME, via-interface=%TUN%
-host-suffix, facebool.info, HOME, via-interface=%TUN%
-host-suffix, facebooll.com, HOME, via-interface=%TUN%
-host-suffix, faceboom.com, HOME, via-interface=%TUN%
-host-suffix, faceboon.com, HOME, via-interface=%TUN%
-host-suffix, faceboonk.com, HOME, via-interface=%TUN%
-host-suffix, faceboooik.com, HOME, via-interface=%TUN%
-host-suffix, faceboook.com, HOME, via-interface=%TUN%
-host-suffix, faceboop.com, HOME, via-interface=%TUN%
-host-suffix, faceboot.com, HOME, via-interface=%TUN%
-host-suffix, faceboox.com, HOME, via-interface=%TUN%
-host-suffix, facebopk.com, HOME, via-interface=%TUN%
-host-suffix, facebpook.com, HOME, via-interface=%TUN%
-host-suffix, facebuk.com, HOME, via-interface=%TUN%
-host-suffix, facebuok.com, HOME, via-interface=%TUN%
-host-suffix, facebvook.com, HOME, via-interface=%TUN%
-host-suffix, facebyook.com, HOME, via-interface=%TUN%
-host-suffix, facebzook.com, HOME, via-interface=%TUN%
-host-suffix, facecbgook.com, HOME, via-interface=%TUN%
-host-suffix, facecbook.com, HOME, via-interface=%TUN%
-host-suffix, facecbook.org, HOME, via-interface=%TUN%
-host-suffix, facecook.com, HOME, via-interface=%TUN%
-host-suffix, facecook.org, HOME, via-interface=%TUN%
-host-suffix, facedbook.com, HOME, via-interface=%TUN%
-host-suffix, faceebok.com, HOME, via-interface=%TUN%
-host-suffix, faceebook.com, HOME, via-interface=%TUN%
-host-suffix, faceebot.com, HOME, via-interface=%TUN%
-host-suffix, facegbok.com, HOME, via-interface=%TUN%
-host-suffix, facegbook.com, HOME, via-interface=%TUN%
-host-suffix, faceobk.com, HOME, via-interface=%TUN%
-host-suffix, faceobok.com, HOME, via-interface=%TUN%
-host-suffix, faceobook.com, HOME, via-interface=%TUN%
-host-suffix, faceook.com, HOME, via-interface=%TUN%
-host-suffix, facerbooik.com, HOME, via-interface=%TUN%
-host-suffix, facerbook.com, HOME, via-interface=%TUN%
-host-suffix, facesbooc.com, HOME, via-interface=%TUN%
-host-suffix, facesounds.com, HOME, via-interface=%TUN%
-host-suffix, facetook.com, HOME, via-interface=%TUN%
-host-suffix, facevbook.com, HOME, via-interface=%TUN%
-host-suffix, facewbook.co, HOME, via-interface=%TUN%
-host-suffix, facewook.com, HOME, via-interface=%TUN%
-host-suffix, facfebook.com, HOME, via-interface=%TUN%
-host-suffix, faciometrics.com, HOME, via-interface=%TUN%
-host-suffix, fackebook.com, HOME, via-interface=%TUN%
-host-suffix, facnbook.com, HOME, via-interface=%TUN%
-host-suffix, facrbook.com, HOME, via-interface=%TUN%
-host-suffix, facvebook.com, HOME, via-interface=%TUN%
-host-suffix, facwebook.com, HOME, via-interface=%TUN%
-host-suffix, facxebook.com, HOME, via-interface=%TUN%
-host-suffix, fadebook.com, HOME, via-interface=%TUN%
-host-suffix, faebok.com, HOME, via-interface=%TUN%
-host-suffix, faebook.com, HOME, via-interface=%TUN%
-host-suffix, faebookc.com, HOME, via-interface=%TUN%
-host-suffix, faeboook.com, HOME, via-interface=%TUN%
-host-suffix, faecebok.com, HOME, via-interface=%TUN%
-host-suffix, faesebook.com, HOME, via-interface=%TUN%
-host-suffix, faicbooc.com, HOME, via-interface=%TUN%
-host-suffix, fasebokk.com, HOME, via-interface=%TUN%
-host-suffix, fasebook.com, HOME, via-interface=%TUN%
-host-suffix, faseboox.com, HOME, via-interface=%TUN%
-host-suffix, fasttext.cc, HOME, via-interface=%TUN%
-host-suffix, favebook.com, HOME, via-interface=%TUN%
-host-suffix, faycbok.com, HOME, via-interface=%TUN%
-host-suffix, fb.careers, HOME, via-interface=%TUN%
-host-suffix, fb.com, HOME, via-interface=%TUN%
-host-suffix, fb.me, HOME, via-interface=%TUN%
-host-suffix, fbacebook.com, HOME, via-interface=%TUN%
-host-suffix, fbaddins.com, HOME, via-interface=%TUN%
-host-suffix, fbbmarket.com, HOME, via-interface=%TUN%
-host-suffix, fbboostyourbusiness.com, HOME, via-interface=%TUN%
-host-suffix, fbf8.com, HOME, via-interface=%TUN%
-host-suffix, fbfeedback.com, HOME, via-interface=%TUN%
-host-suffix, fbhome.com, HOME, via-interface=%TUN%
-host-suffix, fbidb.io, HOME, via-interface=%TUN%
-host-suffix, fbinc.com, HOME, via-interface=%TUN%
-host-suffix, fbinfer.com, HOME, via-interface=%TUN%
-host-suffix, fbinnovation.com, HOME, via-interface=%TUN%
-host-suffix, fblitho.com, HOME, via-interface=%TUN%
-host-suffix, fbmarketing.com, HOME, via-interface=%TUN%
-host-suffix, fbmessenger.com, HOME, via-interface=%TUN%
-host-suffix, fbredex.com, HOME, via-interface=%TUN%
-host-suffix, fbreg.com, HOME, via-interface=%TUN%
-host-suffix, fbrell.com, HOME, via-interface=%TUN%
-host-suffix, fbrpms.com, HOME, via-interface=%TUN%
-host-suffix, fbsbx.com, HOME, via-interface=%TUN%
-host-suffix, fbsbx.net, HOME, via-interface=%TUN%
-host-suffix, fbsupport-covid.net, HOME, via-interface=%TUN%
-host-suffix, fbthirdpartypixel.com, HOME, via-interface=%TUN%
-host-suffix, fbthirdpartypixel.net, HOME, via-interface=%TUN%
-host-suffix, fbthirdpartypixel.org, HOME, via-interface=%TUN%
-host-suffix, fburl.com, HOME, via-interface=%TUN%
-host-suffix, fbworkmail.com, HOME, via-interface=%TUN%
-host-suffix, fcacebook.com, HOME, via-interface=%TUN%
-host-suffix, fcaebook.com, HOME, via-interface=%TUN%
-host-suffix, fcebook.com, HOME, via-interface=%TUN%
-host-suffix, fcebookk.com, HOME, via-interface=%TUN%
-host-suffix, fdacebook.info, HOME, via-interface=%TUN%
-host-suffix, feacboo.com, HOME, via-interface=%TUN%
-host-suffix, feacbook.com, HOME, via-interface=%TUN%
-host-suffix, feacbooke.com, HOME, via-interface=%TUN%
-host-suffix, feacebook.com, HOME, via-interface=%TUN%
-host-suffix, fecbbok.com, HOME, via-interface=%TUN%
-host-suffix, fecbooc.com, HOME, via-interface=%TUN%
-host-suffix, fecbook.com, HOME, via-interface=%TUN%
-host-suffix, feceboock.com, HOME, via-interface=%TUN%
-host-suffix, fecebook.net, HOME, via-interface=%TUN%
-host-suffix, feceboox.com, HOME, via-interface=%TUN%
-host-suffix, fececbook.com, HOME, via-interface=%TUN%
-host-suffix, feook.com, HOME, via-interface=%TUN%
-host-suffix, ferabook.com, HOME, via-interface=%TUN%
-host-suffix, fescebook.com, HOME, via-interface=%TUN%
-host-suffix, fesebook.com, HOME, via-interface=%TUN%
-host-suffix, fgacebook.com, HOME, via-interface=%TUN%
-host-suffix, ficeboock.com, HOME, via-interface=%TUN%
-host-suffix, flow.dev, HOME, via-interface=%TUN%
-host-suffix, flow.org, HOME, via-interface=%TUN%
-host-suffix, flowtype.org, HOME, via-interface=%TUN%
-host-suffix, fmcebook.com, HOME, via-interface=%TUN%
-host-suffix, fnacebook.com, HOME, via-interface=%TUN%
-host-suffix, fosebook.com, HOME, via-interface=%TUN%
-host-suffix, fpacebook.com, HOME, via-interface=%TUN%
-host-suffix, fqcebook.com, HOME, via-interface=%TUN%
-host-suffix, fracebook.com, HOME, via-interface=%TUN%
-host-suffix, freeb.com, HOME, via-interface=%TUN%
-host-suffix, freebasics.com, HOME, via-interface=%TUN%
-host-suffix, freebasics.net, HOME, via-interface=%TUN%
-host-suffix, freebs.com, HOME, via-interface=%TUN%
-host-suffix, freefblikes.com, HOME, via-interface=%TUN%
-host-suffix, freindfeed.com, HOME, via-interface=%TUN%
-host-suffix, frescolib.org, HOME, via-interface=%TUN%
-host-suffix, friendbook.info, HOME, via-interface=%TUN%
-host-suffix, friendfed.com, HOME, via-interface=%TUN%
-host-suffix, friendfeed-api.com, HOME, via-interface=%TUN%
-host-suffix, friendfeed-media.com, HOME, via-interface=%TUN%
-host-suffix, friendfeed.com, HOME, via-interface=%TUN%
-host-suffix, friendfeedmedia.com, HOME, via-interface=%TUN%
-host-suffix, fsacebok.com, HOME, via-interface=%TUN%
-host-suffix, fscebook.com, HOME, via-interface=%TUN%
-host-suffix, futureofbusinesssurvey.org, HOME, via-interface=%TUN%
-host-suffix, gacebook.com, HOME, via-interface=%TUN%
-host-suffix, gameroom.com, HOME, via-interface=%TUN%
-host-suffix, gfacecbook.com, HOME, via-interface=%TUN%
-host-suffix, groups.com, HOME, via-interface=%TUN%
-host-suffix, hacklang.org, HOME, via-interface=%TUN%
-host-suffix, hhvm.com, HOME, via-interface=%TUN%
-host-suffix, i.org, HOME, via-interface=%TUN%
-host-suffix, ig.me, HOME, via-interface=%TUN%
-host-suffix, igcdn.com, HOME, via-interface=%TUN%
-host-suffix, igsonar.com, HOME, via-interface=%TUN%
-host-suffix, igtv.com, HOME, via-interface=%TUN%
-host-suffix, imstagram.com, HOME, via-interface=%TUN%
-host-suffix, imtagram.com, HOME, via-interface=%TUN%
-host-suffix, instaadder.com, HOME, via-interface=%TUN%
-host-suffix, instachecker.com, HOME, via-interface=%TUN%
-host-suffix, instafallow.com, HOME, via-interface=%TUN%
-host-suffix, instafollower.com, HOME, via-interface=%TUN%
-host-suffix, instagainer.com, HOME, via-interface=%TUN%
-host-suffix, instagda.com, HOME, via-interface=%TUN%
-host-suffix, instagify.com, HOME, via-interface=%TUN%
-host-suffix, instagmania.com, HOME, via-interface=%TUN%
-host-suffix, instagor.com, HOME, via-interface=%TUN%
-host-suffix, instagr.am, HOME, via-interface=%TUN%
-host-suffix, instagram-brand.com, HOME, via-interface=%TUN%
-host-suffix, instagram-engineering.com, HOME, via-interface=%TUN%
-host-suffix, instagram-help.com, HOME, via-interface=%TUN%
-host-suffix, instagram-press.com, HOME, via-interface=%TUN%
-host-suffix, instagram-press.net, HOME, via-interface=%TUN%
-host-suffix, instagram.com, HOME, via-interface=%TUN%
-host-suffix, instagramci.com, HOME, via-interface=%TUN%
-host-suffix, instagramcn.com, HOME, via-interface=%TUN%
-host-suffix, instagramdi.com, HOME, via-interface=%TUN%
-host-suffix, instagramhashtags.net, HOME, via-interface=%TUN%
-host-suffix, instagramhilecim.com, HOME, via-interface=%TUN%
-host-suffix, instagramhilesi.org, HOME, via-interface=%TUN%
-host-suffix, instagramium.com, HOME, via-interface=%TUN%
-host-suffix, instagramizlenme.com, HOME, via-interface=%TUN%
-host-suffix, instagramkusu.com, HOME, via-interface=%TUN%
-host-suffix, instagramlogin.com, HOME, via-interface=%TUN%
-host-suffix, instagramm.com, HOME, via-interface=%TUN%
-host-suffix, instagramn.com, HOME, via-interface=%TUN%
-host-suffix, instagrampartners.com, HOME, via-interface=%TUN%
-host-suffix, instagramphoto.com, HOME, via-interface=%TUN%
-host-suffix, instagramq.com, HOME, via-interface=%TUN%
-host-suffix, instagramsepeti.com, HOME, via-interface=%TUN%
-host-suffix, instagramtakipcisatinal.net, HOME, via-interface=%TUN%
-host-suffix, instagramtakiphilesi.com, HOME, via-interface=%TUN%
-host-suffix, instagramtips.com, HOME, via-interface=%TUN%
-host-suffix, instagramtr.com, HOME, via-interface=%TUN%
-host-suffix, instagran.com, HOME, via-interface=%TUN%
-host-suffix, instagranm.com, HOME, via-interface=%TUN%
-host-suffix, instagrem.com, HOME, via-interface=%TUN%
-host-suffix, instagrm.com, HOME, via-interface=%TUN%
-host-suffix, instagtram.com, HOME, via-interface=%TUN%
-host-suffix, instagy.com, HOME, via-interface=%TUN%
-host-suffix, instamgram.com, HOME, via-interface=%TUN%
-host-suffix, instangram.com, HOME, via-interface=%TUN%
-host-suffix, instanttelegram.com, HOME, via-interface=%TUN%
-host-suffix, instaplayer.net, HOME, via-interface=%TUN%
-host-suffix, instastyle.tv, HOME, via-interface=%TUN%
-host-suffix, instgram.com, HOME, via-interface=%TUN%
-host-suffix, intagram.com, HOME, via-interface=%TUN%
-host-suffix, intagrm.com, HOME, via-interface=%TUN%
-host-suffix, internet.org, HOME, via-interface=%TUN%
-host-suffix, intgram.com, HOME, via-interface=%TUN%
-host-suffix, ip6.static.sl-reverse.com, HOME, via-interface=%TUN%
-host-suffix, kingstagram.com, HOME, via-interface=%TUN%
-host-suffix, klik.me, HOME, via-interface=%TUN%
-host-suffix, liverail.com, HOME, via-interface=%TUN%
-host-suffix, liverail.tv, HOME, via-interface=%TUN%
-host-suffix, lnstagram-help.com, HOME, via-interface=%TUN%
-host-suffix, login-account.net, HOME, via-interface=%TUN%
-host-suffix, m.me, HOME, via-interface=%TUN%
-host-suffix, makeitopen.com, HOME, via-interface=%TUN%
-host-suffix, markzuckerberg.com, HOME, via-interface=%TUN%
-host-suffix, mcrouter.net, HOME, via-interface=%TUN%
-host-suffix, mcrouter.org, HOME, via-interface=%TUN%
-host-suffix, messenger.com, HOME, via-interface=%TUN%
-host-suffix, messengerdevelopers.com, HOME, via-interface=%TUN%
-host-suffix, meta.com, HOME, via-interface=%TUN%
-host-suffix, midentsolutions.com, HOME, via-interface=%TUN%
-host-suffix, myfbfans.com, HOME, via-interface=%TUN%
-host-suffix, nbabot.net, HOME, via-interface=%TUN%
-host-suffix, newsfeed.com, HOME, via-interface=%TUN%
-host-suffix, nextstop.com, HOME, via-interface=%TUN%
-host-suffix, ocul.us, HOME, via-interface=%TUN%
-host-suffix, oculus-china.com, HOME, via-interface=%TUN%
-host-suffix, oculus.com, HOME, via-interface=%TUN%
-host-suffix, oculus2014.com, HOME, via-interface=%TUN%
-host-suffix, oculus3d.com, HOME, via-interface=%TUN%
-host-suffix, oculusblog.com, HOME, via-interface=%TUN%
-host-suffix, oculusbrand.com, HOME, via-interface=%TUN%
-host-suffix, oculuscasino.net, HOME, via-interface=%TUN%
-host-suffix, oculuscdn.com, HOME, via-interface=%TUN%
-host-suffix, oculusconnect.com, HOME, via-interface=%TUN%
-host-suffix, oculusdiving.com, HOME, via-interface=%TUN%
-host-suffix, oculusforbusiness.com, HOME, via-interface=%TUN%
-host-suffix, oculusrift.com, HOME, via-interface=%TUN%
-host-suffix, oculusvr.com, HOME, via-interface=%TUN%
-host-suffix, ogp.me, HOME, via-interface=%TUN%
-host-suffix, oninstagram.com, HOME, via-interface=%TUN%
-host-suffix, online-deals.net, HOME, via-interface=%TUN%
-host-suffix, online-instagram.com, HOME, via-interface=%TUN%
-host-suffix, onlineinstagram.com, HOME, via-interface=%TUN%
-host-suffix, opencreate.org, HOME, via-interface=%TUN%
-host-suffix, opengraphprotocol.com, HOME, via-interface=%TUN%
-host-suffix, opengraphprotocol.org, HOME, via-interface=%TUN%
-host-suffix, parse.com, HOME, via-interface=%TUN%
-host-suffix, powersunitedvr.com, HOME, via-interface=%TUN%
-host-suffix, pyrobot.org, HOME, via-interface=%TUN%
-host-suffix, react.com, HOME, via-interface=%TUN%
-host-suffix, reactjs.com, HOME, via-interface=%TUN%
-host-suffix, reactjs.org, HOME, via-interface=%TUN%
-host-suffix, recoiljs.org, HOME, via-interface=%TUN%
-host-suffix, redkix.com, HOME, via-interface=%TUN%
-host-suffix, rocksdb.com, HOME, via-interface=%TUN%
-host-suffix, rocksdb.net, HOME, via-interface=%TUN%
-host-suffix, rocksdb.org, HOME, via-interface=%TUN%
-host-suffix, sportstream.com, HOME, via-interface=%TUN%
-host-suffix, terragraph.com, HOME, via-interface=%TUN%
-host-suffix, thefind.com, HOME, via-interface=%TUN%
-host-suffix, theinstagramhack.com, HOME, via-interface=%TUN%
-host-suffix, toplayerserver.com, HOME, via-interface=%TUN%
-host-suffix, wa.me, HOME, via-interface=%TUN%
-host-suffix, web-instagram.net, HOME, via-interface=%TUN%
-host-suffix, whatsapp-plus.info, HOME, via-interface=%TUN%
-host-suffix, whatsapp-plus.me, HOME, via-interface=%TUN%
-host-suffix, whatsapp-plus.net, HOME, via-interface=%TUN%
-host-suffix, whatsapp.biz, HOME, via-interface=%TUN%
-host-suffix, whatsapp.cc, HOME, via-interface=%TUN%
-host-suffix, whatsapp.com, HOME, via-interface=%TUN%
-host-suffix, whatsapp.info, HOME, via-interface=%TUN%
-host-suffix, whatsapp.net, HOME, via-interface=%TUN%
-host-suffix, whatsapp.org, HOME, via-interface=%TUN%
-host-suffix, whatsapp.tv, HOME, via-interface=%TUN%
-host-suffix, whatsappbrand.com, HOME, via-interface=%TUN%
-host-suffix, workplace.com, HOME, via-interface=%TUN%
-host-suffix, workplaceusecases.com, HOME, via-interface=%TUN%
-host-suffix, worldhack.com, HOME, via-interface=%TUN%
-host-suffix, wwwfacebok.com, HOME, via-interface=%TUN%
-host-suffix, wwwinstagram.com, HOME, via-interface=%TUN%
-host-suffix, yogalayout.com, HOME, via-interface=%TUN%
-host-suffix, zuckerberg.com, HOME, via-interface=%TUN%
-host-suffix, zuckerberg.net, HOME, via-interface=%TUN%
-ip-asn, 32934, HOME, via-interface=%TUN%
-ip-cidr, 108.168.176.192/26, HOME, via-interface=%TUN%
-ip-cidr, 108.168.177.0/27, HOME, via-interface=%TUN%
-ip-cidr, 108.168.180.96/27, HOME, via-interface=%TUN%
-ip-cidr, 108.168.254.65/32, HOME, via-interface=%TUN%
-ip-cidr, 108.168.255.224/32, HOME, via-interface=%TUN%
-ip-cidr, 108.168.255.227/32, HOME, via-interface=%TUN%
-ip-cidr, 108.177.8.0/21, HOME, via-interface=%TUN%
-ip-cidr, 119.235.224.0/24, HOME, via-interface=%TUN%
-ip-cidr, 119.235.232.0/24, HOME, via-interface=%TUN%
-ip-cidr, 119.235.236.0/23, HOME, via-interface=%TUN%
-ip-cidr, 129.134.0.0/17, HOME, via-interface=%TUN%
-ip-cidr, 157.240.0.0/17, HOME, via-interface=%TUN%
-ip-cidr, 169.45.248.118/32, HOME, via-interface=%TUN%
-ip-cidr, 173.252.64.0/18, HOME, via-interface=%TUN%
-ip-cidr, 3.123.36.126/32, HOME, via-interface=%TUN%
-ip-cidr, 31.13.64.0/18, HOME, via-interface=%TUN%
-ip-cidr, 35.157.215.84/32, HOME, via-interface=%TUN%
-ip-cidr, 35.157.217.255/32, HOME, via-interface=%TUN%
-ip-cidr, 52.58.209.134/32, HOME, via-interface=%TUN%
-ip-cidr, 54.162.243.80/32, HOME, via-interface=%TUN%
-ip-cidr, 54.173.34.141/32, HOME, via-interface=%TUN%
-ip-cidr, 54.235.23.242/32, HOME, via-interface=%TUN%
-ip-cidr, 54.93.124.31/32, HOME, via-interface=%TUN%
+host-keyword, facebook, HOME
+host-keyword, fbcdn, HOME
+host-suffix, accountkit.com, HOME
+host-suffix, acebooik.com, HOME
+host-suffix, acebook.com, HOME
+host-suffix, achat-followers-instagram.com, HOME
+host-suffix, acheter-followers-instagram.com, HOME
+host-suffix, acheterdesfollowersinstagram.com, HOME
+host-suffix, acheterfollowersinstagram.com, HOME
+host-suffix, advancediddetection.com, HOME
+host-suffix, atdmt2.com, HOME
+host-suffix, atlasdmt.com, HOME
+host-suffix, atlasonepoint.com, HOME
+host-suffix, atscaleconference.com, HOME
+host-suffix, binoculus.com, HOME
+host-suffix, bookstagram.com, HOME
+host-suffix, botorch.org, HOME
+host-suffix, buck.build, HOME
+host-suffix, buckbuild.com, HOME
+host-suffix, buyoculus.com, HOME
+host-suffix, careersatfb.com, HOME
+host-suffix, carstagram.com, HOME
+host-suffix, cdninstagram.com, HOME
+host-suffix, celebgramme.com, HOME
+host-suffix, chickstagram.com, HOME
+host-suffix, click-url.com, HOME
+host-suffix, componentkit.org, HOME
+host-suffix, crowdtangle.com, HOME
+host-suffix, dacebook.com, HOME
+host-suffix, draftjs.org, HOME
+host-suffix, expresswifi.com, HOME
+host-suffix, f8.com, HOME
+host-suffix, faacebok.com, HOME
+host-suffix, faacebook.com, HOME
+host-suffix, faasbook.com, HOME
+host-suffix, facbebook.com, HOME
+host-suffix, facbeok.com, HOME
+host-suffix, facboo.com, HOME
+host-suffix, facbook.com, HOME
+host-suffix, facbool.com, HOME
+host-suffix, facboox.com, HOME
+host-suffix, faccebook.com, HOME
+host-suffix, faccebookk.com, HOME
+host-suffix, facdbook.com, HOME
+host-suffix, facdebook.com, HOME
+host-suffix, face-book.com, HOME
+host-suffix, faceabook.com, HOME
+host-suffix, facebboc.com, HOME
+host-suffix, facebbook.com, HOME
+host-suffix, facebboook.com, HOME
+host-suffix, facebcook.com, HOME
+host-suffix, facebdok.com, HOME
+host-suffix, facebgook.com, HOME
+host-suffix, facebhook.com, HOME
+host-suffix, facebkkk.com, HOME
+host-suffix, facebo-ok.com, HOME
+host-suffix, faceboak.com, HOME
+host-suffix, facebock.com, HOME
+host-suffix, facebocke.com, HOME
+host-suffix, facebof.com, HOME
+host-suffix, faceboik.com, HOME
+host-suffix, facebok.com, HOME
+host-suffix, facebokbook.com, HOME
+host-suffix, facebokc.com, HOME
+host-suffix, facebokk.com, HOME
+host-suffix, facebokok.com, HOME
+host-suffix, faceboks.com, HOME
+host-suffix, facebol.com, HOME
+host-suffix, facebolk.com, HOME
+host-suffix, facebomok.com, HOME
+host-suffix, faceboo.com, HOME
+host-suffix, facebooa.com, HOME
+host-suffix, faceboob.com, HOME
+host-suffix, faceboobok.com, HOME
+host-suffix, facebooc.com, HOME
+host-suffix, faceboock.com, HOME
+host-suffix, facebood.com, HOME
+host-suffix, facebooe.com, HOME
+host-suffix, faceboof.com, HOME
+host-suffix, facebooi.com, HOME
+host-suffix, facebooik.com, HOME
+host-suffix, facebooik.org, HOME
+host-suffix, facebooj.com, HOME
+host-suffix, facebool.com, HOME
+host-suffix, facebool.info, HOME
+host-suffix, facebooll.com, HOME
+host-suffix, faceboom.com, HOME
+host-suffix, faceboon.com, HOME
+host-suffix, faceboonk.com, HOME
+host-suffix, faceboooik.com, HOME
+host-suffix, faceboook.com, HOME
+host-suffix, faceboop.com, HOME
+host-suffix, faceboot.com, HOME
+host-suffix, faceboox.com, HOME
+host-suffix, facebopk.com, HOME
+host-suffix, facebpook.com, HOME
+host-suffix, facebuk.com, HOME
+host-suffix, facebuok.com, HOME
+host-suffix, facebvook.com, HOME
+host-suffix, facebyook.com, HOME
+host-suffix, facebzook.com, HOME
+host-suffix, facecbgook.com, HOME
+host-suffix, facecbook.com, HOME
+host-suffix, facecbook.org, HOME
+host-suffix, facecook.com, HOME
+host-suffix, facecook.org, HOME
+host-suffix, facedbook.com, HOME
+host-suffix, faceebok.com, HOME
+host-suffix, faceebook.com, HOME
+host-suffix, faceebot.com, HOME
+host-suffix, facegbok.com, HOME
+host-suffix, facegbook.com, HOME
+host-suffix, faceobk.com, HOME
+host-suffix, faceobok.com, HOME
+host-suffix, faceobook.com, HOME
+host-suffix, faceook.com, HOME
+host-suffix, facerbooik.com, HOME
+host-suffix, facerbook.com, HOME
+host-suffix, facesbooc.com, HOME
+host-suffix, facesounds.com, HOME
+host-suffix, facetook.com, HOME
+host-suffix, facevbook.com, HOME
+host-suffix, facewbook.co, HOME
+host-suffix, facewook.com, HOME
+host-suffix, facfebook.com, HOME
+host-suffix, faciometrics.com, HOME
+host-suffix, fackebook.com, HOME
+host-suffix, facnbook.com, HOME
+host-suffix, facrbook.com, HOME
+host-suffix, facvebook.com, HOME
+host-suffix, facwebook.com, HOME
+host-suffix, facxebook.com, HOME
+host-suffix, fadebook.com, HOME
+host-suffix, faebok.com, HOME
+host-suffix, faebook.com, HOME
+host-suffix, faebookc.com, HOME
+host-suffix, faeboook.com, HOME
+host-suffix, faecebok.com, HOME
+host-suffix, faesebook.com, HOME
+host-suffix, faicbooc.com, HOME
+host-suffix, fasebokk.com, HOME
+host-suffix, fasebook.com, HOME
+host-suffix, faseboox.com, HOME
+host-suffix, fasttext.cc, HOME
+host-suffix, favebook.com, HOME
+host-suffix, faycbok.com, HOME
+host-suffix, fb.careers, HOME
+host-suffix, fb.com, HOME
+host-suffix, fb.me, HOME
+host-suffix, fbacebook.com, HOME
+host-suffix, fbaddins.com, HOME
+host-suffix, fbbmarket.com, HOME
+host-suffix, fbboostyourbusiness.com, HOME
+host-suffix, fbf8.com, HOME
+host-suffix, fbfeedback.com, HOME
+host-suffix, fbhome.com, HOME
+host-suffix, fbidb.io, HOME
+host-suffix, fbinc.com, HOME
+host-suffix, fbinfer.com, HOME
+host-suffix, fbinnovation.com, HOME
+host-suffix, fblitho.com, HOME
+host-suffix, fbmarketing.com, HOME
+host-suffix, fbmessenger.com, HOME
+host-suffix, fbredex.com, HOME
+host-suffix, fbreg.com, HOME
+host-suffix, fbrell.com, HOME
+host-suffix, fbrpms.com, HOME
+host-suffix, fbsbx.com, HOME
+host-suffix, fbsbx.net, HOME
+host-suffix, fbsupport-covid.net, HOME
+host-suffix, fbthirdpartypixel.com, HOME
+host-suffix, fbthirdpartypixel.net, HOME
+host-suffix, fbthirdpartypixel.org, HOME
+host-suffix, fburl.com, HOME
+host-suffix, fbworkmail.com, HOME
+host-suffix, fcacebook.com, HOME
+host-suffix, fcaebook.com, HOME
+host-suffix, fcebook.com, HOME
+host-suffix, fcebookk.com, HOME
+host-suffix, fdacebook.info, HOME
+host-suffix, feacboo.com, HOME
+host-suffix, feacbook.com, HOME
+host-suffix, feacbooke.com, HOME
+host-suffix, feacebook.com, HOME
+host-suffix, fecbbok.com, HOME
+host-suffix, fecbooc.com, HOME
+host-suffix, fecbook.com, HOME
+host-suffix, feceboock.com, HOME
+host-suffix, fecebook.net, HOME
+host-suffix, feceboox.com, HOME
+host-suffix, fececbook.com, HOME
+host-suffix, feook.com, HOME
+host-suffix, ferabook.com, HOME
+host-suffix, fescebook.com, HOME
+host-suffix, fesebook.com, HOME
+host-suffix, fgacebook.com, HOME
+host-suffix, ficeboock.com, HOME
+host-suffix, flow.dev, HOME
+host-suffix, flow.org, HOME
+host-suffix, flowtype.org, HOME
+host-suffix, fmcebook.com, HOME
+host-suffix, fnacebook.com, HOME
+host-suffix, fosebook.com, HOME
+host-suffix, fpacebook.com, HOME
+host-suffix, fqcebook.com, HOME
+host-suffix, fracebook.com, HOME
+host-suffix, freeb.com, HOME
+host-suffix, freebasics.com, HOME
+host-suffix, freebasics.net, HOME
+host-suffix, freebs.com, HOME
+host-suffix, freefblikes.com, HOME
+host-suffix, freindfeed.com, HOME
+host-suffix, frescolib.org, HOME
+host-suffix, friendbook.info, HOME
+host-suffix, friendfed.com, HOME
+host-suffix, friendfeed-api.com, HOME
+host-suffix, friendfeed-media.com, HOME
+host-suffix, friendfeed.com, HOME
+host-suffix, friendfeedmedia.com, HOME
+host-suffix, fsacebok.com, HOME
+host-suffix, fscebook.com, HOME
+host-suffix, futureofbusinesssurvey.org, HOME
+host-suffix, gacebook.com, HOME
+host-suffix, gameroom.com, HOME
+host-suffix, gfacecbook.com, HOME
+host-suffix, groups.com, HOME
+host-suffix, hacklang.org, HOME
+host-suffix, hhvm.com, HOME
+host-suffix, i.org, HOME
+host-suffix, ig.me, HOME
+host-suffix, igcdn.com, HOME
+host-suffix, igsonar.com, HOME
+host-suffix, igtv.com, HOME
+host-suffix, imstagram.com, HOME
+host-suffix, imtagram.com, HOME
+host-suffix, instaadder.com, HOME
+host-suffix, instachecker.com, HOME
+host-suffix, instafallow.com, HOME
+host-suffix, instafollower.com, HOME
+host-suffix, instagainer.com, HOME
+host-suffix, instagda.com, HOME
+host-suffix, instagify.com, HOME
+host-suffix, instagmania.com, HOME
+host-suffix, instagor.com, HOME
+host-suffix, instagr.am, HOME
+host-suffix, instagram-brand.com, HOME
+host-suffix, instagram-engineering.com, HOME
+host-suffix, instagram-help.com, HOME
+host-suffix, instagram-press.com, HOME
+host-suffix, instagram-press.net, HOME
+host-suffix, instagram.com, HOME
+host-suffix, instagramci.com, HOME
+host-suffix, instagramcn.com, HOME
+host-suffix, instagramdi.com, HOME
+host-suffix, instagramhashtags.net, HOME
+host-suffix, instagramhilecim.com, HOME
+host-suffix, instagramhilesi.org, HOME
+host-suffix, instagramium.com, HOME
+host-suffix, instagramizlenme.com, HOME
+host-suffix, instagramkusu.com, HOME
+host-suffix, instagramlogin.com, HOME
+host-suffix, instagramm.com, HOME
+host-suffix, instagramn.com, HOME
+host-suffix, instagrampartners.com, HOME
+host-suffix, instagramphoto.com, HOME
+host-suffix, instagramq.com, HOME
+host-suffix, instagramsepeti.com, HOME
+host-suffix, instagramtakipcisatinal.net, HOME
+host-suffix, instagramtakiphilesi.com, HOME
+host-suffix, instagramtips.com, HOME
+host-suffix, instagramtr.com, HOME
+host-suffix, instagran.com, HOME
+host-suffix, instagranm.com, HOME
+host-suffix, instagrem.com, HOME
+host-suffix, instagrm.com, HOME
+host-suffix, instagtram.com, HOME
+host-suffix, instagy.com, HOME
+host-suffix, instamgram.com, HOME
+host-suffix, instangram.com, HOME
+host-suffix, instanttelegram.com, HOME
+host-suffix, instaplayer.net, HOME
+host-suffix, instastyle.tv, HOME
+host-suffix, instgram.com, HOME
+host-suffix, intagram.com, HOME
+host-suffix, intagrm.com, HOME
+host-suffix, internet.org, HOME
+host-suffix, intgram.com, HOME
+host-suffix, ip6.static.sl-reverse.com, HOME
+host-suffix, kingstagram.com, HOME
+host-suffix, klik.me, HOME
+host-suffix, liverail.com, HOME
+host-suffix, liverail.tv, HOME
+host-suffix, lnstagram-help.com, HOME
+host-suffix, login-account.net, HOME
+host-suffix, m.me, HOME
+host-suffix, makeitopen.com, HOME
+host-suffix, markzuckerberg.com, HOME
+host-suffix, mcrouter.net, HOME
+host-suffix, mcrouter.org, HOME
+host-suffix, messenger.com, HOME
+host-suffix, messengerdevelopers.com, HOME
+host-suffix, meta.com, HOME
+host-suffix, midentsolutions.com, HOME
+host-suffix, myfbfans.com, HOME
+host-suffix, nbabot.net, HOME
+host-suffix, newsfeed.com, HOME
+host-suffix, nextstop.com, HOME
+host-suffix, ocul.us, HOME
+host-suffix, oculus-china.com, HOME
+host-suffix, oculus.com, HOME
+host-suffix, oculus2014.com, HOME
+host-suffix, oculus3d.com, HOME
+host-suffix, oculusblog.com, HOME
+host-suffix, oculusbrand.com, HOME
+host-suffix, oculuscasino.net, HOME
+host-suffix, oculuscdn.com, HOME
+host-suffix, oculusconnect.com, HOME
+host-suffix, oculusdiving.com, HOME
+host-suffix, oculusforbusiness.com, HOME
+host-suffix, oculusrift.com, HOME
+host-suffix, oculusvr.com, HOME
+host-suffix, ogp.me, HOME
+host-suffix, oninstagram.com, HOME
+host-suffix, online-deals.net, HOME
+host-suffix, online-instagram.com, HOME
+host-suffix, onlineinstagram.com, HOME
+host-suffix, opencreate.org, HOME
+host-suffix, opengraphprotocol.com, HOME
+host-suffix, opengraphprotocol.org, HOME
+host-suffix, parse.com, HOME
+host-suffix, powersunitedvr.com, HOME
+host-suffix, pyrobot.org, HOME
+host-suffix, react.com, HOME
+host-suffix, reactjs.com, HOME
+host-suffix, reactjs.org, HOME
+host-suffix, recoiljs.org, HOME
+host-suffix, redkix.com, HOME
+host-suffix, rocksdb.com, HOME
+host-suffix, rocksdb.net, HOME
+host-suffix, rocksdb.org, HOME
+host-suffix, sportstream.com, HOME
+host-suffix, terragraph.com, HOME
+host-suffix, thefind.com, HOME
+host-suffix, theinstagramhack.com, HOME
+host-suffix, toplayerserver.com, HOME
+host-suffix, wa.me, HOME
+host-suffix, web-instagram.net, HOME
+host-suffix, whatsapp-plus.info, HOME
+host-suffix, whatsapp-plus.me, HOME
+host-suffix, whatsapp-plus.net, HOME
+host-suffix, whatsapp.biz, HOME
+host-suffix, whatsapp.cc, HOME
+host-suffix, whatsapp.com, HOME
+host-suffix, whatsapp.info, HOME
+host-suffix, whatsapp.net, HOME
+host-suffix, whatsapp.org, HOME
+host-suffix, whatsapp.tv, HOME
+host-suffix, whatsappbrand.com, HOME
+host-suffix, workplace.com, HOME
+host-suffix, workplaceusecases.com, HOME
+host-suffix, worldhack.com, HOME
+host-suffix, wwwfacebok.com, HOME
+host-suffix, wwwinstagram.com, HOME
+host-suffix, yogalayout.com, HOME
+host-suffix, zuckerberg.com, HOME
+host-suffix, zuckerberg.net, HOME
+ip-asn, 32934, HOME
+ip-cidr, 108.168.176.192/26, HOME
+ip-cidr, 108.168.177.0/27, HOME
+ip-cidr, 108.168.180.96/27, HOME
+ip-cidr, 108.168.254.65/32, HOME
+ip-cidr, 108.168.255.224/32, HOME
+ip-cidr, 108.168.255.227/32, HOME
+ip-cidr, 108.177.8.0/21, HOME
+ip-cidr, 119.235.224.0/24, HOME
+ip-cidr, 119.235.232.0/24, HOME
+ip-cidr, 119.235.236.0/23, HOME
+ip-cidr, 129.134.0.0/17, HOME
+ip-cidr, 157.240.0.0/17, HOME
+ip-cidr, 169.45.248.118/32, HOME
+ip-cidr, 173.252.64.0/18, HOME
+ip-cidr, 3.123.36.126/32, HOME
+ip-cidr, 31.13.64.0/18, HOME
+ip-cidr, 35.157.215.84/32, HOME
+ip-cidr, 35.157.217.255/32, HOME
+ip-cidr, 52.58.209.134/32, HOME
+ip-cidr, 54.162.243.80/32, HOME
+ip-cidr, 54.173.34.141/32, HOME
+ip-cidr, 54.235.23.242/32, HOME
+ip-cidr, 54.93.124.31/32, HOME
 
 # serv00
-host-suffix, serv00.com, HOME, via-interface=%TUN%
+host-suffix, serv00.com, HOME
 
 # X
-host-keyword, twitter, HOME, via-interface=%TUN%
-host-suffix, cms-twdigitalassets.com, HOME, via-interface=%TUN%
-host-suffix, periscope.tv, HOME, via-interface=%TUN%
-host-suffix, pscp.tv, HOME, via-interface=%TUN%
-host-suffix, t.co, HOME, via-interface=%TUN%
-host-suffix, tellapart.com, HOME, via-interface=%TUN%
-host-suffix, tweetdeck.com, HOME, via-interface=%TUN%
-host-suffix, twimg.co, HOME, via-interface=%TUN%
-host-suffix, twimg.com, HOME, via-interface=%TUN%
-host-suffix, twimg.org, HOME, via-interface=%TUN%
-host-suffix, twitpic.com, HOME, via-interface=%TUN%
-host-suffix, twtrdns.net, HOME, via-interface=%TUN%
-host-suffix, twttr.com, HOME, via-interface=%TUN%
-host-suffix, twttr.net, HOME, via-interface=%TUN%
-host-suffix, twvid.com, HOME, via-interface=%TUN%
-host-suffix, vine.co, HOME, via-interface=%TUN%
-host-suffix, x.com, HOME, via-interface=%TUN%
-ip-cidr, 192.133.76.0/22, HOME, via-interface=%TUN%
-ip-cidr, 199.59.148.0/22, HOME, via-interface=%TUN%
-ip-cidr, 199.96.56.0/21, HOME, via-interface=%TUN%
-ip-cidr, 202.160.128.0/22, HOME, via-interface=%TUN%
-ip-cidr, 209.237.192.0/19, HOME, via-interface=%TUN%
-ip-cidr, 69.195.160.0/19, HOME, via-interface=%TUN%
+host-keyword, twitter, HOME
+host-suffix, cms-twdigitalassets.com, HOME
+host-suffix, periscope.tv, HOME
+host-suffix, pscp.tv, HOME
+host-suffix, t.co, HOME
+host-suffix, tellapart.com, HOME
+host-suffix, tweetdeck.com, HOME
+host-suffix, twimg.co, HOME
+host-suffix, twimg.com, HOME
+host-suffix, twimg.org, HOME
+host-suffix, twitpic.com, HOME
+host-suffix, twtrdns.net, HOME
+host-suffix, twttr.com, HOME
+host-suffix, twttr.net, HOME
+host-suffix, twvid.com, HOME
+host-suffix, vine.co, HOME
+host-suffix, x.com, HOME
+ip-cidr, 192.133.76.0/22, HOME
+ip-cidr, 199.59.148.0/22, HOME
+ip-cidr, 199.96.56.0/21, HOME
+ip-cidr, 202.160.128.0/22, HOME
+ip-cidr, 209.237.192.0/19, HOME
+ip-cidr, 69.195.160.0/19, HOME
 
 # Google 不包含 YouTube & YouTube Music
-host-keyword, appspot, HOME, via-interface=%TUN%
-host-keyword, blogspot, HOME, via-interface=%TUN%
-host-keyword, gmail, HOME, via-interface=%TUN%
-host-keyword, google, HOME, via-interface=%TUN%
-host-keyword, recaptcha, HOME, via-interface=%TUN%
-host-suffix, 0emm.com, HOME, via-interface=%TUN%
-host-suffix, 1e100.net, HOME, via-interface=%TUN%
-host-suffix, 1ucrs.com, HOME, via-interface=%TUN%
-host-suffix, 265.com, HOME, via-interface=%TUN%
-host-suffix, 2mdn-cn.net, HOME, via-interface=%TUN%
-host-suffix, 2mdn.net, HOME, via-interface=%TUN%
-host-suffix, 466453.com, HOME, via-interface=%TUN%
-host-suffix, abc.xyz, HOME, via-interface=%TUN%
-host-suffix, admeld.com, HOME, via-interface=%TUN%
-host-suffix, admob-cn.com, HOME, via-interface=%TUN%
-host-suffix, admob.com, HOME, via-interface=%TUN%
-host-suffix, adsense.com, HOME, via-interface=%TUN%
-host-suffix, adsensecustomsearchads.com, HOME, via-interface=%TUN%
-host-suffix, adsenseformobileapps.com, HOME, via-interface=%TUN%
-host-suffix, advertisercommunity.com, HOME, via-interface=%TUN%
-host-suffix, advertiserscommunity.com, HOME, via-interface=%TUN%
-host-suffix, adwords-community.com, HOME, via-interface=%TUN%
-host-suffix, adwords.com, HOME, via-interface=%TUN%
-host-suffix, adwordsexpress.com, HOME, via-interface=%TUN%
-host-suffix, ai.ytimg.com, HOME, via-interface=%TUN%
-host-suffix, amp.dev, HOME, via-interface=%TUN%
-host-suffix, ampproject.com, HOME, via-interface=%TUN%
-host-suffix, ampproject.net, HOME, via-interface=%TUN%
-host-suffix, ampproject.org, HOME, via-interface=%TUN%
-host-suffix, android.com, HOME, via-interface=%TUN%
-host-suffix, androidify.com, HOME, via-interface=%TUN%
-host-suffix, androidtv.com, HOME, via-interface=%TUN%
-host-suffix, angulardart.org, HOME, via-interface=%TUN%
-host-suffix, api.ai, HOME, via-interface=%TUN%
-host-suffix, apigee.com, HOME, via-interface=%TUN%
-host-suffix, app-measurement-cn.com, HOME, via-interface=%TUN%
-host-suffix, app-measurement.com, HOME, via-interface=%TUN%
-host-suffix, app-measurement.net, HOME, via-interface=%TUN%
-host-suffix, appbridge.ca, HOME, via-interface=%TUN%
-host-suffix, appbridge.io, HOME, via-interface=%TUN%
-host-suffix, appbridge.it, HOME, via-interface=%TUN%
-host-suffix, apps5.oingo.com, HOME, via-interface=%TUN%
-host-suffix, apture.com, HOME, via-interface=%TUN%
-host-suffix, area120.com, HOME, via-interface=%TUN%
-host-suffix, asp-cc.com, HOME, via-interface=%TUN%
-host-suffix, autodraw.com, HOME, via-interface=%TUN%
-host-suffix, bandpage.com, HOME, via-interface=%TUN%
-host-suffix, baselinestudy.com, HOME, via-interface=%TUN%
-host-suffix, baselinestudy.org, HOME, via-interface=%TUN%
-host-suffix, bazel.build, HOME, via-interface=%TUN%
-host-suffix, bdn.dev, HOME, via-interface=%TUN%
-host-suffix, beacons.gvt2.com, HOME, via-interface=%TUN%
-host-suffix, beacons2.gvt2.com, HOME, via-interface=%TUN%
-host-suffix, beacons3.gvt2.com, HOME, via-interface=%TUN%
-host-suffix, beatthatquote.com, HOME, via-interface=%TUN%
-host-suffix, blink.org, HOME, via-interface=%TUN%
-host-suffix, blogblog.com, HOME, via-interface=%TUN%
-host-suffix, blogger.com, HOME, via-interface=%TUN%
-host-suffix, brocaproject.com, HOME, via-interface=%TUN%
-host-suffix, brotli.org, HOME, via-interface=%TUN%
-host-suffix, bumpshare.com, HOME, via-interface=%TUN%
-host-suffix, bumptop.ca, HOME, via-interface=%TUN%
-host-suffix, bumptop.com, HOME, via-interface=%TUN%
-host-suffix, bumptop.net, HOME, via-interface=%TUN%
-host-suffix, bumptop.org, HOME, via-interface=%TUN%
-host-suffix, bumptunes.com, HOME, via-interface=%TUN%
-host-suffix, campuslondon.com, HOME, via-interface=%TUN%
-host-suffix, capitalg.com, HOME, via-interface=%TUN%
-host-suffix, certificate-transparency.dev, HOME, via-interface=%TUN%
-host-suffix, certificate-transparency.org, HOME, via-interface=%TUN%
-host-suffix, charlestonroadregistry.com, HOME, via-interface=%TUN%
-host-suffix, chat.gle, HOME, via-interface=%TUN%
-host-suffix, chrome.com, HOME, via-interface=%TUN%
-host-suffix, chromebook.com, HOME, via-interface=%TUN%
-host-suffix, chromecast.com, HOME, via-interface=%TUN%
-host-suffix, chromeexperiments.com, HOME, via-interface=%TUN%
-host-suffix, chromeos.dev, HOME, via-interface=%TUN%
-host-suffix, chromercise.com, HOME, via-interface=%TUN%
-host-suffix, chromestatus.com, HOME, via-interface=%TUN%
-host-suffix, chromium.org, HOME, via-interface=%TUN%
-host-suffix, chronicle.security, HOME, via-interface=%TUN%
-host-suffix, chroniclesec.com, HOME, via-interface=%TUN%
-host-suffix, clickserve.cc-dt.com, HOME, via-interface=%TUN%
-host-suffix, cloudburstresearch.com, HOME, via-interface=%TUN%
-host-suffix, cloudfunctions.net, HOME, via-interface=%TUN%
-host-suffix, cloudproxy.app, HOME, via-interface=%TUN%
-host-suffix, cloudrobotics.com, HOME, via-interface=%TUN%
-host-suffix, cobrasearch.com, HOME, via-interface=%TUN%
-host-suffix, codespot.com, HOME, via-interface=%TUN%
-host-suffix, conscrypt.com, HOME, via-interface=%TUN%
-host-suffix, conscrypt.org, HOME, via-interface=%TUN%
-host-suffix, cookiechoices.org, HOME, via-interface=%TUN%
-host-suffix, coova.com, HOME, via-interface=%TUN%
-host-suffix, coova.net, HOME, via-interface=%TUN%
-host-suffix, coova.org, HOME, via-interface=%TUN%
-host-suffix, crashlytics.com, HOME, via-interface=%TUN%
-host-suffix, crbug.com, HOME, via-interface=%TUN%
-host-suffix, creativelab5.com, HOME, via-interface=%TUN%
-host-suffix, crossmediapanel.com, HOME, via-interface=%TUN%
-host-suffix, crr.com, HOME, via-interface=%TUN%
-host-suffix, crrev.com, HOME, via-interface=%TUN%
-host-suffix, cs4hs.com, HOME, via-interface=%TUN%
-host-suffix, dart.dev, HOME, via-interface=%TUN%
-host-suffix, dartlang.org, HOME, via-interface=%TUN%
-host-suffix, dartpad.dev, HOME, via-interface=%TUN%
-host-suffix, dartsearch-cn.net, HOME, via-interface=%TUN%
-host-suffix, dartsearch.net, HOME, via-interface=%TUN%
-host-suffix, data-vocabulary.org, HOME, via-interface=%TUN%
-host-suffix, dataliberation.org, HOME, via-interface=%TUN%
-host-suffix, debug.com, HOME, via-interface=%TUN%
-host-suffix, debugproject.com, HOME, via-interface=%TUN%
-host-suffix, deepmind.com, HOME, via-interface=%TUN%
-host-suffix, deja.com, HOME, via-interface=%TUN%
-host-suffix, deps.dev, HOME, via-interface=%TUN%
-host-suffix, deps.info, HOME, via-interface=%TUN%
-host-suffix, devsitetest.how, HOME, via-interface=%TUN%
-host-suffix, dialogflow.com, HOME, via-interface=%TUN%
-host-suffix, digisfera.com, HOME, via-interface=%TUN%
-host-suffix, digitalassetlinks.org, HOME, via-interface=%TUN%
-host-suffix, digitalattackmap.com, HOME, via-interface=%TUN%
-host-suffix, distribution.qatp1.net, HOME, via-interface=%TUN%
-host-suffix, distribution.qcpp1.net, HOME, via-interface=%TUN%
-host-suffix, distribution.qpdp1.net, HOME, via-interface=%TUN%
-host-suffix, doubleclick-cn.net, HOME, via-interface=%TUN%
-host-suffix, doubleclick.com, HOME, via-interface=%TUN%
-host-suffix, doubleclick.net, HOME, via-interface=%TUN%
-host-suffix, download.qatp1.net, HOME, via-interface=%TUN%
-host-suffix, download.qcpp1.net, HOME, via-interface=%TUN%
-host-suffix, download.qpdp1.net, HOME, via-interface=%TUN%
-host-suffix, episodic.com, HOME, via-interface=%TUN%
-host-suffix, fastlane.ci, HOME, via-interface=%TUN%
-host-suffix, fastlane.tools, HOME, via-interface=%TUN%
-host-suffix, feedburner.com, HOME, via-interface=%TUN%
-host-suffix, fflick.com, HOME, via-interface=%TUN%
-host-suffix, financeleadsonline.com, HOME, via-interface=%TUN%
-host-suffix, firebaseapp.com, HOME, via-interface=%TUN%
-host-suffix, firebaseio.com, HOME, via-interface=%TUN%
-host-suffix, flutter.dev, HOME, via-interface=%TUN%
-host-suffix, flutterapp.com, HOME, via-interface=%TUN%
-host-suffix, foofle.com, HOME, via-interface=%TUN%
-host-suffix, froogle.com, HOME, via-interface=%TUN%
-host-suffix, fuchsia.dev, HOME, via-interface=%TUN%
-host-suffix, g-tun.com, HOME, via-interface=%TUN%
-host-suffix, g.cn, HOME, via-interface=%TUN%
-host-suffix, g.co, HOME, via-interface=%TUN%
-host-suffix, g.dev, HOME, via-interface=%TUN%
-host-suffix, g.page, HOME, via-interface=%TUN%
-host-suffix, gateway.dev, HOME, via-interface=%TUN%
-host-suffix, gcp.gvt2.com, HOME, via-interface=%TUN%
-host-suffix, gcr.io, HOME, via-interface=%TUN%
-host-suffix, gerritcodereview.com, HOME, via-interface=%TUN%
-host-suffix, get.app, HOME, via-interface=%TUN%
-host-suffix, get.dev, HOME, via-interface=%TUN%
-host-suffix, get.how, HOME, via-interface=%TUN%
-host-suffix, get.page, HOME, via-interface=%TUN%
-host-suffix, getbumptop.com, HOME, via-interface=%TUN%
-host-suffix, getmdl.io, HOME, via-interface=%TUN%
-host-suffix, getoutline.org, HOME, via-interface=%TUN%
-host-suffix, gipscorp.com, HOME, via-interface=%TUN%
-host-suffix, gkecnapps.cn, HOME, via-interface=%TUN%
-host-suffix, globaledu.org, HOME, via-interface=%TUN%
-host-suffix, gmodules.com, HOME, via-interface=%TUN%
-host-suffix, go-lang.com, HOME, via-interface=%TUN%
-host-suffix, go-lang.net, HOME, via-interface=%TUN%
-host-suffix, go-lang.org, HOME, via-interface=%TUN%
-host-suffix, go.dev, HOME, via-interface=%TUN%
-host-suffix, godoc.org, HOME, via-interface=%TUN%
-host-suffix, gogle.com, HOME, via-interface=%TUN%
-host-suffix, gogole.com, HOME, via-interface=%TUN%
-host-suffix, golang.com, HOME, via-interface=%TUN%
-host-suffix, golang.net, HOME, via-interface=%TUN%
-host-suffix, golang.org, HOME, via-interface=%TUN%
-host-suffix, gonglchuangl.net, HOME, via-interface=%TUN%
-host-suffix, gongyichuangyi.net, HOME, via-interface=%TUN%
-host-suffix, goo.gl, HOME, via-interface=%TUN%
-host-suffix, googel.com, HOME, via-interface=%TUN%
-host-suffix, googil.com, HOME, via-interface=%TUN%
-host-suffix, googl.com, HOME, via-interface=%TUN%
-host-suffix, googlr.com, HOME, via-interface=%TUN%
-host-suffix, goolge.com, HOME, via-interface=%TUN%
-host-suffix, gooogle.com, HOME, via-interface=%TUN%
-host-suffix, gridaware.app, HOME, via-interface=%TUN%
-host-suffix, gsrc.io, HOME, via-interface=%TUN%
-host-suffix, gstatic-cn.com, HOME, via-interface=%TUN%
-host-suffix, gstatic.cn, HOME, via-interface=%TUN%
-host-suffix, gstatic.com, HOME, via-interface=%TUN%
-host-suffix, gstaticcnapps.cn, HOME, via-interface=%TUN%
-host-suffix, gsuite.com, HOME, via-interface=%TUN%
-host-suffix, gv.com, HOME, via-interface=%TUN%
-host-suffix, gvt0.com, HOME, via-interface=%TUN%
-host-suffix, gvt1-cn.com, HOME, via-interface=%TUN%
-host-suffix, gvt2-cn.com, HOME, via-interface=%TUN%
-host-suffix, gvt3.com, HOME, via-interface=%TUN%
-host-suffix, gvt5.com, HOME, via-interface=%TUN%
-host-suffix, gvt6.com, HOME, via-interface=%TUN%
-host-suffix, gvt7.com, HOME, via-interface=%TUN%
-host-suffix, gvt9.com, HOME, via-interface=%TUN%
-host-suffix, gwtproject.org, HOME, via-interface=%TUN%
-host-suffix, hdrplusdata.org, HOME, via-interface=%TUN%
-host-suffix, hey.gle, HOME, via-interface=%TUN%
-host-suffix, hindiweb.com, HOME, via-interface=%TUN%
-host-suffix, howtogetmo.co.uk, HOME, via-interface=%TUN%
-host-suffix, html5rocks.com, HOME, via-interface=%TUN%
-host-suffix, hwgo.com, HOME, via-interface=%TUN%
-host-suffix, iam.soy, HOME, via-interface=%TUN%
-host-suffix, iamremarkable.org, HOME, via-interface=%TUN%
-host-suffix, impermium.com, HOME, via-interface=%TUN%
-host-suffix, itasoftware.com, HOME, via-interface=%TUN%
-host-suffix, j2objc.org, HOME, via-interface=%TUN%
-host-suffix, jibemobile.com, HOME, via-interface=%TUN%
-host-suffix, kaggle.com, HOME, via-interface=%TUN%
-host-suffix, kaggle.io, HOME, via-interface=%TUN%
-host-suffix, keyhole.com, HOME, via-interface=%TUN%
-host-suffix, keytransparency.com, HOME, via-interface=%TUN%
-host-suffix, keytransparency.foo, HOME, via-interface=%TUN%
-host-suffix, keytransparency.org, HOME, via-interface=%TUN%
-host-suffix, lanternal.com, HOME, via-interface=%TUN%
-host-suffix, like.com, HOME, via-interface=%TUN%
-host-suffix, madewithcode.com, HOME, via-interface=%TUN%
-host-suffix, material.io, HOME, via-interface=%TUN%
-host-suffix, mdialog.com, HOME, via-interface=%TUN%
-host-suffix, meet.new, HOME, via-interface=%TUN%
-host-suffix, mfg-inspector.com, HOME, via-interface=%TUN%
-host-suffix, mobileview.page, HOME, via-interface=%TUN%
-host-suffix, monitoring.qatp1.net, HOME, via-interface=%TUN%
-host-suffix, monitoring.qcpp1.net, HOME, via-interface=%TUN%
-host-suffix, monitoring.qpdp1.net, HOME, via-interface=%TUN%
-host-suffix, moodstocks.com, HOME, via-interface=%TUN%
-host-suffix, near.by, HOME, via-interface=%TUN%
-host-suffix, nest.com, HOME, via-interface=%TUN%
-host-suffix, neverware.com, HOME, via-interface=%TUN%
-host-suffix, nomulus.foo, HOME, via-interface=%TUN%
-host-suffix, oasisfeng.com, HOME, via-interface=%TUN%
-host-suffix, oauthz.com, HOME, via-interface=%TUN%
-host-suffix, ok.gle, HOME, via-interface=%TUN%
-host-suffix, on.here, HOME, via-interface=%TUN%
-host-suffix, on2.com, HOME, via-interface=%TUN%
-host-suffix, onefifteen.net, HOME, via-interface=%TUN%
-host-suffix, onefifteen.org, HOME, via-interface=%TUN%
-host-suffix, oneworldmanystories.com, HOME, via-interface=%TUN%
-host-suffix, opensourceinsight.dev, HOME, via-interface=%TUN%
-host-suffix, opensourceinsights.dev, HOME, via-interface=%TUN%
-host-suffix, openthread.io, HOME, via-interface=%TUN%
-host-suffix, openweave.io, HOME, via-interface=%TUN%
-host-suffix, orbitera.com, HOME, via-interface=%TUN%
-host-suffix, page.link, HOME, via-interface=%TUN%
-host-suffix, pagespeedmobilizer.com, HOME, via-interface=%TUN%
-host-suffix, pageview.mobi, HOME, via-interface=%TUN%
-host-suffix, panoramio.com, HOME, via-interface=%TUN%
-host-suffix, partylikeits1986.org, HOME, via-interface=%TUN%
-host-suffix, paxlicense.org, HOME, via-interface=%TUN%
-host-suffix, picasa.com, HOME, via-interface=%TUN%
-host-suffix, picasaweb.com, HOME, via-interface=%TUN%
-host-suffix, picasaweb.net, HOME, via-interface=%TUN%
-host-suffix, picasaweb.org, HOME, via-interface=%TUN%
-host-suffix, picnik.com, HOME, via-interface=%TUN%
-host-suffix, pittpatt.com, HOME, via-interface=%TUN%
-host-suffix, pixate.com, HOME, via-interface=%TUN%
-host-suffix, pki.goog, HOME, via-interface=%TUN%
-host-suffix, plus.codes, HOME, via-interface=%TUN%
-host-suffix, polymer-project.org, HOME, via-interface=%TUN%
-host-suffix, polymerproject.org, HOME, via-interface=%TUN%
-host-suffix, postini.com, HOME, via-interface=%TUN%
-host-suffix, privacysandbox.com, HOME, via-interface=%TUN%
-host-suffix, prod-controlbe.floonet.goog, HOME, via-interface=%TUN%
-host-suffix, prod-databe.floonet.goog, HOME, via-interface=%TUN%
-host-suffix, prod.databe.floonet.goog, HOME, via-interface=%TUN%
-host-suffix, projectara.com, HOME, via-interface=%TUN%
-host-suffix, projectbaseline.com, HOME, via-interface=%TUN%
-host-suffix, publishproxy.com, HOME, via-interface=%TUN%
-host-suffix, qagpublic.qatp1.net, HOME, via-interface=%TUN%
-host-suffix, qagpublic.qcpp1.net, HOME, via-interface=%TUN%
-host-suffix, qagpublic.qpdp1.net, HOME, via-interface=%TUN%
-host-suffix, qgadmin.qatp1.net, HOME, via-interface=%TUN%
-host-suffix, qgadmin.qcpp1.net, HOME, via-interface=%TUN%
-host-suffix, qgadmin.qpdp1.net, HOME, via-interface=%TUN%
-host-suffix, qiao-cn.com, HOME, via-interface=%TUN%
-host-suffix, qualysapi.qatp1.net, HOME, via-interface=%TUN%
-host-suffix, qualysapi.qcpp1.net, HOME, via-interface=%TUN%
-host-suffix, qualysapi.qpdp1.net, HOME, via-interface=%TUN%
-host-suffix, qualysguard.qatp1.net, HOME, via-interface=%TUN%
-host-suffix, qualysguard.qcpp1.net, HOME, via-interface=%TUN%
-host-suffix, qualysguard.qpdp1.net, HOME, via-interface=%TUN%
-host-suffix, questvisual.com, HOME, via-interface=%TUN%
-host-suffix, quickoffice.com, HOME, via-interface=%TUN%
-host-suffix, quiksee.com, HOME, via-interface=%TUN%
-host-suffix, redhotlabs.com, HOME, via-interface=%TUN%
-host-suffix, redirector.gcpcdn.gvt1.com, HOME, via-interface=%TUN%
-host-suffix, redirector.gvt1.com, HOME, via-interface=%TUN%
-host-suffix, redirector.offline-maps.gvt1.com, HOME, via-interface=%TUN%
-host-suffix, redirector.snap.gvt1.com, HOME, via-interface=%TUN%
-host-suffix, revolv.com, HOME, via-interface=%TUN%
-host-suffix, ridepenguin.com, HOME, via-interface=%TUN%
-host-suffix, run.app, HOME, via-interface=%TUN%
-host-suffix, savethedate.foo, HOME, via-interface=%TUN%
-host-suffix, saynow.com, HOME, via-interface=%TUN%
-host-suffix, scanservice1.qatp1.net, HOME, via-interface=%TUN%
-host-suffix, scanservice1.qcpp1.net, HOME, via-interface=%TUN%
-host-suffix, scanservice1.qpdp1.net, HOME, via-interface=%TUN%
-host-suffix, schema.org, HOME, via-interface=%TUN%
-host-suffix, schemer.com, HOME, via-interface=%TUN%
-host-suffix, screenwisetrends.com, HOME, via-interface=%TUN%
-host-suffix, screenwisetrendspanel.com, HOME, via-interface=%TUN%
-host-suffix, shattered.io, HOME, via-interface=%TUN%
-host-suffix, snapseed.com, HOME, via-interface=%TUN%
-host-suffix, solveforx.com, HOME, via-interface=%TUN%
-host-suffix, stadia.dev, HOME, via-interface=%TUN%
-host-suffix, staging-controlbe.floonet.goog, HOME, via-interface=%TUN%
-host-suffix, staging-databe.floonet.goog, HOME, via-interface=%TUN%
-host-suffix, staging.databe.floonet.goog, HOME, via-interface=%TUN%
-host-suffix, stcroixmosquito.com, HOME, via-interface=%TUN%
-host-suffix, stcroixmosquitoproject.com, HOME, via-interface=%TUN%
-host-suffix, studywatchbyverily.com, HOME, via-interface=%TUN%
-host-suffix, studywatchbyverily.org, HOME, via-interface=%TUN%
-host-suffix, stxmosquito.com, HOME, via-interface=%TUN%
-host-suffix, stxmosquitoproject.com, HOME, via-interface=%TUN%
-host-suffix, stxmosquitoproject.net, HOME, via-interface=%TUN%
-host-suffix, stxmosquitoproject.org, HOME, via-interface=%TUN%
-host-suffix, synergyse.com, HOME, via-interface=%TUN%
-host-suffix, teachparentstech.org, HOME, via-interface=%TUN%
-host-suffix, tensorflow.org, HOME, via-interface=%TUN%
-host-suffix, tfhub.dev, HOME, via-interface=%TUN%
-host-suffix, thecleversense.com, HOME, via-interface=%TUN%
-host-suffix, thinkquarterly.co.uk, HOME, via-interface=%TUN%
-host-suffix, thinkquarterly.com, HOME, via-interface=%TUN%
-host-suffix, tiltbrush.com, HOME, via-interface=%TUN%
-host-suffix, txcloud.net, HOME, via-interface=%TUN%
-host-suffix, txvia.com, HOME, via-interface=%TUN%
-host-suffix, unfiltered.news, HOME, via-interface=%TUN%
-host-suffix, urchin.com, HOME, via-interface=%TUN%
-host-suffix, useplannr.com, HOME, via-interface=%TUN%
-host-suffix, usvimosquito.com, HOME, via-interface=%TUN%
-host-suffix, usvimosquitoproject.com, HOME, via-interface=%TUN%
-host-suffix, v8.dev, HOME, via-interface=%TUN%
-host-suffix, v8project.org, HOME, via-interface=%TUN%
-host-suffix, velostrata.com, HOME, via-interface=%TUN%
-host-suffix, verily.com, HOME, via-interface=%TUN%
-host-suffix, verilylifesciences.com, HOME, via-interface=%TUN%
-host-suffix, verilystudyhub.com, HOME, via-interface=%TUN%
-host-suffix, verilystudywatch.com, HOME, via-interface=%TUN%
-host-suffix, verilystudywatch.org, HOME, via-interface=%TUN%
-host-suffix, wallet.com, HOME, via-interface=%TUN%
-host-suffix, waveprotocol.org, HOME, via-interface=%TUN%
-host-suffix, waymo.com, HOME, via-interface=%TUN%
-host-suffix, waze.com, HOME, via-interface=%TUN%
-host-suffix, web.app, HOME, via-interface=%TUN%
-host-suffix, web.dev, HOME, via-interface=%TUN%
-host-suffix, webappfieldguide.com, HOME, via-interface=%TUN%
-host-suffix, webmproject.org, HOME, via-interface=%TUN%
-host-suffix, webpkgcache.com, HOME, via-interface=%TUN%
-host-suffix, webrtc.org, HOME, via-interface=%TUN%
-host-suffix, weltweitwachsen.de, HOME, via-interface=%TUN%
-host-suffix, whatbrowser.org, HOME, via-interface=%TUN%
-host-suffix, widevine.com, HOME, via-interface=%TUN%
-host-suffix, womenwill.com, HOME, via-interface=%TUN%
-host-suffix, womenwill.com.br, HOME, via-interface=%TUN%
-host-suffix, womenwill.id, HOME, via-interface=%TUN%
-host-suffix, womenwill.in, HOME, via-interface=%TUN%
-host-suffix, womenwill.mx, HOME, via-interface=%TUN%
-host-suffix, www.destinationurl.com, HOME, via-interface=%TUN%
-host-suffix, www.pxcc.com, HOME, via-interface=%TUN%
-host-suffix, x.company, HOME, via-interface=%TUN%
-host-suffix, x.team, HOME, via-interface=%TUN%
-host-suffix, xn--9kr7l.com, HOME, via-interface=%TUN%
-host-suffix, xn--9trs65b.com, HOME, via-interface=%TUN%
-host-suffix, xn--flw351e.com, HOME, via-interface=%TUN%
-host-suffix, xn--ggle-55da.com, HOME, via-interface=%TUN%
-host-suffix, xn--gogl-0nd52e.com, HOME, via-interface=%TUN%
-host-suffix, xn--gogl-1nd42e.com, HOME, via-interface=%TUN%
-host-suffix, xn--ngstr-lra8j.com, HOME, via-interface=%TUN%
-host-suffix, xn--p8j9a0d9c9a.xn--q9jyb4c, HOME, via-interface=%TUN%
-host-suffix, xplr.co, HOME, via-interface=%TUN%
-host-suffix, zukunftswerkstatt.de, HOME, via-interface=%TUN%
-host-suffix, zynamics.com, HOME, via-interface=%TUN%
-host, redirector.gvt1.com, HOME, via-interface=%TUN%
-host, voice.telephony.goog, HOME, via-interface=%TUN%
-ip-cidr, 172.110.32.0/21, HOME, via-interface=%TUN%
-ip-cidr, 173.194.0.0/16, HOME, via-interface=%TUN%
-ip-cidr, 216.73.80.0/20, HOME, via-interface=%TUN%
-ip-cidr, 74.125.0.0/16, HOME, via-interface=%TUN%
-ip6-cidr, 2620:120:e000::/40, HOME, via-interface=%TUN%
-user-agent,  proxy.Drive*, HOME, via-interface=%TUN%
-user-agent, %E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*, HOME, via-interface=%TUN%
+host-keyword, appspot, HOME
+host-keyword, blogspot, HOME
+host-keyword, gmail, HOME
+host-keyword, google, HOME
+host-keyword, recaptcha, HOME
+host-suffix, 0emm.com, HOME
+host-suffix, 1e100.net, HOME
+host-suffix, 1ucrs.com, HOME
+host-suffix, 265.com, HOME
+host-suffix, 2mdn-cn.net, HOME
+host-suffix, 2mdn.net, HOME
+host-suffix, 466453.com, HOME
+host-suffix, abc.xyz, HOME
+host-suffix, admeld.com, HOME
+host-suffix, admob-cn.com, HOME
+host-suffix, admob.com, HOME
+host-suffix, adsense.com, HOME
+host-suffix, adsensecustomsearchads.com, HOME
+host-suffix, adsenseformobileapps.com, HOME
+host-suffix, advertisercommunity.com, HOME
+host-suffix, advertiserscommunity.com, HOME
+host-suffix, adwords-community.com, HOME
+host-suffix, adwords.com, HOME
+host-suffix, adwordsexpress.com, HOME
+host-suffix, ai.ytimg.com, HOME
+host-suffix, amp.dev, HOME
+host-suffix, ampproject.com, HOME
+host-suffix, ampproject.net, HOME
+host-suffix, ampproject.org, HOME
+host-suffix, android.com, HOME
+host-suffix, androidify.com, HOME
+host-suffix, androidtv.com, HOME
+host-suffix, angulardart.org, HOME
+host-suffix, api.ai, HOME
+host-suffix, apigee.com, HOME
+host-suffix, app-measurement-cn.com, HOME
+host-suffix, app-measurement.com, HOME
+host-suffix, app-measurement.net, HOME
+host-suffix, appbridge.ca, HOME
+host-suffix, appbridge.io, HOME
+host-suffix, appbridge.it, HOME
+host-suffix, apps5.oingo.com, HOME
+host-suffix, apture.com, HOME
+host-suffix, area120.com, HOME
+host-suffix, asp-cc.com, HOME
+host-suffix, autodraw.com, HOME
+host-suffix, bandpage.com, HOME
+host-suffix, baselinestudy.com, HOME
+host-suffix, baselinestudy.org, HOME
+host-suffix, bazel.build, HOME
+host-suffix, bdn.dev, HOME
+host-suffix, beacons.gvt2.com, HOME
+host-suffix, beacons2.gvt2.com, HOME
+host-suffix, beacons3.gvt2.com, HOME
+host-suffix, beatthatquote.com, HOME
+host-suffix, blink.org, HOME
+host-suffix, blogblog.com, HOME
+host-suffix, blogger.com, HOME
+host-suffix, brocaproject.com, HOME
+host-suffix, brotli.org, HOME
+host-suffix, bumpshare.com, HOME
+host-suffix, bumptop.ca, HOME
+host-suffix, bumptop.com, HOME
+host-suffix, bumptop.net, HOME
+host-suffix, bumptop.org, HOME
+host-suffix, bumptunes.com, HOME
+host-suffix, campuslondon.com, HOME
+host-suffix, capitalg.com, HOME
+host-suffix, certificate-transparency.dev, HOME
+host-suffix, certificate-transparency.org, HOME
+host-suffix, charlestonroadregistry.com, HOME
+host-suffix, chat.gle, HOME
+host-suffix, chrome.com, HOME
+host-suffix, chromebook.com, HOME
+host-suffix, chromecast.com, HOME
+host-suffix, chromeexperiments.com, HOME
+host-suffix, chromeos.dev, HOME
+host-suffix, chromercise.com, HOME
+host-suffix, chromestatus.com, HOME
+host-suffix, chromium.org, HOME
+host-suffix, chronicle.security, HOME
+host-suffix, chroniclesec.com, HOME
+host-suffix, clickserve.cc-dt.com, HOME
+host-suffix, cloudburstresearch.com, HOME
+host-suffix, cloudfunctions.net, HOME
+host-suffix, cloudproxy.app, HOME
+host-suffix, cloudrobotics.com, HOME
+host-suffix, cobrasearch.com, HOME
+host-suffix, codespot.com, HOME
+host-suffix, conscrypt.com, HOME
+host-suffix, conscrypt.org, HOME
+host-suffix, cookiechoices.org, HOME
+host-suffix, coova.com, HOME
+host-suffix, coova.net, HOME
+host-suffix, coova.org, HOME
+host-suffix, crashlytics.com, HOME
+host-suffix, crbug.com, HOME
+host-suffix, creativelab5.com, HOME
+host-suffix, crossmediapanel.com, HOME
+host-suffix, crr.com, HOME
+host-suffix, crrev.com, HOME
+host-suffix, cs4hs.com, HOME
+host-suffix, dart.dev, HOME
+host-suffix, dartlang.org, HOME
+host-suffix, dartpad.dev, HOME
+host-suffix, dartsearch-cn.net, HOME
+host-suffix, dartsearch.net, HOME
+host-suffix, data-vocabulary.org, HOME
+host-suffix, dataliberation.org, HOME
+host-suffix, debug.com, HOME
+host-suffix, debugproject.com, HOME
+host-suffix, deepmind.com, HOME
+host-suffix, deja.com, HOME
+host-suffix, deps.dev, HOME
+host-suffix, deps.info, HOME
+host-suffix, devsitetest.how, HOME
+host-suffix, dialogflow.com, HOME
+host-suffix, digisfera.com, HOME
+host-suffix, digitalassetlinks.org, HOME
+host-suffix, digitalattackmap.com, HOME
+host-suffix, distribution.qatp1.net, HOME
+host-suffix, distribution.qcpp1.net, HOME
+host-suffix, distribution.qpdp1.net, HOME
+host-suffix, doubleclick-cn.net, HOME
+host-suffix, doubleclick.com, HOME
+host-suffix, doubleclick.net, HOME
+host-suffix, download.qatp1.net, HOME
+host-suffix, download.qcpp1.net, HOME
+host-suffix, download.qpdp1.net, HOME
+host-suffix, episodic.com, HOME
+host-suffix, fastlane.ci, HOME
+host-suffix, fastlane.tools, HOME
+host-suffix, feedburner.com, HOME
+host-suffix, fflick.com, HOME
+host-suffix, financeleadsonline.com, HOME
+host-suffix, firebaseapp.com, HOME
+host-suffix, firebaseio.com, HOME
+host-suffix, flutter.dev, HOME
+host-suffix, flutterapp.com, HOME
+host-suffix, foofle.com, HOME
+host-suffix, froogle.com, HOME
+host-suffix, fuchsia.dev, HOME
+host-suffix, g-tun.com, HOME
+host-suffix, g.cn, HOME
+host-suffix, g.co, HOME
+host-suffix, g.dev, HOME
+host-suffix, g.page, HOME
+host-suffix, gateway.dev, HOME
+host-suffix, gcp.gvt2.com, HOME
+host-suffix, gcr.io, HOME
+host-suffix, gerritcodereview.com, HOME
+host-suffix, get.app, HOME
+host-suffix, get.dev, HOME
+host-suffix, get.how, HOME
+host-suffix, get.page, HOME
+host-suffix, getbumptop.com, HOME
+host-suffix, getmdl.io, HOME
+host-suffix, getoutline.org, HOME
+host-suffix, gipscorp.com, HOME
+host-suffix, gkecnapps.cn, HOME
+host-suffix, globaledu.org, HOME
+host-suffix, gmodules.com, HOME
+host-suffix, go-lang.com, HOME
+host-suffix, go-lang.net, HOME
+host-suffix, go-lang.org, HOME
+host-suffix, go.dev, HOME
+host-suffix, godoc.org, HOME
+host-suffix, gogle.com, HOME
+host-suffix, gogole.com, HOME
+host-suffix, golang.com, HOME
+host-suffix, golang.net, HOME
+host-suffix, golang.org, HOME
+host-suffix, gonglchuangl.net, HOME
+host-suffix, gongyichuangyi.net, HOME
+host-suffix, goo.gl, HOME
+host-suffix, googel.com, HOME
+host-suffix, googil.com, HOME
+host-suffix, googl.com, HOME
+host-suffix, googlr.com, HOME
+host-suffix, goolge.com, HOME
+host-suffix, gooogle.com, HOME
+host-suffix, gridaware.app, HOME
+host-suffix, gsrc.io, HOME
+host-suffix, gstatic-cn.com, HOME
+host-suffix, gstatic.cn, HOME
+host-suffix, gstatic.com, HOME
+host-suffix, gstaticcnapps.cn, HOME
+host-suffix, gsuite.com, HOME
+host-suffix, gv.com, HOME
+host-suffix, gvt0.com, HOME
+host-suffix, gvt1-cn.com, HOME
+host-suffix, gvt2-cn.com, HOME
+host-suffix, gvt3.com, HOME
+host-suffix, gvt5.com, HOME
+host-suffix, gvt6.com, HOME
+host-suffix, gvt7.com, HOME
+host-suffix, gvt9.com, HOME
+host-suffix, gwtproject.org, HOME
+host-suffix, hdrplusdata.org, HOME
+host-suffix, hey.gle, HOME
+host-suffix, hindiweb.com, HOME
+host-suffix, howtogetmo.co.uk, HOME
+host-suffix, html5rocks.com, HOME
+host-suffix, hwgo.com, HOME
+host-suffix, iam.soy, HOME
+host-suffix, iamremarkable.org, HOME
+host-suffix, impermium.com, HOME
+host-suffix, itasoftware.com, HOME
+host-suffix, j2objc.org, HOME
+host-suffix, jibemobile.com, HOME
+host-suffix, kaggle.com, HOME
+host-suffix, kaggle.io, HOME
+host-suffix, keyhole.com, HOME
+host-suffix, keytransparency.com, HOME
+host-suffix, keytransparency.foo, HOME
+host-suffix, keytransparency.org, HOME
+host-suffix, lanternal.com, HOME
+host-suffix, like.com, HOME
+host-suffix, madewithcode.com, HOME
+host-suffix, material.io, HOME
+host-suffix, mdialog.com, HOME
+host-suffix, meet.new, HOME
+host-suffix, mfg-inspector.com, HOME
+host-suffix, mobileview.page, HOME
+host-suffix, monitoring.qatp1.net, HOME
+host-suffix, monitoring.qcpp1.net, HOME
+host-suffix, monitoring.qpdp1.net, HOME
+host-suffix, moodstocks.com, HOME
+host-suffix, near.by, HOME
+host-suffix, nest.com, HOME
+host-suffix, neverware.com, HOME
+host-suffix, nomulus.foo, HOME
+host-suffix, oasisfeng.com, HOME
+host-suffix, oauthz.com, HOME
+host-suffix, ok.gle, HOME
+host-suffix, on.here, HOME
+host-suffix, on2.com, HOME
+host-suffix, onefifteen.net, HOME
+host-suffix, onefifteen.org, HOME
+host-suffix, oneworldmanystories.com, HOME
+host-suffix, opensourceinsight.dev, HOME
+host-suffix, opensourceinsights.dev, HOME
+host-suffix, openthread.io, HOME
+host-suffix, openweave.io, HOME
+host-suffix, orbitera.com, HOME
+host-suffix, page.link, HOME
+host-suffix, pagespeedmobilizer.com, HOME
+host-suffix, pageview.mobi, HOME
+host-suffix, panoramio.com, HOME
+host-suffix, partylikeits1986.org, HOME
+host-suffix, paxlicense.org, HOME
+host-suffix, picasa.com, HOME
+host-suffix, picasaweb.com, HOME
+host-suffix, picasaweb.net, HOME
+host-suffix, picasaweb.org, HOME
+host-suffix, picnik.com, HOME
+host-suffix, pittpatt.com, HOME
+host-suffix, pixate.com, HOME
+host-suffix, pki.goog, HOME
+host-suffix, plus.codes, HOME
+host-suffix, polymer-project.org, HOME
+host-suffix, polymerproject.org, HOME
+host-suffix, postini.com, HOME
+host-suffix, privacysandbox.com, HOME
+host-suffix, prod-controlbe.floonet.goog, HOME
+host-suffix, prod-databe.floonet.goog, HOME
+host-suffix, prod.databe.floonet.goog, HOME
+host-suffix, projectara.com, HOME
+host-suffix, projectbaseline.com, HOME
+host-suffix, publishproxy.com, HOME
+host-suffix, qagpublic.qatp1.net, HOME
+host-suffix, qagpublic.qcpp1.net, HOME
+host-suffix, qagpublic.qpdp1.net, HOME
+host-suffix, qgadmin.qatp1.net, HOME
+host-suffix, qgadmin.qcpp1.net, HOME
+host-suffix, qgadmin.qpdp1.net, HOME
+host-suffix, qiao-cn.com, HOME
+host-suffix, qualysapi.qatp1.net, HOME
+host-suffix, qualysapi.qcpp1.net, HOME
+host-suffix, qualysapi.qpdp1.net, HOME
+host-suffix, qualysguard.qatp1.net, HOME
+host-suffix, qualysguard.qcpp1.net, HOME
+host-suffix, qualysguard.qpdp1.net, HOME
+host-suffix, questvisual.com, HOME
+host-suffix, quickoffice.com, HOME
+host-suffix, quiksee.com, HOME
+host-suffix, redhotlabs.com, HOME
+host-suffix, redirector.gcpcdn.gvt1.com, HOME
+host-suffix, redirector.gvt1.com, HOME
+host-suffix, redirector.offline-maps.gvt1.com, HOME
+host-suffix, redirector.snap.gvt1.com, HOME
+host-suffix, revolv.com, HOME
+host-suffix, ridepenguin.com, HOME
+host-suffix, run.app, HOME
+host-suffix, savethedate.foo, HOME
+host-suffix, saynow.com, HOME
+host-suffix, scanservice1.qatp1.net, HOME
+host-suffix, scanservice1.qcpp1.net, HOME
+host-suffix, scanservice1.qpdp1.net, HOME
+host-suffix, schema.org, HOME
+host-suffix, schemer.com, HOME
+host-suffix, screenwisetrends.com, HOME
+host-suffix, screenwisetrendspanel.com, HOME
+host-suffix, shattered.io, HOME
+host-suffix, snapseed.com, HOME
+host-suffix, solveforx.com, HOME
+host-suffix, stadia.dev, HOME
+host-suffix, staging-controlbe.floonet.goog, HOME
+host-suffix, staging-databe.floonet.goog, HOME
+host-suffix, staging.databe.floonet.goog, HOME
+host-suffix, stcroixmosquito.com, HOME
+host-suffix, stcroixmosquitoproject.com, HOME
+host-suffix, studywatchbyverily.com, HOME
+host-suffix, studywatchbyverily.org, HOME
+host-suffix, stxmosquito.com, HOME
+host-suffix, stxmosquitoproject.com, HOME
+host-suffix, stxmosquitoproject.net, HOME
+host-suffix, stxmosquitoproject.org, HOME
+host-suffix, synergyse.com, HOME
+host-suffix, teachparentstech.org, HOME
+host-suffix, tensorflow.org, HOME
+host-suffix, tfhub.dev, HOME
+host-suffix, thecleversense.com, HOME
+host-suffix, thinkquarterly.co.uk, HOME
+host-suffix, thinkquarterly.com, HOME
+host-suffix, tiltbrush.com, HOME
+host-suffix, txcloud.net, HOME
+host-suffix, txvia.com, HOME
+host-suffix, unfiltered.news, HOME
+host-suffix, urchin.com, HOME
+host-suffix, useplannr.com, HOME
+host-suffix, usvimosquito.com, HOME
+host-suffix, usvimosquitoproject.com, HOME
+host-suffix, v8.dev, HOME
+host-suffix, v8project.org, HOME
+host-suffix, velostrata.com, HOME
+host-suffix, verily.com, HOME
+host-suffix, verilylifesciences.com, HOME
+host-suffix, verilystudyhub.com, HOME
+host-suffix, verilystudywatch.com, HOME
+host-suffix, verilystudywatch.org, HOME
+host-suffix, wallet.com, HOME
+host-suffix, waveprotocol.org, HOME
+host-suffix, waymo.com, HOME
+host-suffix, waze.com, HOME
+host-suffix, web.app, HOME
+host-suffix, web.dev, HOME
+host-suffix, webappfieldguide.com, HOME
+host-suffix, webmproject.org, HOME
+host-suffix, webpkgcache.com, HOME
+host-suffix, webrtc.org, HOME
+host-suffix, weltweitwachsen.de, HOME
+host-suffix, whatbrowser.org, HOME
+host-suffix, widevine.com, HOME
+host-suffix, womenwill.com, HOME
+host-suffix, womenwill.com.br, HOME
+host-suffix, womenwill.id, HOME
+host-suffix, womenwill.in, HOME
+host-suffix, womenwill.mx, HOME
+host-suffix, www.destinationurl.com, HOME
+host-suffix, www.pxcc.com, HOME
+host-suffix, x.company, HOME
+host-suffix, x.team, HOME
+host-suffix, xn--9kr7l.com, HOME
+host-suffix, xn--9trs65b.com, HOME
+host-suffix, xn--flw351e.com, HOME
+host-suffix, xn--ggle-55da.com, HOME
+host-suffix, xn--gogl-0nd52e.com, HOME
+host-suffix, xn--gogl-1nd42e.com, HOME
+host-suffix, xn--ngstr-lra8j.com, HOME
+host-suffix, xn--p8j9a0d9c9a.xn--q9jyb4c, HOME
+host-suffix, xplr.co, HOME
+host-suffix, zukunftswerkstatt.de, HOME
+host-suffix, zynamics.com, HOME
+host, redirector.gvt1.com, HOME
+host, voice.telephony.goog, HOME
+ip-cidr, 172.110.32.0/21, HOME
+ip-cidr, 173.194.0.0/16, HOME
+ip-cidr, 216.73.80.0/20, HOME
+ip-cidr, 74.125.0.0/16, HOME
+ip6-cidr, 2620:120:e000::/40, HOME
+user-agent,  proxy.Drive*, HOME
+user-agent, %E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*, HOME
